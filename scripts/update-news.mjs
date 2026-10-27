@@ -299,6 +299,29 @@ function pickFree(candidates) {
     });
 }
 
+/* ---------------- Bandeira tarifária (dados abertos da ANEEL) ---------------- */
+// A API da ANEEL não libera acesso direto pelo navegador, então o robô busca e grava junto das notícias.
+
+const ANEEL_FLAGS =
+  "https://dadosabertos.aneel.gov.br/api/3/action/datastore_search" +
+  "?resource_id=0591b8f6-fe54-437b-b72b-1aa2efd46e42&sort=DatCompetencia%20desc&limit=1";
+
+async function fetchTariffFlag() {
+  try {
+    const res = await fetch(ANEEL_FLAGS, { headers: { "User-Agent": USER_AGENT }, signal: AbortSignal.timeout(20000) });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const rec = (await res.json()).result.records[0];
+    return {
+      name: rec.NomBandeiraAcionada,
+      month: rec.DatCompetencia.slice(0, 7),
+      extraPerMWh: parseFloat(rec.VlrAdicionalBandeira.replace(",", ".")) || 0,
+    };
+  } catch (err) {
+    console.warn(`Bandeira tarifária indisponível (${err.message}); mantendo a anterior.`);
+    try { return JSON.parse(fs.readFileSync(OUTPUT, "utf8")).tariffFlag || null; } catch { return null; }
+  }
+}
+
 /* ---------------- Execução ---------------- */
 
 async function main() {
@@ -327,6 +350,7 @@ async function main() {
   }
 
   const data = { updatedAt: new Date().toISOString(), ai: useAI, items };
+  if (CONFIG.panel?.tariffFlag) data.tariffFlag = await fetchTariffFlag();
   const tmp = OUTPUT + ".tmp";
   fs.writeFileSync(tmp, JSON.stringify(data, null, 2) + "\n");
   fs.renameSync(tmp, OUTPUT);

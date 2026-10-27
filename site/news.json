@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T19:28:09.421Z",
+  "updatedAt": "2026-10-27T20:05:24.504Z",
   "ai": false,
   "items": [
     {
@@ -39,24 +39,6 @@
       "publishedAt": "2026-10-26T13:59:06.000Z"
     },
     {
-      "title": "PUCRS instala sistema solar de 400 kWp para abastecer projeto de captura de carbono",
-      "summary": "Carports fotovoltaicos cobrem 144 vagas de estacionamento em Porto Alegre e podem gerar cerca de 50 mil kWh por mês; excedente poderá ser…",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/10/26/pucrs-instala-sistema-solar-de-400-kwp-para-abastecer-projeto-de-captura-de-carbono/",
-      "publishedAt": "2026-10-26T12:13:31.000Z"
-    },
-    {
-      "title": "Ponte entre Paraná e Mato Grosso do Sul recebe 227 postes com energia solar e baterias",
-      "summary": "Mais de 150 pontos de iluminação fotovoltaica já foram instalados na ponte Ayrton Senna, de 3,6 km, que liga Guaíra (PR) a Mundo Novo (MS).",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/10/26/ponte-entre-parana-e-mato-grosso-do-sul-recebe-227-postes-com-energia-solar-e-baterias/",
-      "publishedAt": "2026-10-26T11:33:00.000Z"
-    },
-    {
       "title": "Reidi aprova incentivos para 226 MW em dez projetos solares",
       "summary": "Solares | Foto: Tauan Alencar (MME) A Secretaria Nacional de Transição Energética e Planejamento do Ministério de Minas e Energia (MME) aprovou o…",
       "category": "regulacao",
@@ -73,6 +55,24 @@
       "source": "CanalEnergia",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRmNNQUlhUDhvZnVTXzQ3SlY4SEN4NS1DSHlRSXJiZ2JUdEF0OU9CNE5wR1hqVjZtTC05ZElQX3l1dWM1WjYzNmkwdEdVOGJYd0ZIQloxTHBNc3NUdkpUUGxnRk42aC1LMUZXZ0ZjRk1tSWR6M1RGQlFjc283R1VlTkl6QTZ0X25sbGhpZWVkRkZJOC04alY1S1RIU1VfVmJXVUkxUFJIdHFMLWwwSmowaGZWTVdRZw?oc=5",
       "publishedAt": "2026-10-27T12:01:56.000Z"
+    },
+    {
+      "title": "Data centers podem elevar consumo de eletricidade no Brasil a até 134 TWh em 2050",
+      "summary": "Relatório da Statkraft aponta integração de fontes renováveis e flexibilidade do sistema elétrico como desafios para atender à expansão da…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/10/27/data-centers-podem-elevar-consumo-de-eletricidade-no-brasil-a-ate-134-twh-em-2050/",
+      "publishedAt": "2026-10-27T19:47:50.000Z"
+    },
+    {
+      "title": "Aneel propõe consulta sobre fim de descontos de TUST e TUSD para consumidores",
+      "summary": "Proposta prevê restrição do benefício para novos consumidores livres e ampliações de demanda após 25 de novembro de 2025; tratamento da…",
+      "category": "regulacao",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/10/27/aneel-propoe-consulta-sobre-fim-de-descontos-de-tust-e-tusd-para-consumidores/",
+      "publishedAt": "2026-10-27T19:14:23.000Z"
     },
     {
       "title": "AVT firma acordo com Huawei para comercializar sistemas de armazenamento de energia no Brasil",
@@ -92,5 +92,10 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaFc1c243TE1OMHdnam90U0l2ZnVPaHpRaWlQUVFneXoyOXkwUDhPR2RLamhwSDROdEdjNWpILXRWSVZHV2p0WVlPTGw2QTZzZlBBQ2R1dGJrSmdMS1Yxb2JuMXU4dFVROC1KejdrRkhQYWVmUDl5SzNaYzU2ajVFUVJYbzJnM0NyR0JYVlFGTll5aXVVMEdsd2JWWWJHVlh0SU1iMi1faW9oUUZTV0VnczhSSmk5eVd0bEd3TmRyaV9hTlFKbUE?oc=5",
       "publishedAt": "2026-10-26T13:37:07.000Z"
     }
-  ]
+  ],
+  "tariffFlag": {
+    "name": "Verde",
+    "month": "2026-10",
+    "extraPerMWh": 0
+  }
 }

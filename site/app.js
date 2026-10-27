@@ -8,7 +8,9 @@
     refreshMinutes: 10,        // de quanto em quanto tempo busca notícias novas
     reloadHours: 6,            // recarrega a página inteira (evita travamentos da TV)
     maxItems: 12,
-    weatherMinutes: 30         // clima: Open-Meteo (gratuita, sem cadastro)
+    weatherMinutes: 30,        // clima: Open-Meteo (gratuita, sem cadastro)
+    currencyMinutes: 15,       // câmbio: AwesomeAPI (gratuita, sem cadastro)
+    selicHours: 6              // Selic: API do Banco Central (gratuita, sem cadastro)
   };
 
   // Ícones disponíveis para as categorias do config.json
@@ -26,7 +28,7 @@
     carro: '<path d="M5 17h14M3 17v-4l2-5a2 2 0 0 1 1.9-1.4h10.2A2 2 0 0 1 19 8l2 5v4"/><circle cx="7" cy="17" r="2"/><circle cx="17" cy="17" r="2"/>',
     noticia: '<rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 8h10M7 12h10M7 16h6"/>',
 
-
+    // Ícones do clima
     sol: '<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M6.3 17.7l-1.4 1.4M19.1 4.9l-1.4 1.4"/>',
     lua: '<path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/>',
     parcial: '<path d="M12 2v1.5M4.9 4.9l1 1M2 12h1.5M19.1 4.9l-1 1"/><path d="M7.5 11.5a4.5 4.5 0 0 1 8.4-2.3"/><path d="M17 21H9a4 4 0 1 1 .9-7.9A5 5 0 0 1 19.6 14 3.5 3.5 0 0 1 17 21z"/>',
@@ -39,7 +41,7 @@
   var CATEGORIES = {};        // id -> { label, icon }, preenchido a partir do config.json
   var DEFAULT_CATEGORY = '';
 
-  var state = { items: [], index: -1, updatedAt: null, sample: false, timer: null };
+  var state = { items: [], index: -1, updatedAt: null, ai: false, timer: null };
   var $ = function (id) { return document.getElementById(id); };
   var stage = $('stage');
 
@@ -111,7 +113,7 @@
     var c = CONFIG.city;
     var url = 'https://api.open-meteo.com/v1/forecast?latitude=' + c.lat + '&longitude=' + c.lon +
       '&current=temperature_2m,weather_code,is_day' +
-      '&daily=temperature_2m_max,temperature_2m_min,sunshine_duration' +
+      '&daily=temperature_2m_max,temperature_2m_min,sunshine_duration,shortwave_radiation_sum' +
       '&timezone=auto&forecast_days=1';
     getJSON(url, function (data) {
       var cur = data.current, day = data.daily;
@@ -127,6 +129,64 @@
         var sunHours = Math.round((day.sunshine_duration[0] || 0) / 3600);
         $('sun-hours').textContent = sunHours + ' h de sol previstas hoje em ' + c.name;
       }
+
+      if (panel().solarKwp) renderSolar(day.shortwave_radiation_sum[0]);
+    });
+  }
+
+  /* ---------- Painel lateral ---------- */
+  function panel() { return CONFIG.panel || {}; }
+
+  function decimal(n, digits) { return n.toFixed(digits).replace('.', ','); }
+
+  // Estimativa simples: potência (kWp) × irradiação do dia (kWh/m²) × 0,8 de perdas do sistema
+  function renderSolar(radiationMJ) {
+    if (!radiationMJ) return;
+    var kwp = panel().solarKwp;
+    var kwh = Math.round(kwp * (radiationMJ / 3.6) * 0.8);
+    var el = $('ind-solar');
+    el.querySelector('.ind-label').textContent = 'Geração hoje';
+    el.querySelector('.ind-value').textContent = '≈ ' + kwh + ' kWh';
+    el.querySelector('.ind-note').textContent = 'sistema de ' + kwp + ' kWp em ' + CONFIG.city.name;
+    el.hidden = false;
+  }
+
+  function renderFlag(flag) {
+    if (!panel().tariffFlag || !flag || !flag.name) return;
+    var el = $('ind-flag');
+    var month = MONTHS[parseInt(flag.month.slice(5, 7), 10) - 1] || '';
+    var color = flag.name.toLowerCase().split(' ')[0];
+    el.querySelector('.ind-label').textContent = 'Bandeira · ' + month;
+    el.querySelector('.flag-dot').className = 'flag-dot flag-' + color;
+    el.querySelector('.flag-name').textContent = flag.name;
+    el.querySelector('.ind-note').textContent = flag.extraPerMWh > 0 ?
+      '+ R$ ' + decimal(flag.extraPerMWh / 10, 2) + ' a cada 100 kWh' : 'sem cobrança extra na conta';
+    el.hidden = false;
+  }
+
+  function loadSelic() {
+    getJSON('https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados/ultimos/1?formato=json', function (data) {
+      var rate = data && data[0] && parseFloat(data[0].valor);
+      if (!rate) return;
+      var el = $('ind-selic');
+      el.querySelector('.ind-value').textContent = decimal(rate, 2) + '% a.a.';
+      el.hidden = false;
+    });
+  }
+
+  /* ---------- Câmbio ---------- */
+  function showRate(id, quote) {
+    var bid = quote && parseFloat(quote.bid);
+    if (!bid) return;
+    var el = $(id);
+    el.querySelector('.stat-value').textContent = 'R$ ' + bid.toFixed(2).replace('.', ',');
+    el.hidden = false;
+  }
+
+  function loadCurrency() {
+    getJSON('https://economia.awesomeapi.com.br/json/last/USD-BRL,EUR-BRL', function (data) {
+      showRate('usd', data.USDBRL);
+      showRate('eur', data.EURBRL);
     });
   }
 
@@ -136,9 +196,9 @@
       if (data.updatedAt !== state.updatedAt) {
         state.items = (data.items || []).slice(0, CONFIG.maxItems);
         state.updatedAt = data.updatedAt;
-        state.sample = !!data.sample;
         state.ai = !!data.ai;
         renderFooter();
+        renderFlag(data.tariffFlag);
         buildProgress();
         if (state.index === -1 || state.index >= state.items.length) {
           state.index = -1;
@@ -153,8 +213,7 @@
     var d = new Date(state.updatedAt);
     var text = isNaN(d.getTime()) ? '' :
       'Atualizado às ' + pad(d.getHours()) + ':' + pad(d.getMinutes()) + (state.ai ? ' · resumos por IA' : '');
-    $('updated').innerHTML = escapeHtml(text) +
-      (state.sample ? '<span class="tag">PROTÓTIPO · notícias de exemplo</span>' : '');
+    $('updated').textContent = text;
   }
 
   /* ---------- Carrossel ---------- */
@@ -236,7 +295,6 @@
 
     var c = CONFIG.colors || {}, root = document.documentElement.style;
     if (c.background) root.setProperty('--fundo', c.background);
-    if (c.glow) root.setProperty('--brilho', c.glow);
     if (c.accent) root.setProperty('--destaque', c.accent);
     if (c.highlight) root.setProperty('--icone', c.highlight);
 
@@ -254,6 +312,19 @@
     loadWeather();
     setInterval(loadNews, CONFIG.refreshMinutes * 60000);
     setInterval(loadWeather, CONFIG.weatherMinutes * 60000);
+    var p = panel();
+    if (p.tariffFlag || p.selic || p.solarKwp) {
+      $('panel').hidden = false;
+      stage.className = 'has-panel';
+    }
+    if (p.selic) {
+      loadSelic();
+      setInterval(loadSelic, CONFIG.selicHours * 3600000);
+    }
+    if (CONFIG.showCurrency) {
+      loadCurrency();
+      setInterval(loadCurrency, CONFIG.currencyMinutes * 60000);
+    }
   }
 
   /* ---------- Início ---------- */

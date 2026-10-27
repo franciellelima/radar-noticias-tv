@@ -4,13 +4,14 @@
 
   "colors": {
     "background": "#0b1220",
-    "glow": "#1e3a8a",
     "accent": "#7cc4ff",
     "highlight": "#ffd166"
   },
 
   "city": { "name": "São Paulo", "lat": -23.55, "lon": -46.63 },
   "showSunHours": true,
+  "showCurrency": true,
+  "panel": { "tariffFlag": true, "selic": true, "solarKwp": 5 },
   "slideSeconds": 15,
 
   "topic": {

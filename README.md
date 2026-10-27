@@ -2,8 +2,11 @@
 
 Uma tela de notícias para a TV do escritório, sobre o tema que você quiser. Gratuita, automática e sem servidor.
 
+![Tela do Radar Solar: notícia em destaque, cotações, clima e painel lateral](docs/tela.png)
+
 - Lê os portais do seu setor a cada 2 horas e escolhe as 10 notícias mais relevantes dos últimos 3 dias.
 - Mostra uma notícia por vez, com QR code para ler no celular, além de data, hora e clima da sua cidade.
+- Pode mostrar também a cotação do dólar e do euro e um painel lateral com bandeira tarifária, taxa Selic e estimativa de geração solar do dia.
 - Funciona no navegador de Smart TVs, inclusive modelos antigos.
 - Custo zero: roda no GitHub Actions e é publicado no Cloudflare Pages, ambos no plano gratuito.
 - Opcional: com uma chave da Anthropic, o Claude escolhe as notícias, reescreve os resumos e traduz notícias internacionais.
@@ -26,9 +29,11 @@ O exemplo que vem configurado é um radar do mercado de energia solar no Brasil.
 |---|---|
 | `name` | Nome exibido no topo da tela, quando não há logo. |
 | `logo` | Caminho de uma imagem dentro de `site/`, por exemplo `"assets/logo.svg"`. Deixe `""` para mostrar o nome. |
-| `colors` | `background` (fundo), `glow` (brilho no canto), `accent` (categoria da notícia) e `highlight` (ícone do clima). |
+| `colors` | `background` (fundo), `accent` (categoria da notícia) e `highlight` (ícone do clima, barra de progresso e detalhes). |
 | `city` | Cidade do clima, com latitude e longitude. |
 | `showSunHours` | Mostra no rodapé as horas de sol previstas para o dia. |
+| `showCurrency` | Mostra no topo a cotação do dólar e do euro em reais, atualizada a cada 15 minutos. |
+| `panel` | Painel na lateral direita. `tariffFlag` mostra a bandeira tarifária do mês (ANEEL), `selic` mostra a taxa Selic (Banco Central) e `solarKwp` mostra quanto um sistema dessa potência deve gerar hoje na sua cidade. Use `false` (ou `0` em `solarKwp`) para esconder um item; sem nenhum, o painel some e a notícia ocupa a tela toda. A bandeira é buscada pelo robô e só aparece depois que ele rodar. |
 | `slideSeconds` | Tempo de cada notícia na tela. |
 | `topic.audience` | Quem lê a TV. Usado só no modo com IA. |
 | `topic.priorities` | Que assuntos priorizar. Usado só no modo com IA. |
@@ -72,11 +77,38 @@ python3 -m http.server 8080 --directory site
 
 Depois abra `http://localhost:8080`.
 
+## De onde vêm os dados
+
+Todas as fontes são gratuitas e não pedem cadastro.
+
+| Dado | Fonte |
+|---|---|
+| Notícias | Feeds RSS e Google Notícias, definidos em `feeds` |
+| Clima, horas de sol e irradiação | [Open-Meteo](https://open-meteo.com) |
+| Dólar e euro | [AwesomeAPI](https://docs.awesomeapi.com.br) |
+| Selic | [API do Banco Central](https://dadosabertos.bcb.gov.br) (série 432) |
+| Bandeira tarifária | [Dados abertos da ANEEL](https://dadosabertos.aneel.gov.br) |
+
 ## Ajustes avançados
 
 - **Horários do robô:** linha `cron` em `.github/workflows/update-news.yml`. O padrão é a cada 2 horas, das 7h às 19h de Brasília, de segunda a sexta.
 - **Quantidade de notícias e janela de tempo:** constantes no topo de `scripts/update-news.mjs`.
 - **Tamanhos e layout:** `site/styles.css`. A tela é desenhada em 1920×1080 e se ajusta a qualquer TV.
+
+## Estrutura do projeto
+
+```
+site/                     a página publicada na TV
+  index.html              estrutura da tela
+  styles.css              visual (palco fixo de 1920×1080)
+  app.js                  carrossel, relógio, clima, câmbio e painel
+  config.json             tema, cores, cidade e fontes de notícias
+  news.json               notícias escolhidas (gravado pelo robô)
+scripts/update-news.mjs   robô que coleta e escolhe as notícias
+.github/workflows/        agenda do robô no GitHub Actions
+```
+
+O `app.js` é escrito em JavaScript simples, sem recursos modernos, para funcionar nos navegadores de Smart TVs antigas. Mantenha esse estilo ao fazer mudanças.
 
 ## Licença
 
