@@ -1,0 +1,16 @@
+{
+  "name": "radar-noticias-tv",
+  "private": true,
+  "type": "module",
+  "description": "Tela de notícias para TV: coleta notícias de qualquer tema, filtra e publica automaticamente.",
+  "scripts": {
+    "update": "node scripts/update-news.mjs",
+    "dry-run": "node scripts/update-news.mjs --dry-run"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.3.0"
+  }
+}

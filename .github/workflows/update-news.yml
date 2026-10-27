@@ -1,0 +1,43 @@
+# Atualiza as notícias e salva site/news.json no repositório.
+# O Cloudflare Pages publica a página sozinho a cada envio para a branch main.
+name: Atualizar notícias
+
+on:
+  schedule:
+    # A cada 2 horas, das 7h às 19h (horário de Brasília = UTC-3), de segunda a sexta
+    - cron: "0 10-22/2 * * 1-5"
+  workflow_dispatch: # botão "Run workflow" para rodar na hora
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # Sem o segredo ANTHROPIC_API_KEY, o robô usa o modo gratuito (sem IA)
+      - name: Coletar notícias
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/update-news.mjs
+
+      - name: Salvar notícias no repositório
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add site/news.json
+          git diff --cached --quiet || git commit -m "Atualiza notícias"
+          git push

@@ -1,0 +1,239 @@
+/* Cores padrão; o app.js troca pelas cores definidas em config.json */
+:root {
+  --fundo: #0b1220;
+  --brilho: #1e3a8a;
+  --destaque: #7cc4ff;  /* categoria da notícia */
+  --icone: #ffd166;     /* ícone do clima */
+  --branco: #ffffff;
+  --texto-2: rgba(255, 255, 255, 0.68);
+  --texto-3: rgba(255, 255, 255, 0.45);
+  --linha: rgba(255, 255, 255, 0.1);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: var(--fundo);
+  color: var(--branco);
+  font-family: "Sora", "Segoe UI", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+[hidden] { display: none !important; }
+
+/* Palco fixo em 1920x1080, escalado pelo app.js para caber em qualquer TV */
+#stage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  transform-origin: 0 0;
+  overflow: hidden;
+  background: var(--fundo);
+}
+
+.glow {
+  position: absolute;
+  width: 1600px;
+  height: 1200px;
+  right: -560px;
+  top: -640px;
+  border-radius: 50%;
+  background: radial-gradient(closest-side, var(--brilho), var(--fundo) 100%);
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+/* ---------- Topo: logo + barra de status ---------- */
+.top {
+  position: absolute;
+  top: 72px;
+  left: 120px;
+  right: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo { height: 56px; width: auto; display: block; }
+.brand-name { font-size: 40px; font-weight: 700; letter-spacing: -0.02em; }
+
+.status { display: flex; align-items: center; }
+.stat {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding-left: 44px;
+  margin-left: 44px;
+  border-left: 1px solid var(--linha);
+}
+.stat:first-child { border-left: 0; margin-left: 0; }
+.stat-label {
+  order: -1;
+  margin-bottom: 6px;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  color: var(--texto-3);
+}
+.stat-value { font-size: 48px; font-weight: 500; letter-spacing: -0.02em; line-height: 1; }
+
+.stat.weather {
+  flex-direction: row;
+  align-items: center;
+}
+/* Espaçamentos com margin em vez de gap: o navegador das TVs Samsung não suporta gap em flexbox */
+.weather .stat-value { margin-left: 20px; font-size: 64px; }
+.weather .stat-label { order: 2; margin: 0 0 0 20px; font-size: 28px; }
+.weather-icon { width: 76px; height: 76px; color: var(--icone); }
+.weather-icon svg { width: 100%; height: 100%; display: block; }
+
+.clock .stat-value { font-weight: 600; }
+
+/* ---------- Notícia ---------- */
+.feature {
+  position: absolute;
+  left: 120px;
+  right: 120px;
+  top: 200px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.feature.leaving { animation: leave 0.7s ease forwards; }
+.feature.entering { animation: enter 1s cubic-bezier(0.2, 0.7, 0.2, 1) both; }
+@keyframes leave {
+  to { opacity: 0; transform: translateY(-16px); }
+}
+@keyframes enter {
+  from { opacity: 0; transform: translateY(28px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.eyebrow {
+  display: flex;
+  align-items: center;
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--destaque);
+}
+.eyebrow svg { width: 26px; height: 26px; }
+.eyebrow > * + * { margin-left: 12px; }
+.eyebrow .sep { color: var(--texto-3); }
+.eyebrow .region { color: var(--texto-3); }
+
+.title {
+  margin-top: 32px;
+  max-width: 1560px;
+  font-size: 84px;
+  font-weight: 600;
+  line-height: 1.08;
+  letter-spacing: -0.03em;
+  text-wrap: balance;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.title.long { font-size: 72px; }
+
+.summary {
+  margin-top: 36px;
+  max-width: 1240px;
+  font-size: 36px;
+  font-weight: 300;
+  line-height: 1.45;
+  color: var(--texto-2);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ---------- Rodapé ---------- */
+.bottom {
+  position: absolute;
+  left: 120px;
+  right: 120px;
+  bottom: 56px;
+}
+
+.source-row {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-bottom: 32px;
+}
+.source { font-size: 24px; color: var(--texto-3); }
+.source #f-source { color: var(--texto-2); font-weight: 500; }
+.source .sep { margin: 0 10px; }
+
+.qr-wrap { display: flex; align-items: center; }
+.qr-caption { margin-right: 20px; font-size: 18px; color: var(--texto-3); white-space: nowrap; }
+.qr {
+  width: 112px;
+  height: 112px;
+  padding: 10px;
+  border-radius: 16px;
+  background: var(--branco);
+}
+.qr img, .qr canvas { width: 92px !important; height: 92px !important; display: block; }
+
+.progress { display: flex; }
+.progress .seg + .seg { margin-left: 8px; }
+.progress .seg {
+  flex: 1;
+  height: 3px;
+  border-radius: 2px;
+  background: var(--linha);
+  overflow: hidden;
+}
+.progress .seg.done { background: rgba(255, 255, 255, 0.35); }
+.progress .seg i {
+  display: block;
+  height: 100%;
+  width: 0;
+  background: var(--branco);
+}
+.progress .seg.active i { animation-name: fill; animation-timing-function: linear; animation-fill-mode: forwards; }
+@keyframes fill { to { width: 100%; } }
+
+.footer-row {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 18px;
+  font-size: 18px;
+  color: var(--texto-3);
+}
+.footer-row .tag {
+  margin-left: 12px;
+  padding: 2px 12px;
+  border-radius: 999px;
+  background: var(--icone);
+  color: var(--fundo);
+  font-weight: 600;
+}
+
+/* ---------- Estado vazio ---------- */
+.empty {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: var(--fundo);
+}
+.empty .logo { height: 160px; }
+.empty .brand-name { font-size: 96px; }
+.empty p { margin-top: 40px; font-size: 28px; color: var(--texto-3); }
+.is-empty .empty { display: flex; }

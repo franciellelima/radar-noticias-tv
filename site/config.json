@@ -1,0 +1,43 @@
+{
+  "name": "Radar Solar",
+  "logo": "",
+
+  "colors": {
+    "background": "#0b1220",
+    "glow": "#1e3a8a",
+    "accent": "#7cc4ff",
+    "highlight": "#ffd166"
+  },
+
+  "city": { "name": "São Paulo", "lat": -23.55, "lon": -46.63 },
+  "showSunHours": true,
+  "slideSeconds": 15,
+
+  "topic": {
+    "audience": "a equipe de uma empresa de energia solar no Brasil",
+    "priorities": "mercado solar brasileiro, geração distribuída, regulação (ANEEL, leis, tarifas), preços de equipamentos, financiamento, armazenamento/baterias e novas tecnologias fotovoltaicas",
+    "keywords": ["solar", "solares", "fotovolt*", "geração distribuída", "microgeração", "minigeração", "inversor*", "baterias", "bateria", "armazenamento", "bess", "agrivolt*", "renováve*", "energia limpa", "transição energética"],
+    "titleKeywords": ["solar", "solares", "fotovolt*", "geração distribuída", "microgeração", "minigeração"],
+    "specialistSources": ["PV Magazine Brasil", "ABSOLAR", "Canal Solar", "Portal Solar"],
+    "maxInternational": 3
+  },
+
+  "categories": [
+    { "id": "armazenamento", "label": "Armazenamento", "icon": "bateria", "keywords": ["bateria", "baterias", "armazenamento", "bess"] },
+    { "id": "regulacao", "label": "Regulação", "icon": "documento", "keywords": ["aneel", "mme", "lei", "projeto de lei", "regra*", "regula*", "resolução", "consulta pública", "leilão", "leilões", "tarifa*", "subsídio*", "governo"] },
+    { "id": "precos", "label": "Preços", "icon": "moeda", "keywords": ["preço", "preços", "custo", "custos", "barat*", "caro", "cara", "queda", "alta", "câmbio", "dólar"] },
+    { "id": "tecnologia", "label": "Tecnologia", "icon": "lampada", "keywords": ["tecnologia*", "célula*", "perovskita", "topcon", "eficiência", "pesquisa*", "cientista*", "inova*"] },
+    { "id": "mercado", "label": "Mercado", "icon": "grafico", "keywords": [] }
+  ],
+
+  "feeds": [
+    { "name": "PV Magazine Brasil", "url": "https://www.pv-magazine-brasil.com/feed/", "region": "BR" },
+    { "name": "MegaWhat", "url": "https://megawhat.energy/feed/", "region": "BR" },
+    { "name": "ABSOLAR", "url": "https://www.absolar.org.br/feed/", "region": "BR" },
+    { "name": "Agência Brasil", "url": "https://agenciabrasil.ebc.com.br/rss/economia/feed.xml", "region": "BR" },
+    { "name": "Google Notícias", "googleNews": "site:canalsolar.com.br OR site:portalsolar.com.br OR site:canalenergia.com.br", "region": "BR" },
+    { "name": "PV Tech", "url": "https://www.pv-tech.org/feed/", "region": "INT" },
+    { "name": "Energy-Storage.news", "url": "https://www.energy-storage.news/feed/", "region": "INT" },
+    { "name": "Electrek", "url": "https://electrek.co/guides/solar-power/feed/", "region": "INT" }
+  ]
+}

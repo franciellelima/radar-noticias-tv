@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Radar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="stage">
+    <div class="glow"></div>
+
+    <header class="top">
+      <div class="brand" id="brand"></div>
+
+      <div class="status">
+        <div class="stat weather" id="weather" hidden>
+          <span class="weather-icon"></span>
+          <span class="stat-value"></span>
+          <span class="stat-label weather-range"></span>
+        </div>
+        <div class="stat clock">
+          <span class="stat-value" id="clock-time">--:--</span>
+          <span class="stat-label" id="clock-date"></span>
+        </div>
+      </div>
+    </header>
+
+    <main class="feature" id="feature">
+      <div class="eyebrow" id="f-eyebrow"></div>
+      <h1 class="title" id="f-title"></h1>
+      <p class="summary" id="f-summary"></p>
+    </main>
+
+    <footer class="bottom">
+      <div class="source-row">
+        <div class="source">
+          <span id="f-source"></span>
+          <span class="sep">·</span>
+          <span id="f-time"></span>
+        </div>
+        <div class="qr-wrap">
+          <span class="qr-caption">Leia no celular</span>
+          <div id="qr" class="qr"></div>
+        </div>
+      </div>
+      <div class="progress" id="progress"></div>
+      <div class="footer-row">
+        <span id="updated"></span>
+        <span id="sun-hours"></span>
+      </div>
+    </footer>
+
+    <div class="empty" id="empty">
+      <div class="brand" id="empty-brand"></div>
+      <p>Buscando as notícias…</p>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
