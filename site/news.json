@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-10-27T20:10:22.767Z",
+  "updatedAt": "2026-10-28T01:02:09.797Z",
   "ai": false,
   "items": [
+    {
+      "title": "Sua usina solar está preparada para enfrentar um temporal?",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmVDJqTVhUUVNacE1udTQ2U1RNZjg4R0x2aVY5dnZnQzY2VHdYZnhjMC00RTYyV1RDb18wWFg1Q1QzRVgtcEFfOFJkcWdSWHJBenVkUjdaRkhFS0w2S1k2VnJXTFlCNllzbGFfQlNmQkRUR2NUeWRJ?oc=5",
+      "publishedAt": "2026-10-27T18:20:57.000Z"
+    },
     {
       "title": "Plano nacional: matriz elétrica até 99% limpa, avanço da solar e expansão do armazenamento",
       "summary": "",
@@ -10,15 +19,6 @@
       "source": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1obmR4S0ZESU9nanVMbXBDcTR5cnAzbG5YZ0JDYVA5ck1UbU13OVlVTER0eWZkQXl2d0ZrYk9zai15RmtqcXNkQjAxZDV4TjdENlZpMFdzOEJ5TTFkdENKQnJXdVpSV2RMZ2t5TFBXOHYxc3JKbDlRejR3?oc=5",
       "publishedAt": "2026-10-27T17:32:00.000Z"
-    },
-    {
-      "title": "Sua usina solar está preparada para enfrentar um temporal?",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmVDJqTVhUUVNacE1udTQ2U1RNZjg4R0x2aVY5dnZnQzY2VHdYZnhjMC00RTYyV1RDb18wWFg1Q1QzRVgtcEFfOFJkcWdSWHJBenVkUjdaRkhFS0w2S1k2VnJXTFlCNllzbGFfQlNmQkRUR2NUeWRJ?oc=5",
-      "publishedAt": "2026-10-27T16:40:57.000Z"
     },
     {
       "title": "Quem paga quando o telhado infiltra após a instalação do sistema fotovoltaico?",
@@ -84,13 +84,13 @@
       "publishedAt": "2026-10-27T13:42:52.000Z"
     },
     {
-      "title": "Apagões em São Paulo: Procon mantém multa de R$ 11,4 milhões contra Enel",
+      "title": "LRCAP de baterias terá preços teto de R$1,76 mi e R$ 1,58mi/MW.ano",
       "summary": "",
-      "category": "mercado",
+      "category": "armazenamento",
       "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaFc1c243TE1OMHdnam90U0l2ZnVPaHpRaWlQUVFneXoyOXkwUDhPR2RLamhwSDROdEdjNWpILXRWSVZHV2p0WVlPTGw2QTZzZlBBQ2R1dGJrSmdMS1Yxb2JuMXU4dFVROC1KejdrRkhQYWVmUDl5SzNaYzU2ajVFUVJYbzJnM0NyR0JYVlFGTll5aXVVMEdsd2JWWWJHVlh0SU1iMi1faW9oUUZTV0VnczhSSmk5eVd0bEd3TmRyaV9hTlFKbUE?oc=5",
-      "publishedAt": "2026-10-26T13:37:07.000Z"
+      "source": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPai1FRVo4ajFfYk1YTFNaUFhfcm9wNnBzQmpHSm0xTlUxdWxkUzY4SFZPS0laa01mVmtFMDJGNmNfNjJvMXQtM2RGaFFjZWctY2o3U3FHR1E4V19HXzhJRTl0RzVXTEVES2xZQ1pqTmY4QUU1RTI5N0tmRTloZ1NYWTdLR0xKQUFXeWNMZlJQOVF1X3R2VmYyVG1hRUVfTFBk?oc=5",
+      "publishedAt": "2026-10-27T22:46:27.000Z"
     }
   ],
   "tariffFlag": {
