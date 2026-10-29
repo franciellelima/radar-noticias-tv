@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-29T16:43:55.022Z",
+  "updatedAt": "2026-10-29T22:34:03.760Z",
   "ai": false,
   "items": [
+    {
+      "title": "Banco BV promove Feirão Solar com taxas reduzidas e primeira parcela para financiamento em até 120 dias",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXMm14dDE2MDF3Yjkzcl90dzZWWTNfVVBsam0wblg3TVhSYmQ5eHBrTkVjaXMyX0hrR2JRWmk0WUI0UmRoQlBYUHpMaXV2UkMxVHd0d0w1bDhoMmFfZTc5SmhsTnVSSUY0SzF3TGNFZw?oc=5",
+      "publishedAt": "2026-10-29T19:38:16.000Z"
+    },
+    {
+      "title": "Energia solar sem telhado: o caso de uma chácara em Sinop",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Portal Solar",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUWNCLW5IUUh4cm1SV0RlMHpUZHhHMGphY2hDRktXQ0FhUjh6VmFkMUkwc0kxYk5sOUMyMk5sUVlua216VVVQQTUwMW9fMG5lLUV1dDlXOEc2Smp6UENDeXZyVF8zcUlRNkg3ZFZyMjlmdjVlbHBJX2hjNDlJNEYyQ1hUMGdmNHNYVXE2ZXhqZWxfMXVaOXdjekpKc0FHaDhfbklwQzVWQUdERUxGZmxpeDJJV3BzZHpTb1p6bnRBMVZNSlk4bEVQaVg4V3Yxc2tLblRSaFlpb0NBcW5RWW4zNjRPanZxNHFseFkwSg?oc=5",
+      "publishedAt": "2026-10-29T18:29:09.000Z"
+    },
     {
       "title": "Cooperativa adota energia solar por assinatura em 27 unidades no Espírito Santo",
       "summary": "Acordo entre Nater Coop e Fortlev Solar prevê geração anual de 792 MWh e redução estimada de 36,5 toneladas de CO₂, além de ampliar o uso de…",
@@ -57,15 +75,6 @@
       "publishedAt": "2026-10-28T13:41:47.000Z"
     },
     {
-      "title": "MME enquadra 225,9 MW de usinas solares no Reidi e estima redução de R$ 66,9 milhões no CAPEX",
-      "summary": "Home Dez empreendimentos na Bahia e em São Paulo terão suspensão de PIS/Pasep e Cofins sobre investimentos elegíveis; Aneel também libera retorno…",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "ABSOLAR",
-      "url": "https://www.absolar.org.br/noticias-externas/mme-enquadra-2259-mw-de-usinas-solares-no-reidi-e-estima-reducao-de-r-669-milhoes-no-capex/",
-      "publishedAt": "2026-10-28T13:32:10.000Z"
-    },
-    {
       "title": "EDP fecha autoprodução solar com a Motiva para abastecer rodovias, trens e metrôs",
       "summary": "Motiva Escritório / Crédito: Charles Trigueiro (Divulgação) A EDP e a Motiva firmaram um contrato de autoprodução por arrendamento de energia…",
       "category": "mercado",
@@ -75,22 +84,13 @@
       "publishedAt": "2026-10-29T13:41:24.000Z"
     },
     {
-      "title": "GD após 2029 e a definição do valor econômico da compensação de energia",
+      "title": "Aneel libera operação de usinas solares em SP e suspende usina termelétrica no RJ",
       "summary": "",
-      "category": "mercado",
+      "category": "regulacao",
       "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtZmlqbjJLZ2x0ZVJqWUFLLTVobDlCMWk2bGZGRkNrY0k1WkFaZEs3elRzbXBBZXhVVEdtWWFmWFFvZzZqUUxZMkhYNmc4ay0teWtnMVMyY2FwcmpiT3hjMkNVZWs1LVFyT2FURkx2S3NvX1U?oc=5",
-      "publishedAt": "2026-10-29T14:31:32.000Z"
-    },
-    {
-      "title": "Baterias em sistemas de armazenamento: os detalhes que fazem a diferença",
-      "summary": "",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVmQ2SmhvNDNvRDI2S3pWS0xLWVVfbzVLZDVkLURaUFhaVThrQkI0bTgtOFdVeFBMZVlJRlJyRWhQMWlkVmo1ZEtmYmV1UVZJejdzVmk5czNpMmM0bXJMbkxOaW5QZm0welhJa2Ytb1dHYms1MXVEV1JQOGdnSk1rQ05uRVE0VFkxX0NITWhfT3g?oc=5",
-      "publishedAt": "2026-10-29T13:27:40.000Z"
+      "source": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOXg4ZlA5YlYySGlsTVlqa3hEd19hcEhUZC1PeDlqSTNNbGM5VnZHVWhzYmRQMXU2a3NNV2pHM2NqY2dJUmxkcUpiUFdVQ0h3dnNEVUdfMnBNTzF5cHRDMTY4VTlhVE83MWNEdUxVV21ybDNmRlFGcDNQV3NfbXR2SWJZR1hCSVdHQXA3d3hVY0FOYUZYcFJFd0pfVXhiOElTbmprbGNZT0pxcXV4RURLbWtCMVNrcnFiZ3VnTmZOSTh2WS1WbUdSSTB4QQ?oc=5",
+      "publishedAt": "2026-10-28T18:04:01.000Z"
     }
   ],
   "tariffFlag": {
