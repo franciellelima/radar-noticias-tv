@@ -1,15 +1,33 @@
 {
-  "updatedAt": "2026-10-28T22:20:37.897Z",
+  "updatedAt": "2026-10-29T16:43:55.022Z",
   "ai": false,
   "items": [
     {
-      "title": "Sob novo CEO, Aldo Solar reforça relacionamento com integradores e retoma Aldólares",
-      "summary": "Marcelo Diniz (direita) substitui Patrick von Schaaffhausen (esquerda) assumindo a liderança no dia 1º de novembro com foco na fidelização de…",
-      "category": "armazenamento",
+      "title": "Cooperativa adota energia solar por assinatura em 27 unidades no Espírito Santo",
+      "summary": "Acordo entre Nater Coop e Fortlev Solar prevê geração anual de 792 MWh e redução estimada de 36,5 toneladas de CO₂, além de ampliar o uso de…",
+      "category": "mercado",
       "region": "BR",
       "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/10/28/sob-novo-ceo-aldo-solar-reforca-relacionamento-com-integradores-e-retoma-aldolares/",
-      "publishedAt": "2026-10-28T15:01:44.000Z"
+      "url": "https://www.pv-magazine-brasil.com/2026/10/29/cooperativa-adota-energia-solar-por-assinatura-em-27-unidades-no-espirito-santo/",
+      "publishedAt": "2026-10-29T12:12:57.000Z"
+    },
+    {
+      "title": "Método com sais fundidos e sem ácidos recupera 94% da prata de células solares",
+      "summary": "Pesquisadores na China recuperaram 94,34% da prata de células solares de silício cristalino por meio de um processo com sais fundidos, sem uso de…",
+      "category": "tecnologia",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/10/29/acid-free-molten-salt-method-recovers-94-of-silver-from-solar-cells/",
+      "publishedAt": "2026-10-29T10:24:00.000Z"
+    },
+    {
+      "title": "Nova tecnologia de revestimento pode reduzir em até 40% o uso de vidro em módulos fotovoltaicos",
+      "summary": "A startup alemã Exxosqel desenvolveu uma tecnologia de revestimento que reforça o vidro solar ao atuar sobre microfissuras na superfície.",
+      "category": "tecnologia",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/10/29/new-coating-technology-could-reduce-glass-usage-in-photovoltaic-modules-by-up-to-40/",
+      "publishedAt": "2026-10-29T10:24:00.000Z"
     },
     {
       "title": "Aldo Solar anuncia Marcelo Diniz como novo CEO e prepara nova fase de crescimento",
@@ -19,15 +37,6 @@
       "source": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11OGgtVXNxMmZDUVQ2RjFhWDBBcTRNQy1IemlVZ1U0YVlQb2FoYklRc093eFhHMEl4ZVdoWUVfQzRPWmEwYk84VEczbkdFRmktSW1KVVFNQXZiSTVNMjNnNTRyWWU5Smpm?oc=5",
       "publishedAt": "2026-10-28T14:55:34.000Z"
-    },
-    {
-      "title": "Ourolux amplia portfólio solar com inversores e baterias da GoodWe",
-      "summary": "Distribuidora passa a oferecer equipamentos de 3,3 kW a 250 kW, inversores híbridos, sistemas de monitoramento e dispositivos de desligamento…",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/10/28/ourolux-amplia-portfolio-solar-com-inversores-e-baterias-da-goodwe/",
-      "publishedAt": "2026-10-28T14:03:07.000Z"
     },
     {
       "title": "Bárbara Rubim | Com a realidade dos cortes de geração, qual é o principal desafio do setor solar?",
@@ -57,40 +66,31 @@
       "publishedAt": "2026-10-28T13:32:10.000Z"
     },
     {
-      "title": "Motiva contrata 33,7 MW de capacidade solar da EDP para abastecer rodovias e trilhos",
-      "summary": "Contrato de autoprodução terá duração de 15 anos e prevê fornecimento de cerca de 9 MW médios para 154 unidades consumidoras, incluindo…",
+      "title": "EDP fecha autoprodução solar com a Motiva para abastecer rodovias, trens e metrôs",
+      "summary": "Motiva Escritório / Crédito: Charles Trigueiro (Divulgação) A EDP e a Motiva firmaram um contrato de autoprodução por arrendamento de energia…",
       "category": "mercado",
       "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/10/28/motiva-contrata-337-mw-de-capacidade-solar-da-edp-para-abastecer-rodovias-e-trilhos/",
-      "publishedAt": "2026-10-28T12:38:50.000Z"
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/destaques-do-diario/autoproducao/edp-fecha-autoproducao-solar-com-a-motiva-para-abastecer-rodovias-trens-e-metros/",
+      "publishedAt": "2026-10-29T13:41:24.000Z"
     },
     {
-      "title": "Sua usina solar está preparada para enfrentar um temporal?",
+      "title": "GD após 2029 e a definição do valor econômico da compensação de energia",
       "summary": "",
       "category": "mercado",
       "region": "BR",
       "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmVDJqTVhUUVNacE1udTQ2U1RNZjg4R0x2aVY5dnZnQzY2VHdYZnhjMC00RTYyV1RDb18wWFg1Q1QzRVgtcEFfOFJkcWdSWHJBenVkUjdaRkhFS0w2S1k2VnJXTFlCNllzbGFfQlNmQkRUR2NUeWRJ?oc=5",
-      "publishedAt": "2026-10-27T18:20:57.000Z"
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtZmlqbjJLZ2x0ZVJqWUFLLTVobDlCMWk2bGZGRkNrY0k1WkFaZEs3elRzbXBBZXhVVEdtWWFmWFFvZzZqUUxZMkhYNmc4ay0teWtnMVMyY2FwcmpiT3hjMkNVZWs1LVFyT2FURkx2S3NvX1U?oc=5",
+      "publishedAt": "2026-10-29T14:31:32.000Z"
     },
     {
-      "title": "Plano nacional: matriz elétrica até 99% limpa, avanço da solar e expansão do armazenamento",
+      "title": "Baterias em sistemas de armazenamento: os detalhes que fazem a diferença",
       "summary": "",
       "category": "armazenamento",
       "region": "BR",
       "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1obmR4S0ZESU9nanVMbXBDcTR5cnAzbG5YZ0JDYVA5ck1UbU13OVlVTER0eWZkQXl2d0ZrYk9zai15RmtqcXNkQjAxZDV4TjdENlZpMFdzOEJ5TTFkdENKQnJXdVpSV2RMZ2t5TFBXOHYxc3JKbDlRejR3?oc=5",
-      "publishedAt": "2026-10-27T17:32:00.000Z"
-    },
-    {
-      "title": "Antes da escala do leilão, o BESS precisa encontrar a dor certa",
-      "summary": "",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa28yempGYmhEbEhEbGdLdVI3T3A1ZzlTR3dDcWxLMUYzbTE1aFk3dHRvX1lFS240X2dwT2gtMXlIa3lkb2t5NmNxWk84SFl5a0NWTmQ5ZmJZQk5vSlF5bi1iMmh5QVFRQ042YnhMQVl1dkY3ZGM3QkRLLXM0VXVlNzRPdkNzVkotSjNiaGtZZndUSkpTSzctR0VWc285LXEzRV9LaWlvbmZiV2hQUk56OXZRTQ?oc=5",
-      "publishedAt": "2026-10-28T18:23:40.000Z"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVmQ2SmhvNDNvRDI2S3pWS0xLWVVfbzVLZDVkLURaUFhaVThrQkI0bTgtOFdVeFBMZVlJRlJyRWhQMWlkVmo1ZEtmYmV1UVZJejdzVmk5czNpMmM0bXJMbkxOaW5QZm0welhJa2Ytb1dHYms1MXVEV1JQOGdnSk1rQ05uRVE0VFkxX0NITWhfT3g?oc=5",
+      "publishedAt": "2026-10-29T13:27:40.000Z"
     }
   ],
   "tariffFlag": {
