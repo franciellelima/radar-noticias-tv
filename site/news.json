@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-10-30T16:35:17.621Z",
+  "updatedAt": "2026-10-30T22:02:25.183Z",
   "ai": false,
   "items": [
+    {
+      "title": "Revolusolar e TotalEnergies lançam plataforma para conectar profissionais a empresas do setor solar",
+      "summary": "Conecta Solar permite que empresas consultem gratuitamente perfis de profissionais capacitados pela organização e por instituições sociais parceiras.",
+      "category": "mercado",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/10/30/revolusolar-e-totalenergies-lancam-plataforma-para-conectar-profissionais-a-empresas-do-setor-solar/",
+      "publishedAt": "2026-10-30T19:34:00.000Z"
+    },
+    {
+      "title": "Performa Solar patrocina o 360 Solar 2026 e terá Paulo Pessuti entre os palestrantes",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Portal Solar",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOHE3QjBYY0ZlcEhMc0lqd01GbGs2WHpOOGxEdC1TbHdKQzZyOVY5bXMyMmF3WVA0Wnl6elZLa0ktekN0eHZRN00xT2VwUmw4U2t3UTJDZV9ySFVyb2h4ajJsNFFVQmJsN2JhOE01dXJzU2NmdFhKY0FIcHNJVVM4MDZJU1J0bXlMT2xIM3Z3TFBvcTJfWVl6RmYxYmNESEVNVmdoTVBIeEY0WFZCSzFzSEFQcU4tMlk3bnBLNU9xTkZmZTZIcEphTVhEZE5xVzVBSnJYaExTZXc?oc=5",
+      "publishedAt": "2026-10-30T18:17:28.000Z"
+    },
     {
       "title": "Bahia inaugura usina solar com BESS de quase R$ 25 milhões para produção de frutas",
       "summary": "",
@@ -30,15 +48,6 @@
       "publishedAt": "2026-10-30T10:25:00.000Z"
     },
     {
-      "title": "Austrália Ocidental avança para legalizar sistemas solares plug-in com base no modelo alemão",
-      "summary": "Uma proposta de norma técnica em consulta pública na Austrália Ocidental é baseada na especificação alemã para sistemas solares plug-in e…",
-      "category": "regulacao",
-      "region": "INT",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/10/30/western-australia-moves-to-legalize-plug-in-solar-on-german-model/",
-      "publishedAt": "2026-10-30T10:14:00.000Z"
-    },
-    {
       "title": "Banco BV promove Feirão Solar com taxas reduzidas e primeira parcela para financiamento em até 120 dias",
       "summary": "",
       "category": "mercado",
@@ -57,31 +66,31 @@
       "publishedAt": "2026-10-29T18:29:09.000Z"
     },
     {
-      "title": "Rede não deve ser gargalo para leilões de baterias, avalia ABSAE",
+      "title": "Comerc e Cedro avançam em parceria para autoprodução de energia solar",
+      "summary": "Inauguração do complexo solar Hélio Valgas, um dos ativos de geração da carteira da Comerc Energia, no Norte de Minas Gerais O Conselho…",
+      "category": "mercado",
+      "region": "BR",
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/destaques-do-diario/comerc-e-cedro-avancam-em-parceria-para-autoproducao-de-energia-solar/",
+      "publishedAt": "2026-10-30T19:00:00.000Z"
+    },
+    {
+      "title": "Casa dos Ventos avalia autoprodução com Cargill em usina solar",
+      "summary": "Cargill - Divulgação A Casa dos Ventos avalia acordo de autoprodução de energia elétrica com a Cargill a partir da usina solar fotovoltaica (UFV)…",
+      "category": "regulacao",
+      "region": "BR",
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/destaques-do-diario/casa-dos-ventos-avalia-autoproducao-com-cargill-em-usina-solar/",
+      "publishedAt": "2026-10-30T17:30:00.000Z"
+    },
+    {
+      "title": "ANEEL mantém bandeira verde para novembro",
       "summary": "",
-      "category": "armazenamento",
+      "category": "regulacao",
       "region": "BR",
       "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVzBLYzVYZjJ4Qmx6WWd3Z2d3Y0dfNi1ObHhIamkwNVVkeUJTSHRLMk03cE1zZnJJV0VYTGczZmV3Qi1UUTZSVUY2RUNjWExQMUhMN3hoZjNuRGNPSWVncm1JclUyZERycEY5QzNtVXpfSC1XQ2h1Z3hFb2NHTkwzQXVUYV8?oc=5",
-      "publishedAt": "2026-10-30T14:52:34.000Z"
-    },
-    {
-      "title": "Ex-diretor da Aneel vê leilão de baterias com menos riscos após edital",
-      "summary": "",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1pUSVlkYXgyS3IyVE5LMUFqakx5OVJOcEV3YVMwVGlkLTVCTEU2SGVBSFQ1bzVrc2psY2NwVUNjajNMbW5iSHpJdkIyVGFDdktaTGU3SnY2X0dWTlBiQ0tCTjBhWHRxS0pId2JkWHVwWndBUm15ek1WaUJtZzRmQS1acnBfbUVsWlY0eUVjQ29LaFlaTDBOZ19DY3BNSVhrb21ic19WdjIxdUxFZGFpRUhzWVRnc0hldFlYSg?oc=5",
-      "publishedAt": "2026-10-29T17:02:35.000Z"
-    },
-    {
-      "title": "NT-ONS DPL 0095-2026-R1 – LRCAP Armazenamento 2026",
-      "summary": "",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNzN0WFZJT3VzeEg2Q1JXalJWMkp3ak16bi15bWw2MXhpVmFwZjdLVk9SbjZmZmN5emdFcHN1NDN6aXhOaDI4VEo4NGVqUXhPUWZhQVFUSVVsZVAwbkR0T245cHBDXzFsZjNNMzliaXhRV0Exb2c3cU1pTUxyZDVoTG9JODVkSU15M3RtTWNPQXZNU01VcWJteGpfR3BEQ0cxV3c?oc=5",
-      "publishedAt": "2026-10-29T12:53:08.000Z"
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFRnB3cTd2VnlraUJDa1U1RnFHSUNWRlRTYkZMS1c1YXVfamtFeHRMTVRBQ2lCTl9kQVY2eWh2NzNJMlpVTW1Hbm1wS19jZkJHZmdEOWljX19lUXVUSHItc2xteUdONWJjYk5INFNXZjU?oc=5",
+      "publishedAt": "2026-10-30T20:41:56.000Z"
     }
   ],
   "tariffFlag": {
