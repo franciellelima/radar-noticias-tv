@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-10-29T22:34:03.760Z",
+  "updatedAt": "2026-10-30T16:35:17.621Z",
   "ai": false,
   "items": [
+    {
+      "title": "Bahia inaugura usina solar com BESS de quase R$ 25 milhões para produção de frutas",
+      "summary": "",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04aXZzY05ZUWZZR0J4SlJWcDRMXy12dlJRcUlVZmlzVzFFNTRuSEVUa0lqR3FISTNUak9MM2VlNzhlQml1empMWElqUXo3SVdZc2MySm0wU0lMSlY1cDNCb08wRUNKbDdOWHhCSXFRODhWeWM?oc=5",
+      "publishedAt": "2026-10-30T13:49:02.000Z"
+    },
+    {
+      "title": "El Niño: Aneel recomenda ampliar solar e baterias em sistemas isolados da Amazônia",
+      "summary": "Relatório sobre os impactos do El Niño 2026-2027 reúne recomendações para aumentar a resiliência do setor elétrico, incluindo hibridização de…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/10/30/el-nino-aneel-recomenda-ampliar-solar-e-baterias-em-sistemas-isolados-da-amazonia/",
+      "publishedAt": "2026-10-30T13:13:47.000Z"
+    },
+    {
+      "title": "Preços dos PPAs solares na Espanha caem para € 30,93/MWh enquanto armazenamento ganha espaço",
+      "summary": "Os preços médios dos contratos de compra de energia (PPAs) de usinas solares independentes na Espanha caíram 7,7% em relação ao mesmo período do…",
+      "category": "armazenamento",
+      "region": "INT",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/10/30/spain-solar-ppa-prices-fall-to-e30-93-mwh-as-bess-gains-ground/",
+      "publishedAt": "2026-10-30T10:25:00.000Z"
+    },
+    {
+      "title": "Austrália Ocidental avança para legalizar sistemas solares plug-in com base no modelo alemão",
+      "summary": "Uma proposta de norma técnica em consulta pública na Austrália Ocidental é baseada na especificação alemã para sistemas solares plug-in e…",
+      "category": "regulacao",
+      "region": "INT",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/10/30/western-australia-moves-to-legalize-plug-in-solar-on-german-model/",
+      "publishedAt": "2026-10-30T10:14:00.000Z"
+    },
     {
       "title": "Banco BV promove Feirão Solar com taxas reduzidas e primeira parcela para financiamento em até 120 dias",
       "summary": "",
@@ -21,76 +57,31 @@
       "publishedAt": "2026-10-29T18:29:09.000Z"
     },
     {
-      "title": "Cooperativa adota energia solar por assinatura em 27 unidades no Espírito Santo",
-      "summary": "Acordo entre Nater Coop e Fortlev Solar prevê geração anual de 792 MWh e redução estimada de 36,5 toneladas de CO₂, além de ampliar o uso de…",
-      "category": "mercado",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/10/29/cooperativa-adota-energia-solar-por-assinatura-em-27-unidades-no-espirito-santo/",
-      "publishedAt": "2026-10-29T12:12:57.000Z"
-    },
-    {
-      "title": "Método com sais fundidos e sem ácidos recupera 94% da prata de células solares",
-      "summary": "Pesquisadores na China recuperaram 94,34% da prata de células solares de silício cristalino por meio de um processo com sais fundidos, sem uso de…",
-      "category": "tecnologia",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/10/29/acid-free-molten-salt-method-recovers-94-of-silver-from-solar-cells/",
-      "publishedAt": "2026-10-29T10:24:00.000Z"
-    },
-    {
-      "title": "Nova tecnologia de revestimento pode reduzir em até 40% o uso de vidro em módulos fotovoltaicos",
-      "summary": "A startup alemã Exxosqel desenvolveu uma tecnologia de revestimento que reforça o vidro solar ao atuar sobre microfissuras na superfície.",
-      "category": "tecnologia",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/10/29/new-coating-technology-could-reduce-glass-usage-in-photovoltaic-modules-by-up-to-40/",
-      "publishedAt": "2026-10-29T10:24:00.000Z"
-    },
-    {
-      "title": "Aldo Solar anuncia Marcelo Diniz como novo CEO e prepara nova fase de crescimento",
+      "title": "Rede não deve ser gargalo para leilões de baterias, avalia ABSAE",
       "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11OGgtVXNxMmZDUVQ2RjFhWDBBcTRNQy1IemlVZ1U0YVlQb2FoYklRc093eFhHMEl4ZVdoWUVfQzRPWmEwYk84VEczbkdFRmktSW1KVVFNQXZiSTVNMjNnNTRyWWU5Smpm?oc=5",
-      "publishedAt": "2026-10-28T14:55:34.000Z"
-    },
-    {
-      "title": "Bárbara Rubim | Com a realidade dos cortes de geração, qual é o principal desafio do setor solar?",
-      "summary": "Home As mudanças no setor elétrico já impactam o seu negócio.",
       "category": "armazenamento",
       "region": "BR",
-      "source": "ABSOLAR",
-      "url": "https://www.absolar.org.br/videos/barbara-rubim-com-a-realidade-dos-cortes-de-geracao-qual-e-o-principal-desafio-do-setor-solar/",
-      "publishedAt": "2026-10-28T13:49:44.000Z"
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVzBLYzVYZjJ4Qmx6WWd3Z2d3Y0dfNi1ObHhIamkwNVVkeUJTSHRLMk03cE1zZnJJV0VYTGczZmV3Qi1UUTZSVUY2RUNjWExQMUhMN3hoZjNuRGNPSWVncm1JclUyZERycEY5QzNtVXpfSC1XQ2h1Z3hFb2NHTkwzQXVUYV8?oc=5",
+      "publishedAt": "2026-10-30T14:52:34.000Z"
     },
     {
-      "title": "Fotus amplia portfólio de energia solar com entrada da Sungrow e passa a oferecer inversores de até 110 kW",
-      "summary": "Home Nova parceria incorpora modelos de 5 kW a 110 kW para diferentes portes de projetos fotovoltaicos, com distribuição nacional, suporte técnico…",
-      "category": "mercado",
-      "region": "BR",
-      "source": "ABSOLAR",
-      "url": "https://www.absolar.org.br/associados/fotus-amplia-portfolio-de-energia-solar-com-entrada-da-sungrow-e-passa-a-oferecer-inversores-de-ate-110-kw/",
-      "publishedAt": "2026-10-28T13:41:47.000Z"
-    },
-    {
-      "title": "EDP fecha autoprodução solar com a Motiva para abastecer rodovias, trens e metrôs",
-      "summary": "Motiva Escritório / Crédito: Charles Trigueiro (Divulgação) A EDP e a Motiva firmaram um contrato de autoprodução por arrendamento de energia…",
-      "category": "mercado",
-      "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/destaques-do-diario/autoproducao/edp-fecha-autoproducao-solar-com-a-motiva-para-abastecer-rodovias-trens-e-metros/",
-      "publishedAt": "2026-10-29T13:41:24.000Z"
-    },
-    {
-      "title": "Aneel libera operação de usinas solares em SP e suspende usina termelétrica no RJ",
+      "title": "Ex-diretor da Aneel vê leilão de baterias com menos riscos após edital",
       "summary": "",
-      "category": "regulacao",
+      "category": "armazenamento",
       "region": "BR",
       "source": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOXg4ZlA5YlYySGlsTVlqa3hEd19hcEhUZC1PeDlqSTNNbGM5VnZHVWhzYmRQMXU2a3NNV2pHM2NqY2dJUmxkcUpiUFdVQ0h3dnNEVUdfMnBNTzF5cHRDMTY4VTlhVE83MWNEdUxVV21ybDNmRlFGcDNQV3NfbXR2SWJZR1hCSVdHQXA3d3hVY0FOYUZYcFJFd0pfVXhiOElTbmprbGNZT0pxcXV4RURLbWtCMVNrcnFiZ3VnTmZOSTh2WS1WbUdSSTB4QQ?oc=5",
-      "publishedAt": "2026-10-28T18:04:01.000Z"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1pUSVlkYXgyS3IyVE5LMUFqakx5OVJOcEV3YVMwVGlkLTVCTEU2SGVBSFQ1bzVrc2psY2NwVUNjajNMbW5iSHpJdkIyVGFDdktaTGU3SnY2X0dWTlBiQ0tCTjBhWHRxS0pId2JkWHVwWndBUm15ek1WaUJtZzRmQS1acnBfbUVsWlY0eUVjQ29LaFlaTDBOZ19DY3BNSVhrb21ic19WdjIxdUxFZGFpRUhzWVRnc0hldFlYSg?oc=5",
+      "publishedAt": "2026-10-29T17:02:35.000Z"
+    },
+    {
+      "title": "NT-ONS DPL 0095-2026-R1 – LRCAP Armazenamento 2026",
+      "summary": "",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNzN0WFZJT3VzeEg2Q1JXalJWMkp3ak16bi15bWw2MXhpVmFwZjdLVk9SbjZmZmN5emdFcHN1NDN6aXhOaDI4VEo4NGVqUXhPUWZhQVFUSVVsZVAwbkR0T245cHBDXzFsZjNNMzliaXhRV0Exb2c3cU1pTUxyZDVoTG9JODVkSU15M3RtTWNPQXZNU01VcWJteGpfR3BEQ0cxV3c?oc=5",
+      "publishedAt": "2026-10-29T12:53:08.000Z"
     }
   ],
   "tariffFlag": {
