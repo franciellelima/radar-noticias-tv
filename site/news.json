@@ -1,96 +1,60 @@
 {
-  "updatedAt": "2026-10-30T22:02:25.183Z",
+  "updatedAt": "2026-11-02T20:04:03.700Z",
   "ai": false,
   "items": [
     {
-      "title": "Revolusolar e TotalEnergies lançam plataforma para conectar profissionais a empresas do setor solar",
-      "summary": "Conecta Solar permite que empresas consultem gratuitamente perfis de profissionais capacitados pela organização e por instituições sociais parceiras.",
-      "category": "mercado",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/10/30/revolusolar-e-totalenergies-lancam-plataforma-para-conectar-profissionais-a-empresas-do-setor-solar/",
-      "publishedAt": "2026-10-30T19:34:00.000Z"
-    },
-    {
-      "title": "Performa Solar patrocina o 360 Solar 2026 e terá Paulo Pessuti entre os palestrantes",
+      "title": "Energia solar abastecerá 154 unidades de rodovias e sistemas ferroviários no Brasil",
       "summary": "",
       "category": "mercado",
-      "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOHE3QjBYY0ZlcEhMc0lqd01GbGs2WHpOOGxEdC1TbHdKQzZyOVY5bXMyMmF3WVA0Wnl6elZLa0ktekN0eHZRN00xT2VwUmw4U2t3UTJDZV9ySFVyb2h4ajJsNFFVQmJsN2JhOE01dXJzU2NmdFhKY0FIcHNJVVM4MDZJU1J0bXlMT2xIM3Z3TFBvcTJfWVl6RmYxYmNESEVNVmdoTVBIeEY0WFZCSzFzSEFQcU4tMlk3bnBLNU9xTkZmZTZIcEphTVhEZE5xVzVBSnJYaExTZXc?oc=5",
-      "publishedAt": "2026-10-30T18:17:28.000Z"
-    },
-    {
-      "title": "Bahia inaugura usina solar com BESS de quase R$ 25 milhões para produção de frutas",
-      "summary": "",
-      "category": "armazenamento",
       "region": "BR",
       "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04aXZzY05ZUWZZR0J4SlJWcDRMXy12dlJRcUlVZmlzVzFFNTRuSEVUa0lqR3FISTNUak9MM2VlNzhlQml1empMWElqUXo3SVdZc2MySm0wU0lMSlY1cDNCb08wRUNKbDdOWHhCSXFRODhWeWM?oc=5",
-      "publishedAt": "2026-10-30T13:49:02.000Z"
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS29BWjNqbWtLM3RlcHNqYS1ZM3RldlBHSlVjMnR1eVRGblNPOVRSSEstaTU1dHFSUjM0a2lJdFVSbGxSSXNHeVRWVzBnd3h6anFRNnNnLW5VbmtMbGI4Wm9CWGVnZ2J1TnVLbHJaeWJOczRUNktHU3c1SjB3YllpdjdjV2VFWkpPWHFn?oc=5",
+      "publishedAt": "2026-11-02T18:00:20.000Z"
     },
     {
-      "title": "El Niño: Aneel recomenda ampliar solar e baterias em sistemas isolados da Amazônia",
-      "summary": "Relatório sobre os impactos do El Niño 2026-2027 reúne recomendações para aumentar a resiliência do setor elétrico, incluindo hibridização de…",
+      "title": "Usina solar chilena está fora de operação há dois meses após ataque cibernético",
+      "summary": "Uma usina solar de 103 MW e seu sistema de armazenamento em baterias de 98 MW/312 MWh, no norte do Chile, permanecem fora de operação há dois…",
       "category": "armazenamento",
       "region": "BR",
       "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/10/30/el-nino-aneel-recomenda-ampliar-solar-e-baterias-em-sistemas-isolados-da-amazonia/",
-      "publishedAt": "2026-10-30T13:13:47.000Z"
+      "url": "https://www.pv-magazine-brasil.com/2026/11/02/chilean-solar-plant-offline-for-two-months-following-cyberattack/",
+      "publishedAt": "2026-11-02T11:28:00.000Z"
     },
     {
-      "title": "Preços dos PPAs solares na Espanha caem para € 30,93/MWh enquanto armazenamento ganha espaço",
-      "summary": "Os preços médios dos contratos de compra de energia (PPAs) de usinas solares independentes na Espanha caíram 7,7% em relação ao mesmo período do…",
+      "title": "Abraceel approves self-regulation and prepares monitoring of the free energy market.",
+      "summary": "",
+      "category": "regulacao",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcDRneUxndzh2LWRRN3A1bW05Mm1JYzZ4QjZpMy1UczJpa1o2YUc1WnFRXzk2Ym9RZlRmOV80aEhVTkUzVzJCbl9ZQ3N3TmRWT25UMGZVMXZlOU1GWWZnXzU4d2swWHBxbWhLdzYxYkl5d056elAzMXlGRTc1aGdmeTZlaw?oc=5",
+      "publishedAt": "2026-11-02T16:00:00.000Z"
+    },
+    {
+      "title": "Abraceel aprova autorregulação e prepara monitoramento do mercado livre de energia",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXhRQXBVRmFPTEZUUS1JVlhpSXV0RXAtTGNOTVNnNzAtc04xY2dteU1fbGsxVDdZY2x2aG96OERrUFlVNU1zOUJXZXVIT1ZySldHbVNhUlBFdmVTZ0hLdlBrZTNfRjBENHZsUUZ0SFFPNS1PMTVkZmNGZm5ta2tjT2VYOA?oc=5",
+      "publishedAt": "2026-11-02T16:00:00.000Z"
+    },
+    {
+      "title": "O que 11 ilhas revelam sobre o verdadeiro gargalo das microrredes renováveis",
+      "summary": "Relatório do IEA-PVPS que analisa 11 ilhas conclui que alcançar uma matriz elétrica com participação próxima de 100% de fontes renováveis depende…",
+      "category": "tecnologia",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/02/what-11-islands-reveal-about-the-real-bottleneck-in-renewable-mini-grids/",
+      "publishedAt": "2026-11-02T10:28:00.000Z"
+    },
+    {
+      "title": "Projeto de armazenamento de 840 MWh no Chile prevê início de operação em 2028",
+      "summary": "A Qualitas Energy obteve US$ 286 milhões em financiamento sem recurso para um portfólio de ativos renováveis no Chile, que reúne 259 MW de…",
       "category": "armazenamento",
       "region": "INT",
       "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/10/30/spain-solar-ppa-prices-fall-to-e30-93-mwh-as-bess-gains-ground/",
-      "publishedAt": "2026-10-30T10:25:00.000Z"
-    },
-    {
-      "title": "Banco BV promove Feirão Solar com taxas reduzidas e primeira parcela para financiamento em até 120 dias",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXMm14dDE2MDF3Yjkzcl90dzZWWTNfVVBsam0wblg3TVhSYmQ5eHBrTkVjaXMyX0hrR2JRWmk0WUI0UmRoQlBYUHpMaXV2UkMxVHd0d0w1bDhoMmFfZTc5SmhsTnVSSUY0SzF3TGNFZw?oc=5",
-      "publishedAt": "2026-10-29T19:38:16.000Z"
-    },
-    {
-      "title": "Energia solar sem telhado: o caso de uma chácara em Sinop",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUWNCLW5IUUh4cm1SV0RlMHpUZHhHMGphY2hDRktXQ0FhUjh6VmFkMUkwc0kxYk5sOUMyMk5sUVlua216VVVQQTUwMW9fMG5lLUV1dDlXOEc2Smp6UENDeXZyVF8zcUlRNkg3ZFZyMjlmdjVlbHBJX2hjNDlJNEYyQ1hUMGdmNHNYVXE2ZXhqZWxfMXVaOXdjekpKc0FHaDhfbklwQzVWQUdERUxGZmxpeDJJV3BzZHpTb1p6bnRBMVZNSlk4bEVQaVg4V3Yxc2tLblRSaFlpb0NBcW5RWW4zNjRPanZxNHFseFkwSg?oc=5",
-      "publishedAt": "2026-10-29T18:29:09.000Z"
-    },
-    {
-      "title": "Comerc e Cedro avançam em parceria para autoprodução de energia solar",
-      "summary": "Inauguração do complexo solar Hélio Valgas, um dos ativos de geração da carteira da Comerc Energia, no Norte de Minas Gerais O Conselho…",
-      "category": "mercado",
-      "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/destaques-do-diario/comerc-e-cedro-avancam-em-parceria-para-autoproducao-de-energia-solar/",
-      "publishedAt": "2026-10-30T19:00:00.000Z"
-    },
-    {
-      "title": "Casa dos Ventos avalia autoprodução com Cargill em usina solar",
-      "summary": "Cargill - Divulgação A Casa dos Ventos avalia acordo de autoprodução de energia elétrica com a Cargill a partir da usina solar fotovoltaica (UFV)…",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/destaques-do-diario/casa-dos-ventos-avalia-autoproducao-com-cargill-em-usina-solar/",
-      "publishedAt": "2026-10-30T17:30:00.000Z"
-    },
-    {
-      "title": "ANEEL mantém bandeira verde para novembro",
-      "summary": "",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFRnB3cTd2VnlraUJDa1U1RnFHSUNWRlRTYkZMS1c1YXVfamtFeHRMTVRBQ2lCTl9kQVY2eWh2NzNJMlpVTW1Hbm1wS19jZkJHZmdEOWljX19lUXVUSHItc2xteUdONWJjYk5INFNXZjU?oc=5",
-      "publishedAt": "2026-10-30T20:41:56.000Z"
+      "url": "https://www.pv-magazine-brasil.com/2026/11/02/projeto-de-armazenamento-de-840-mwh-no-chile-preve-inicio-de-operacao-em-2028/",
+      "publishedAt": "2026-11-02T10:25:00.000Z"
     }
   ],
   "tariffFlag": {
