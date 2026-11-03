@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-03T03:22:07.780Z",
+  "updatedAt": "2026-11-03T17:37:31.712Z",
   "ai": false,
   "items": [
+    {
+      "title": "Metrô de São Paulo abre licitação para usina solar em duas estações da Linha 3-Vermelha",
+      "summary": "Concorrência prevê o comissionamento de um sistema fotovoltaico de 274 kWp para abastecer as instalações das estações Belém e Bresser-Mooca, com…",
+      "category": "mercado",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/03/metro-de-sao-paulo-abre-licitacao-para-usina-solar-em-duas-estacoes-da-linha-3-vermelha/",
+      "publishedAt": "2026-11-03T14:05:35.000Z"
+    },
+    {
+      "title": "Ceasa-CE conclui carport solar de 1,4 MWp em estacionamento com 384 vagas",
+      "summary": "Projeto de R$ 10,5 milhões utiliza estruturas fotovoltaicas em 4.875 m² de cobertura e prevê geração de 200 MWh por mês para abastecer três…",
+      "category": "mercado",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/03/ceasa-ce-conclui-carport-solar-de-14-mwp-em-estacionamento-com-384-vagas/",
+      "publishedAt": "2026-11-03T14:05:29.000Z"
+    },
+    {
+      "title": "Energia do futuro: solar, baterias e VPPs estão criando uma nova rede elétrica",
+      "summary": "",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSNnJtaTU0aGl2SFBwdGhGN281NkswX084Q21yU2xvUjQzWXllejVvWmdVY05rcnVkWUcxaW5zNkJyWE01X2s2YUdXTFF3RFRGT0xWX0ZtME5YYmxnOUtkNWQzODY4TnNCXzE2dVV3?oc=5",
+      "publishedAt": "2026-11-03T13:50:51.000Z"
+    },
+    {
+      "title": "Brasil estreia no Solar Decathlon com desafio de projetos de edifícios eficientes e energia solar",
+      "summary": "Concurso internacional coordenado pelo MME desafia estudantes universitários a projetar edificações de energia quase zero, combinando eficiência…",
+      "category": "regulacao",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/03/brasil-estreia-no-solar-decathlon-com-desafio-de-projetos-de-edificios-eficientes-e-energia-solar/",
+      "publishedAt": "2026-11-03T13:06:49.000Z"
+    },
     {
       "title": "Energia solar abastecerá 154 unidades de rodovias e sistemas ferroviários no Brasil",
       "summary": "",
@@ -12,49 +48,40 @@
       "publishedAt": "2026-11-02T18:00:20.000Z"
     },
     {
-      "title": "Usina solar chilena está fora de operação há dois meses após ataque cibernético",
-      "summary": "Uma usina solar de 103 MW e seu sistema de armazenamento em baterias de 98 MW/312 MWh, no norte do Chile, permanecem fora de operação há dois…",
+      "title": "Mercado solar muda de perfil com avanço de baterias e carros elétricos",
+      "summary": "Usina está localizada no Centro de Referência de Energia Solar de Petrolina (CRESP), da Axia O mercado de geração distribuída (GD) de energia…",
       "category": "armazenamento",
       "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/02/chilean-solar-plant-offline-for-two-months-following-cyberattack/",
-      "publishedAt": "2026-11-02T11:28:00.000Z"
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/geracao/mercado-solar-muda-de-perfil-com-avanco-de-baterias-e-carros-eletricos/",
+      "publishedAt": "2026-11-03T12:10:00.000Z"
     },
     {
-      "title": "Emissões brasileiras caem mais 6% e país se aproxima de meta do Acordo de Paris",
+      "title": "Refúgio de animais busca apoio de fabricantes de baterias e inversores híbridos após apagão",
       "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWZ2NSblk5ekJvWjdpY0ZOX0hHNDFNbGFpc053RG1zRTlfYUtnSHFCS3lGWHdYLUhoWDN0NWxIZ09NSS1iZFNVZk92Y0NlR0hMQ055TEFyNXdVSUFxM2xpMXhDSjJIUXh4ZTZWeWUyYXM?oc=5",
-      "publishedAt": "2026-11-02T20:00:59.000Z"
-    },
-    {
-      "title": "Abraceel approves self-regulation and prepares monitoring of the free energy market.",
-      "summary": "",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcDRneUxndzh2LWRRN3A1bW05Mm1JYzZ4QjZpMy1UczJpa1o2YUc1WnFRXzk2Ym9RZlRmOV80aEhVTkUzVzJCbl9ZQ3N3TmRWT25UMGZVMXZlOU1GWWZnXzU4d2swWHBxbWhLdzYxYkl5d056elAzMXlGRTc1aGdmeTZlaw?oc=5",
-      "publishedAt": "2026-11-02T16:00:00.000Z"
-    },
-    {
-      "title": "O que 11 ilhas revelam sobre o verdadeiro gargalo das microrredes renováveis",
-      "summary": "Relatório do IEA-PVPS que analisa 11 ilhas conclui que alcançar uma matriz elétrica com participação próxima de 100% de fontes renováveis depende…",
-      "category": "tecnologia",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/02/what-11-islands-reveal-about-the-real-bottleneck-in-renewable-mini-grids/",
-      "publishedAt": "2026-11-02T10:28:00.000Z"
-    },
-    {
-      "title": "Projeto de armazenamento de 840 MWh no Chile prevê início de operação em 2028",
-      "summary": "A Qualitas Energy obteve US$ 286 milhões em financiamento sem recurso para um portfólio de ativos renováveis no Chile, que reúne 259 MW de…",
       "category": "armazenamento",
-      "region": "INT",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/02/projeto-de-armazenamento-de-840-mwh-no-chile-preve-inicio-de-operacao-em-2028/",
-      "publishedAt": "2026-11-02T10:25:00.000Z"
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa3UzTnNFNk9xM0tMcEF2SEJhZmFPbDRSYmZMLVRhSTJpdDVyRmJlYTJoWDM0cWZqSmdpZkE5WF81VnNaY2NhMk5IMVdXcU5WUEhUdWlIX0hOTjZ0NDduel9KYy1XbF9Qb21mSGU1LTk5VEFHQ09SWjZoMkJKR0MwdGtuVlRuRmdPNk1J?oc=5",
+      "publishedAt": "2026-11-03T16:43:48.000Z"
+    },
+    {
+      "title": "Energia renovável barata não garante avanço da eletrificação no Brasil, aponta estudo",
+      "summary": "Veículo elétrico em carregamento | Foto: Roberto Dziura Jr./AEN As vantagens da energia renovável barata e abundante no Brasil são limitadas por…",
+      "category": "precos",
+      "region": "BR",
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/mercado-energetico/energia-renovavel-barata-nao-garante-avanco-da-eletrificacao-no-brasil-aponta-estudo/",
+      "publishedAt": "2026-11-03T12:42:18.000Z"
+    },
+    {
+      "title": "🎙️As decisões da Justiça no mercado livre e os espanhóis na transmissão",
+      "summary": "MinutoMega No MinutoMega, entenda as decisões envolvendo Enel, Electra e Tradener e as novidades sobre os leilões de transmissão e baterias no Brasil.",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/podcasts/%f0%9f%8e%99%ef%b8%8fas-decisoes-da-justica-no-mercado-livre-e-os-espanhois-na-transmissao/",
+      "publishedAt": "2026-11-03T12:30:00.000Z"
     }
   ],
   "tariffFlag": {
