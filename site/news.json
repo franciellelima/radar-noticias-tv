@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-11-03T23:00:11.821Z",
+  "updatedAt": "2026-11-04T17:50:20.736Z",
   "ai": false,
   "items": [
+    {
+      "title": "Energia solar sem injetar na rede: por que o Zero Grid atrai empresas e produtores rurais?",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeEhoNk5JMThKclRjQ2M2aUxjQVlta2hJNWc1WThSRjhxSXQ4SGhNSy1QOW9lb3NlRkRvbzF1WVJVY3lfa1ZxeHotMkthYUFFTlhVUkRxZEZ5WE43c2hHODJDN1BUUGgxT1M0aVR0UFdvbVVxbmVhTkhkaUlqVlNCMFFxbw?oc=5",
+      "publishedAt": "2026-11-04T15:00:30.000Z"
+    },
+    {
+      "title": "Câmara aprova projeto para restabelecer isenção de imposto de importação para inversores fotovoltaicos",
+      "summary": "PDL 107/24 suspende os efeitos de resolução do Gecex que revogou o ex-tarifário para equipamentos fotovoltaicos em 2024; proposta ainda precisa…",
+      "category": "regulacao",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/04/camara-aprova-projeto-para-restabelecer-isencao-de-imposto-de-importacao-para-inversores-fotovoltaicos/",
+      "publishedAt": "2026-11-04T13:15:40.000Z"
+    },
+    {
+      "title": "Neoenergia Cosern abre edital de R$ 14 milhões para solar e armazenamento no Rio Grande do Norte",
+      "summary": "Chamada pública contempla iniciativas de eficiência energética em seis categorias de consumidores, incluindo geração fotovoltaica e sistemas de…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/04/neoenergia-cosern-abre-edital-de-r-14-milhoes-para-solar-e-armazenamento-no-rio-grande-do-norte/",
+      "publishedAt": "2026-11-04T13:13:12.000Z"
+    },
+    {
+      "title": "Companhia de Limpeza de Niterói receberá três sistemas fotovoltaicos em projeto de R$ 1 milhão",
+      "summary": "Dois sistemas contarão com baterias para armazenamento de energia em iniciativa prevê economia de 247 MWh por ano, equivalente a 74% do consumo…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/04/companhia-de-limpeza-de-niteroi-recebera-tres-sistemas-fotovoltaicos-em-projeto-de-r-1-milhao/",
+      "publishedAt": "2026-11-04T12:58:51.000Z"
+    },
+    {
+      "title": "\"Cinema solar\" chega ao Nordeste apoiado pela AXIA Energia",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa3hWRTR2TVpMMWtEbWJUaE1QS3BHdV81NDZfS2xpTDRDbVRPcGNSclI2X0Q1bTUxUTlqeGV0dWNMczhSQ1UzbWJ4bFQ4REluSHJvNWNsOXlyYm1DTW5SbURGSXlmR1doc2RqZGlDVTFHbUpPakJOczVodmJKMnhBZQ?oc=5",
+      "publishedAt": "2026-11-04T11:42:24.000Z"
+    },
     {
       "title": "Isenção do imposto de importação para inversores solares avança na Câmara",
       "summary": "",
@@ -10,15 +55,6 @@
       "source": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZU50Smc2eDFsR2NCZWEwVGllbnFwakJBcUJGalZFc3NWS2lfWk5sbFhEallYcVVDSDlvYjdVQm15eV9rQkxzeTBSOEtaV0xZcnpzMXQxMVU3SG5OMmw3dXZ1N2FjSE5EcnRWTkhhb3NxUHJjVU15ZmhjaFR3X1dWc2ZaaU5YR1pI?oc=5",
       "publishedAt": "2026-11-03T20:52:24.000Z"
-    },
-    {
-      "title": "O que separa de quem cresce no solar de quem fica para trás?",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VV0FYbWlGdGt5VlY0VzVaekh4Unh4UGNSWUdiNmljN3pxWE1Jb3dJTWdrX0ZuODZTUncydm9BcTRlMXpYalNOOHJ5Y1EteHB1MkxPTnNWODVrdnBHSHh1QmM4NmxCREt2dm1xT2NlVlprdw?oc=5",
-      "publishedAt": "2026-11-03T20:30:20.000Z"
     },
     {
       "title": "2P Carregadores chega para evitar que a eletromobilidade repita os erros do solar",
@@ -30,40 +66,13 @@
       "publishedAt": "2026-11-03T18:21:57.000Z"
     },
     {
-      "title": "Metrô de São Paulo abre licitação para usina solar em duas estações da Linha 3-Vermelha",
-      "summary": "Concorrência prevê o comissionamento de um sistema fotovoltaico de 274 kWp para abastecer as instalações das estações Belém e Bresser-Mooca, com…",
-      "category": "mercado",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/03/metro-de-sao-paulo-abre-licitacao-para-usina-solar-em-duas-estacoes-da-linha-3-vermelha/",
-      "publishedAt": "2026-11-03T14:05:35.000Z"
-    },
-    {
-      "title": "Ceasa-CE conclui carport solar de 1,4 MWp em estacionamento com 384 vagas",
-      "summary": "Projeto de R$ 10,5 milhões utiliza estruturas fotovoltaicas em 4.875 m² de cobertura e prevê geração de 200 MWh por mês para abastecer três…",
-      "category": "mercado",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/03/ceasa-ce-conclui-carport-solar-de-14-mwp-em-estacionamento-com-384-vagas/",
-      "publishedAt": "2026-11-03T14:05:29.000Z"
-    },
-    {
-      "title": "Energia do futuro: solar, baterias e VPPs estão criando uma nova rede elétrica",
+      "title": "Coluna Giro Energia: EDP e Motiva firmam parceria em geração de energia solar",
       "summary": "",
-      "category": "armazenamento",
+      "category": "mercado",
       "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSNnJtaTU0aGl2SFBwdGhGN281NkswX084Q21yU2xvUjQzWXllejVvWmdVY05rcnVkWUcxaW5zNkJyWE01X2s2YUdXTFF3RFRGT0xWX0ZtME5YYmxnOUtkNWQzODY4TnNCXzE2dVV3?oc=5",
-      "publishedAt": "2026-11-03T13:50:51.000Z"
-    },
-    {
-      "title": "Brasil estreia no Solar Decathlon com desafio de projetos de edifícios eficientes e energia solar",
-      "summary": "Concurso internacional coordenado pelo MME desafia estudantes universitários a projetar edificações de energia quase zero, combinando eficiência…",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/03/brasil-estreia-no-solar-decathlon-com-desafio-de-projetos-de-edificios-eficientes-e-energia-solar/",
-      "publishedAt": "2026-11-03T13:06:49.000Z"
+      "source": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenNjTFdxcmxBRWxqM2o0ZVVOWkRCVXdkc2JaRUxobU9fRzlITUdsX09vS1FrNmZ6ZmJWekdORFQ4ajM4TUg2Rkc3Mkh6UUwyUlNnUU5ETFU2Rlc2LTBhemdPcDBRbkhIWTFfODExNHhBanE2MXB6RXRMaWNNdzR3SkxEQWVJLUpUS2dXYXYtNUF5YWprZEw1NzlNVGcyWmV4NDNPTUNZMnVPdE1NYWEyVnFiYzRScGE0eEYyM1F5VWxGemNJ?oc=5",
+      "publishedAt": "2026-11-04T12:02:59.000Z"
     },
     {
       "title": "Performance não é apenas disponibilidade",
@@ -75,13 +84,13 @@
       "publishedAt": "2026-11-03T18:40:49.000Z"
     },
     {
-      "title": "Aneel avalia restringir oferta de descontos na GD por assinatura",
-      "summary": "Painel-Solar-Fotovoltaico-Microgeracao-GD-MicroGD-Foto-Divulgacao-SunVolt- Os modelos de micro e minigeração distribuída (MMGD) por assinatura,…",
-      "category": "regulacao",
+      "title": "Isa Energia estuda participar de leilão de baterias, mas destaca incertezas regulatórias",
+      "summary": "",
+      "category": "armazenamento",
       "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/geracao/micro-e-minigeracao-distribuida/aneel-avalia-restringir-oferta-de-descontos-na-gd-por-assinatura/",
-      "publishedAt": "2026-11-03T18:47:45.000Z"
+      "source": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObHFTSnJ4WXFFNHYwVGtBbjV2Q2RDamxhWUxDTVlfbDliN25TbUphcFBtTlJRaU5BUVBOWWo0Y2wyTlNRUGRWYTJoNHRGc1Q0S0ZxYXljOEVST1BhREI2eC1CSDA1QXBMY1ozRDQ4dkctdUpKcl9yQjhheS1uY29Ea3lNLW1hTEVRWWJWVFB6ZkZjTV9Xbkk4WDJaOGtpMlBsNDJVVk1hSTQ3WU5zTHdUM3ktRlJ5WGRXX1h1MldJZmNjLWRaamtNNjFtVGx5QkpXd2dj?oc=5",
+      "publishedAt": "2026-11-04T15:32:23.000Z"
     }
   ],
   "tariffFlag": {
