@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-11-04T23:23:38.594Z",
+  "updatedAt": "2026-11-05T17:53:53.832Z",
   "ai": false,
   "items": [
+    {
+      "title": "Fortlev Solar apresenta Lastro Laje para instalações fotovoltaicas sem perfuração",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcmtlbDFrOUFqSXBSZ3J1aVJxYjR3cU54ZVdVY1JfQ2FhUFpoUWlzVExUWW11UzJkOXY1Z0F4eVNrUHg1Zm9MYzIxSk1YakRBV3pVd2R1WDBucG9sU1lBdGN0dmxFVFMtak9ZX25ZZUEta182RGl1UTRGUUxyeC1fWklQUWs4M3NrNnJFVGVqLVNKQQ?oc=5",
+      "publishedAt": "2026-11-05T13:47:31.000Z"
+    },
+    {
+      "title": "Usina solar de 240 MW adota sistema inteligente de proteção perimetral no Ceará",
+      "summary": "Projeto da Qair em Icó utiliza fibra óptica, algoritmos de detecção e videomonitoramento integrado para monitorar 16 quilômetros de perímetro e…",
+      "category": "mercado",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/05/usina-solar-de-240-mw-adota-sistema-inteligente-de-protecao-perimetral-no-ceara/",
+      "publishedAt": "2026-11-05T13:30:00.000Z"
+    },
+    {
+      "title": "Justiça afasta ICMS sobre créditos de energia solar utilizados por consumidores no MA",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NZGRUMVhLQW15ZzZXaFpub3htYTVrLTFrWkV3aWE4Q0FVZkprZG5WNTZCQjRDNUxGWGJLWEpPcjB3SWJBMHZvRFNmd0lQdzNoYW91bW1lWEl4WmlBSHVnSTlRZUxzajE4aGFVRFd3dEpwQngwZmZWN3F3?oc=5",
+      "publishedAt": "2026-11-05T11:50:59.000Z"
+    },
+    {
+      "title": "Capacidade de fabricação de módulos solares da Índia pode chegar a 3.480 GW até 2047",
+      "summary": "A Índia pode se tornar uma potência global na fabricação integrada de equipamentos solares até 2047, atraindo US$ 89 bilhões em investimentos,…",
+      "category": "mercado",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/05/indias-solar-manufacturing-industry-could-generate-32-lakh-jobs-and-attract-89-billion-in-investments-by-2047-isma/",
+      "publishedAt": "2026-11-05T10:12:00.000Z"
+    },
+    {
+      "title": "Otimização do pó de níquel reduz em 6,8% o custo de metalização de células solares TOPCon sem comprometer a eficiência",
+      "summary": "Pesquisadores da Universidade de New South Wales (UNSW), na Austrália, em colaboração com a SunDrive e a Shenzhen APG, demonstraram que a…",
+      "category": "precos",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/05/nickel-powder-optimization-cuts-topcon-solar-cell-metallization-costs-by-6-8-without-compromising-efficiency/",
+      "publishedAt": "2026-11-05T10:11:00.000Z"
+    },
     {
       "title": "Furtos lideram ameaças à rentabilidade de usinas solares, alerta Brasol",
       "summary": "",
@@ -12,58 +57,13 @@
       "publishedAt": "2026-11-04T19:35:25.000Z"
     },
     {
-      "title": "Iluminação solar ganha novas aplicações com lançamento de produtos da Ourolux",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaDVsLTZJa2FLQnB2Zl9SVU5mMDA0M2I2YXp6dXJ3S0hIaW5sUjVSR1BNdXc0WWVVcnNxQzR1VEV5YlU1QlllTjVuREU0M3dDZU5xdXVaUUoyaGRqS3lCNURuVGlRSlZocV9QbGluaHNrUGR6dkNHNzNBcUhSZ2lWVURDeGRCUQ?oc=5",
-      "publishedAt": "2026-11-04T18:38:56.000Z"
-    },
-    {
-      "title": "Investimentos em geração solar própria caem 45,8% em empresas e propriedades rurais",
-      "summary": "Segmentos receberam R$ 6,5 bilhões entre janeiro e outubro, com 1,4 GW de potência adicionada, segundo levantamento da TTS Energia; restrições de…",
-      "category": "mercado",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/04/investimentos-em-geracao-solar-propria-caem-458-em-empresas-e-propriedades-rurais/",
-      "publishedAt": "2026-11-04T17:27:00.000Z"
-    },
-    {
-      "title": "MME propõe P90 para cálculo da garantia física de usinas solares",
-      "summary": "Proposta em consulta pública também prevê inclusão de energia frustrada por cortes de geração e ampliação do período de análise para revisão dos…",
+      "title": "Cortes de geração podem entrar no cálculo da garantia física de eólicas e solares",
+      "summary": "Projetos de usinas solares e eólicas e a transmissão / Crédito: ThinkStock O Ministério de Minas e Energia (MME) abriu consulta pública para…",
       "category": "regulacao",
       "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/04/mme-propoe-p90-para-calculo-da-garantia-fisica-de-usinas-solares/",
-      "publishedAt": "2026-11-04T16:51:00.000Z"
-    },
-    {
-      "title": "Energia solar sem injetar na rede: por que o Zero Grid atrai empresas e produtores rurais?",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeEhoNk5JMThKclRjQ2M2aUxjQVlta2hJNWc1WThSRjhxSXQ4SGhNSy1QOW9lb3NlRkRvbzF1WVJVY3lfa1ZxeHotMkthYUFFTlhVUkRxZEZ5WE43c2hHODJDN1BUUGgxT1M0aVR0UFdvbVVxbmVhTkhkaUlqVlNCMFFxbw?oc=5",
-      "publishedAt": "2026-11-04T15:00:30.000Z"
-    },
-    {
-      "title": "Câmara aprova projeto para restabelecer isenção de imposto de importação para inversores fotovoltaicos",
-      "summary": "PDL 107/24 suspende os efeitos de resolução do Gecex que revogou o ex-tarifário para equipamentos fotovoltaicos em 2024; proposta ainda precisa…",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/04/camara-aprova-projeto-para-restabelecer-isencao-de-imposto-de-importacao-para-inversores-fotovoltaicos/",
-      "publishedAt": "2026-11-04T13:15:40.000Z"
-    },
-    {
-      "title": "2P Carregadores chega para evitar que a eletromobilidade repita os erros do solar",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlowWGVxaS1YVjhHczktdThJQ1lnRW5GTTlNRnA3bkJVSms2eEV6NDJndEYtc01PUWpuX3MzZmhwa3hCVkMtenRjT1NpUzVTbXctMlBxLW5NNVVVU3ZoRkRIbVNhNUxvYWUwWV9mMC1hdVZYVlp2VmN2RGpPNnMyTlNyRTd5QkNRQm9JOTNjVTBqajBJeEE2ODd0ZV9KdHNNOHBWRzNVcHlCeGlrOHZvZVkwR2ZYYklkN0ppVkZwZ2R1VXdubExhMg?oc=5",
-      "publishedAt": "2026-11-03T18:21:57.000Z"
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/geracao/cortes-de-geracao-podem-entrar-no-calculo-da-garantia-fisica-de-eolicas-e-solares/",
+      "publishedAt": "2026-11-05T13:54:47.000Z"
     },
     {
       "title": "MME abre consulta sobre garantia física de eólicas e solares",
@@ -75,22 +75,22 @@
       "publishedAt": "2026-11-04T19:02:37.000Z"
     },
     {
-      "title": "Coluna Giro Energia: EDP e Motiva firmam parceria em geração de energia solar",
+      "title": "Cemig fornece energia renovável a 160 unidades do Exército em dez estados",
       "summary": "",
       "category": "mercado",
       "region": "BR",
       "source": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenNjTFdxcmxBRWxqM2o0ZVVOWkRCVXdkc2JaRUxobU9fRzlITUdsX09vS1FrNmZ6ZmJWekdORFQ4ajM4TUg2Rkc3Mkh6UUwyUlNnUU5ETFU2Rlc2LTBhemdPcDBRbkhIWTFfODExNHhBanE2MXB6RXRMaWNNdzR3SkxEQWVJLUpUS2dXYXYtNUF5YWprZEw1NzlNVGcyWmV4NDNPTUNZMnVPdE1NYWEyVnFiYzRScGE0eEYyM1F5VWxGemNJ?oc=5",
-      "publishedAt": "2026-11-04T12:02:59.000Z"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVc1OTBWanpiSUVkc1JNSGJyQU52MU1jV1AyRFptdndsTnB4aDV2cFZmODBLNVBXdnI0LUdDRHJ1cklDNUhrWHhQbUNRcW5yQlo1b0Q3OFZhRGhvelczUFd4UllXdHliaFc0c3AyMlRpQU9hTXhZSHk3dHp5V1h6VWZBRFllT2JhcE5GdkplRHFDM1Jkbmx1RV8wQ0EwaTBZT0hXY0lvRGE0Um5Nalo4X1ZuYzFlUjNvTU1tZ0xxY2U?oc=5",
+      "publishedAt": "2026-11-05T17:30:00.000Z"
     },
     {
-      "title": "Performance não é apenas disponibilidade",
-      "summary": "",
-      "category": "mercado",
+      "title": "MME cobra participação da Aneel em reuniões sobre Enel SP",
+      "summary": "Sede Enel O Ministério de Minas e Energia (MME) voltou a cobrar da Agência Nacional de Energia Elétrica (Aneel) a indicação de um representante…",
+      "category": "regulacao",
       "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQWtNT19vbm1xY0RfNnpxYWNYYmJ3YmVpS1lLLS1CWlo4eHlacGpjeUs4WUFiQmNENWZrNnZMck9obk9fNTJqY29xeUtJRE9XWU1aOHJ1Q0dnc2N1UmNZLVhtaXViRzFyM0JhcG9sTzJHazZmMVhwXzRnNktuR1VDTUZST1o0YUtRYWhKejhjNFpROGt0LWc?oc=5",
-      "publishedAt": "2026-11-03T18:40:49.000Z"
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/distribuicao/mme-cobra-participacao-da-aneel-em-reunioes-sobre-enel-sp/",
+      "publishedAt": "2026-11-05T15:25:20.000Z"
     }
   ],
   "tariffFlag": {
