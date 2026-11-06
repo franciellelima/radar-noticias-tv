@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-05T17:53:53.832Z",
+  "updatedAt": "2026-11-06T17:15:00.993Z",
   "ai": false,
   "items": [
+    {
+      "title": "Ceará aprova complexo solar de 203,7 MW com investimento de R$ 847 milhões",
+      "summary": "Empreendimento Pecém 1 e 2, da Cobra Brasil, será instalado em São Gonçalo do Amarante, ocupará 432 hectares e prevê a contratação de cerca de mil…",
+      "category": "mercado",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/06/ceara-aprova-complexo-solar-de-2037-mw-com-investimento-de-r-847-milhoes/",
+      "publishedAt": "2026-11-06T15:06:54.000Z"
+    },
+    {
+      "title": "Pesquisadores determinam inclinação e azimute de sistemas fotovoltaicos em telhados a partir de dados de potência",
+      "summary": "Uma equipe internacional de pesquisadores desenvolveu um método para determinar a inclinação e o azimute de sistemas fotovoltaicos em telhados com…",
+      "category": "tecnologia",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/06/researchers-recover-rooftop-pv-tilt-azimuth-from-power-data/",
+      "publishedAt": "2026-11-06T10:22:00.000Z"
+    },
+    {
+      "title": "Usinas solares e eólicas entram em discussão sobre revisão da garantia física",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQZWJ4NGhWa1lybGF1ZnhIN190SklvSy1sZ21KcXM3ZHVmRGsxbVgwRy1fSThUcjJYZXA2alZpQk83UmgzUHlwbG9sbjFJeUx5bVlobE1kNHJNZWM3V2JlRzJvU1Y0T2dWNGxGVlhRWlFfaXl6MkJWNGx3T05PZw?oc=5",
+      "publishedAt": "2026-11-05T20:22:42.000Z"
+    },
+    {
+      "title": "Grupo Solan e Movimento Solar Livre unem forças em tecnologia e educação para impulsionar o mercado de energia solar no",
+      "summary": "",
+      "category": "tecnologia",
+      "region": "BR",
+      "source": "Portal Solar",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPc2hzR2NLekg1Y1lfajh4cWpfVlJ2LVl2Ukg2YjdXaWEzSVlnbGNEMThOZ1R4LUIzU3hIYWcwZ0NRbmxDaXRqV0hobElfcnRGV0RiZE9Xb01zYlVSbWJlVWMwaHhWVE1EbHI2dHA1Y0dza2lVSlBMTGxzbURPOEQxaUVjVWU4SklzLWhLdy1vWjhCemEwbWZOeVBzbUdiQjhvVS0ybnlxUU9TelZmZ19nQlRXeFVXRGk3Q1B5eFRwOFVTNnB3WUEyMktjLXBReGswQ2hDWlBVY2dJbkNGbUFTZU52NmZ4TnI1bXNuSWpkXy1sNzV3aW9QZ2VaeVNmZ2p1VDZvRUFiaw?oc=5",
+      "publishedAt": "2026-11-05T20:07:57.000Z"
+    },
     {
       "title": "Fortlev Solar apresenta Lastro Laje para instalações fotovoltaicas sem perfuração",
       "summary": "",
@@ -10,15 +46,6 @@
       "source": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcmtlbDFrOUFqSXBSZ3J1aVJxYjR3cU54ZVdVY1JfQ2FhUFpoUWlzVExUWW11UzJkOXY1Z0F4eVNrUHg1Zm9MYzIxSk1YakRBV3pVd2R1WDBucG9sU1lBdGN0dmxFVFMtak9ZX25ZZUEta182RGl1UTRGUUxyeC1fWklQUWs4M3NrNnJFVGVqLVNKQQ?oc=5",
       "publishedAt": "2026-11-05T13:47:31.000Z"
-    },
-    {
-      "title": "Usina solar de 240 MW adota sistema inteligente de proteção perimetral no Ceará",
-      "summary": "Projeto da Qair em Icó utiliza fibra óptica, algoritmos de detecção e videomonitoramento integrado para monitorar 16 quilômetros de perímetro e…",
-      "category": "mercado",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/05/usina-solar-de-240-mw-adota-sistema-inteligente-de-protecao-perimetral-no-ceara/",
-      "publishedAt": "2026-11-05T13:30:00.000Z"
     },
     {
       "title": "Justiça afasta ICMS sobre créditos de energia solar utilizados por consumidores no MA",
@@ -30,49 +57,22 @@
       "publishedAt": "2026-11-05T11:50:59.000Z"
     },
     {
-      "title": "Capacidade de fabricação de módulos solares da Índia pode chegar a 3.480 GW até 2047",
-      "summary": "A Índia pode se tornar uma potência global na fabricação integrada de equipamentos solares até 2047, atraindo US$ 89 bilhões em investimentos,…",
-      "category": "mercado",
+      "title": "Brasil pode chegar a 10 GW de baterias instaladas em até cinco anos, projeta Voltxs",
+      "summary": "Empresa prevê avanço do armazenamento em aplicações de grande porte e junto à carga, com oportunidades associadas ao LRCAP, à arbitragem de…",
+      "category": "armazenamento",
       "region": "BR",
       "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/05/indias-solar-manufacturing-industry-could-generate-32-lakh-jobs-and-attract-89-billion-in-investments-by-2047-isma/",
-      "publishedAt": "2026-11-05T10:12:00.000Z"
+      "url": "https://www.pv-magazine-brasil.com/2026/11/06/brasil-pode-chegar-a-10-gw-de-baterias-instaladas-em-ate-cinco-anos-projeta-voltxs/",
+      "publishedAt": "2026-11-06T13:40:31.000Z"
     },
     {
-      "title": "Otimização do pó de níquel reduz em 6,8% o custo de metalização de células solares TOPCon sem comprometer a eficiência",
-      "summary": "Pesquisadores da Universidade de New South Wales (UNSW), na Austrália, em colaboração com a SunDrive e a Shenzhen APG, demonstraram que a…",
-      "category": "precos",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/05/nickel-powder-optimization-cuts-topcon-solar-cell-metallization-costs-by-6-8-without-compromising-efficiency/",
-      "publishedAt": "2026-11-05T10:11:00.000Z"
-    },
-    {
-      "title": "Furtos lideram ameaças à rentabilidade de usinas solares, alerta Brasol",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa1M3R09yaTdiMXc3TjdDVXpUSEVRdGxpbXJyX1AwUXZVck14ZzNUTHJBbGlTeU9zakY5SmRtY3BTd2cySkltV2VTcjhvRU01MDNMeEhoY2tyRlVMWGd3VTh1UkRVbEVLMUZNVFFaQVkyY2JZdGo1a1BXRWlwUHRKZnQtR3I?oc=5",
-      "publishedAt": "2026-11-04T19:35:25.000Z"
-    },
-    {
-      "title": "Cortes de geração podem entrar no cálculo da garantia física de eólicas e solares",
-      "summary": "Projetos de usinas solares e eólicas e a transmissão / Crédito: ThinkStock O Ministério de Minas e Energia (MME) abriu consulta pública para…",
-      "category": "regulacao",
+      "title": "Com R$ 10 bi para investir, Alupar não tem pressa por novos projetos",
+      "summary": "Linhas de transmissão da Alupar / Crédito: André Prietsch Com R$ 10,4 bilhões em investimentos previstos até 2031 e 15 projetos de transmissão em…",
+      "category": "armazenamento",
       "region": "BR",
       "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/geracao/cortes-de-geracao-podem-entrar-no-calculo-da-garantia-fisica-de-eolicas-e-solares/",
-      "publishedAt": "2026-11-05T13:54:47.000Z"
-    },
-    {
-      "title": "MME abre consulta sobre garantia física de eólicas e solares",
-      "summary": "",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ3NfOW0tbXZodHcyYU5rb01mTl9hSmNxNXdOUUx3OHpkU044Qjc0bGtWbndWYnBWVUhxcjdGeTZRSXd3blZlaU9uUlpnS0ZSZElLM2lKc1RwWWFjRU5DUVkzYnRtbVNBYVVidWI1Y3FTdU1YNldGSlFuSlRJV3FKNHRHclNybFFPUnFiRkJBY1VGeEtRSDJxSS00LW42WUdMLS1BYTRrZWpFdlpWcXVZ?oc=5",
-      "publishedAt": "2026-11-04T19:02:37.000Z"
+      "url": "https://megawhat.uol.com.br/economia-e-politica/resultados/com-r-10-bi-para-investir-alupar-nao-tem-pressa-por-novos-projetos/",
+      "publishedAt": "2026-11-05T22:45:56.000Z"
     },
     {
       "title": "Cemig fornece energia renovável a 160 unidades do Exército em dez estados",
@@ -82,15 +82,6 @@
       "source": "CanalEnergia",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVc1OTBWanpiSUVkc1JNSGJyQU52MU1jV1AyRFptdndsTnB4aDV2cFZmODBLNVBXdnI0LUdDRHJ1cklDNUhrWHhQbUNRcW5yQlo1b0Q3OFZhRGhvelczUFd4UllXdHliaFc0c3AyMlRpQU9hTXhZSHk3dHp5V1h6VWZBRFllT2JhcE5GdkplRHFDM1Jkbmx1RV8wQ0EwaTBZT0hXY0lvRGE0Um5Nalo4X1ZuYzFlUjNvTU1tZ0xxY2U?oc=5",
       "publishedAt": "2026-11-05T17:30:00.000Z"
-    },
-    {
-      "title": "MME cobra participação da Aneel em reuniões sobre Enel SP",
-      "summary": "Sede Enel O Ministério de Minas e Energia (MME) voltou a cobrar da Agência Nacional de Energia Elétrica (Aneel) a indicação de um representante…",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/distribuicao/mme-cobra-participacao-da-aneel-em-reunioes-sobre-enel-sp/",
-      "publishedAt": "2026-11-05T15:25:20.000Z"
     }
   ],
   "tariffFlag": {
