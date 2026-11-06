@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T17:15:00.993Z",
+  "updatedAt": "2026-11-06T22:51:05.069Z",
   "ai": false,
   "items": [
     {
@@ -48,13 +48,13 @@
       "publishedAt": "2026-11-05T13:47:31.000Z"
     },
     {
-      "title": "Justiça afasta ICMS sobre créditos de energia solar utilizados por consumidores no MA",
-      "summary": "",
-      "category": "mercado",
+      "title": "Mais de 70% da capacidade eólica e solar exigirá decisões até 2040",
+      "summary": "Usinas solares e eólicas - Foto: divulgação 2W Ecobank A repotenciação de usinas eólicas e solares poderá se tornar uma das principais estratégias…",
+      "category": "precos",
       "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NZGRUMVhLQW15ZzZXaFpub3htYTVrLTFrWkV3aWE4Q0FVZkprZG5WNTZCQjRDNUxGWGJLWEpPcjB3SWJBMHZvRFNmd0lQdzNoYW91bW1lWEl4WmlBSHVnSTlRZUxzajE4aGFVRFd3dEpwQngwZmZWN3F3?oc=5",
-      "publishedAt": "2026-11-05T11:50:59.000Z"
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/geracao/mais-de-70-da-capacidade-eolica-e-solar-exigira-decisoes-ate-2040/",
+      "publishedAt": "2026-11-06T19:06:20.000Z"
     },
     {
       "title": "Brasil pode chegar a 10 GW de baterias instaladas em até cinco anos, projeta Voltxs",
@@ -63,25 +63,34 @@
       "region": "BR",
       "source": "PV Magazine Brasil",
       "url": "https://www.pv-magazine-brasil.com/2026/11/06/brasil-pode-chegar-a-10-gw-de-baterias-instaladas-em-ate-cinco-anos-projeta-voltxs/",
-      "publishedAt": "2026-11-06T13:40:31.000Z"
+      "publishedAt": "2026-11-06T19:20:00.000Z"
     },
     {
-      "title": "Com R$ 10 bi para investir, Alupar não tem pressa por novos projetos",
-      "summary": "Linhas de transmissão da Alupar / Crédito: André Prietsch Com R$ 10,4 bilhões em investimentos previstos até 2031 e 15 projetos de transmissão em…",
-      "category": "armazenamento",
+      "title": "Cost of green hydrogen rises 26,9% in Brazil, according to a study by CELA.",
+      "summary": "",
+      "category": "mercado",
       "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/economia-e-politica/resultados/com-r-10-bi-para-investir-alupar-nao-tem-pressa-por-novos-projetos/",
-      "publishedAt": "2026-11-05T22:45:56.000Z"
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HMTZsT2QwaE00aU4tX3FhNTN1YmozWTIySFlxYnBFNTFGNGlzZkRseGd4bWstM3A3ZHJpSkxEVXBBeERIU2RWYzBIcWZYYS1lamh3UHdkSEVMVlNZZmNZZlBLOXhuVG9rckdNQ3ZQWEFkOHhFX0NNQWYwRFE?oc=5",
+      "publishedAt": "2026-11-06T18:43:40.000Z"
     },
     {
-      "title": "Cemig fornece energia renovável a 160 unidades do Exército em dez estados",
+      "title": "Lula destaca potencial renovável do Brasil para atração de Data Centers",
       "summary": "",
       "category": "mercado",
       "region": "BR",
       "source": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVc1OTBWanpiSUVkc1JNSGJyQU52MU1jV1AyRFptdndsTnB4aDV2cFZmODBLNVBXdnI0LUdDRHJ1cklDNUhrWHhQbUNRcW5yQlo1b0Q3OFZhRGhvelczUFd4UllXdHliaFc0c3AyMlRpQU9hTXhZSHk3dHp5V1h6VWZBRFllT2JhcE5GdkplRHFDM1Jkbmx1RV8wQ0EwaTBZT0hXY0lvRGE0Um5Nalo4X1ZuYzFlUjNvTU1tZ0xxY2U?oc=5",
-      "publishedAt": "2026-11-05T17:30:00.000Z"
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmdBYUdmcV9WUEpRaV9ZMzlEWTZNb1FWODRWS2lQUFJfS2lsVVozOUdFejJKTktrdjUtNVpvTDlxSDhHbWRHMmdFUkFoZmNVZVZFTFByWlZZOUFsc0NPNWhpbmRndml5ekg2OUhOTHdLczlwRlZ0Uk9vTF9QRWRuWDJERUttQ3FTRzhpTVlPZVpPSl9PbHVjc3ZaVXc0RmxuLWNJcWFQZDNmbFYtNFBXenhqbGFQYkRWTm5EbmNn?oc=5",
+      "publishedAt": "2026-11-06T22:16:37.000Z"
+    },
+    {
+      "title": "Parque eólico de R$ 1,5 bilhão recebe licença no Rio Grande do Sul",
+      "summary": "Complexo Eólico O Complexo Eólico Camoati, em Uruguaiana, no Rio Grande do Sul, recebeu Licença Prévia (LP) da Fundação Estadual de Proteção…",
+      "category": "mercado",
+      "region": "BR",
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/economia-e-politica/empresas/parque-eolico-de-r-15-bilhao-recebe-licenca-no-rio-grande-do-sul/",
+      "publishedAt": "2026-11-06T19:16:17.000Z"
     }
   ],
   "tariffFlag": {
