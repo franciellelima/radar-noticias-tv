@@ -1,96 +1,96 @@
 {
-  "updatedAt": "2026-11-06T22:51:05.069Z",
+  "updatedAt": "2026-11-09T20:30:55.014Z",
   "ai": false,
   "items": [
     {
-      "title": "Ceará aprova complexo solar de 203,7 MW com investimento de R$ 847 milhões",
-      "summary": "Empreendimento Pecém 1 e 2, da Cobra Brasil, será instalado em São Gonçalo do Amarante, ocupará 432 hectares e prevê a contratação de cerca de mil…",
-      "category": "mercado",
+      "title": "Solar adiciona 3,75 GW à matriz elétrica até outubro, enquanto eólicas lideram no mês",
+      "summary": "O Brasil ampliou a capacidade de geração centralizada em 5,89 GW nos dez primeiros meses de 2026.",
+      "category": "regulacao",
       "region": "BR",
       "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/06/ceara-aprova-complexo-solar-de-2037-mw-com-investimento-de-r-847-milhoes/",
-      "publishedAt": "2026-11-06T15:06:54.000Z"
+      "url": "https://www.pv-magazine-brasil.com/2026/11/09/solar-adiciona-375-gw-a-matriz-eletrica-ate-outubro-enquanto-eolicas-lideram-no-mes/",
+      "publishedAt": "2026-11-09T14:57:44.000Z"
     },
     {
-      "title": "Pesquisadores determinam inclinação e azimute de sistemas fotovoltaicos em telhados a partir de dados de potência",
-      "summary": "Uma equipe internacional de pesquisadores desenvolveu um método para determinar a inclinação e o azimute de sistemas fotovoltaicos em telhados com…",
+      "title": "São Bernardo inicia instalação de energia solar em sete prédios públicos com investimento de R$ 4,5 milhões",
+      "summary": "Projeto prevê sete sistemas fotovoltaicos, com potência de 697,9 kWp, e modernização da iluminação em dez unidades municipais.",
+      "category": "regulacao",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/09/sao-bernardo-inicia-instalacao-de-energia-solar-em-sete-predios-publicos-com-investimento-de-r-45-milhoes/",
+      "publishedAt": "2026-11-09T13:20:34.000Z"
+    },
+    {
+      "title": "Tecnologia brasileira permite observar células solares em operação em escala nanométrica",
+      "summary": "Equipamento desenvolvido por pesquisadores do CNPEM combina microscopia de raios X com controle de temperatura, iluminação e umidade para…",
       "category": "tecnologia",
       "region": "BR",
       "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/06/researchers-recover-rooftop-pv-tilt-azimuth-from-power-data/",
-      "publishedAt": "2026-11-06T10:22:00.000Z"
+      "url": "https://www.pv-magazine-brasil.com/2026/11/09/tecnologia-brasileira-permite-observar-celulas-solares-em-operacao-em-escala-nanometrica/",
+      "publishedAt": "2026-11-09T12:30:00.000Z"
     },
     {
-      "title": "Usinas solares e eólicas entram em discussão sobre revisão da garantia física",
+      "title": "México licita usina solar com baterias e hidrogênio verde",
+      "summary": "",
+      "category": "armazenamento",
+      "region": "INT",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS0tJREJDU1hYSHJ3NGNmSkg4czZPUkFNOTJBR3RWUXl2NGJJOU1zZFVhY3RRZ1JlT3FZU2kxb3lfc2NTcGc1cTlHVkNYbEdjMEs2THJnRklFMjVsU0Nxdk9ldW15SEUzTlcxSlFPaDJISkhPVDYxNGgzcmNGQUVScFptSFlNRy1W?oc=5",
+      "publishedAt": "2026-11-07T20:00:37.000Z"
+    },
+    {
+      "title": "Novembro começa com projeção de afluências acima da média em dois dos maiores subsistemas do país",
       "summary": "",
       "category": "mercado",
       "region": "BR",
       "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQZWJ4NGhWa1lybGF1ZnhIN190SklvSy1sZ21KcXM3ZHVmRGsxbVgwRy1fSThUcjJYZXA2alZpQk83UmgzUHlwbG9sbjFJeUx5bVlobE1kNHJNZWM3V2JlRzJvU1Y0T2dWNGxGVlhRWlFfaXl6MkJWNGx3T05PZw?oc=5",
-      "publishedAt": "2026-11-05T20:22:42.000Z"
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ub3Q0c1gxSUlfWWJSdF84ZGdILTFoemZSUEFiVUdzRVlhV0VNMlV1bGZIWWZWVGZzVlZyWTlqLUFIVVNPdjc5VXdZbXNTMV9OMVBic3liREFoYUx5YWpVS3IxcGZTcU1xdTJXZmdQQUtUZGFteHZyZTJ3?oc=5",
+      "publishedAt": "2026-11-09T17:00:25.000Z"
     },
     {
-      "title": "Grupo Solan e Movimento Solar Livre unem forças em tecnologia e educação para impulsionar o mercado de energia solar no",
+      "title": "Trina estuda fábrica no Brasil e já cotou mais de 50 GWh em projetos de baterias",
       "summary": "",
-      "category": "tecnologia",
-      "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPc2hzR2NLekg1Y1lfajh4cWpfVlJ2LVl2Ukg2YjdXaWEzSVlnbGNEMThOZ1R4LUIzU3hIYWcwZ0NRbmxDaXRqV0hobElfcnRGV0RiZE9Xb01zYlVSbWJlVWMwaHhWVE1EbHI2dHA1Y0dza2lVSlBMTGxzbURPOEQxaUVjVWU4SklzLWhLdy1vWjhCemEwbWZOeVBzbUdiQjhvVS0ybnlxUU9TelZmZ19nQlRXeFVXRGk3Q1B5eFRwOFVTNnB3WUEyMktjLXBReGswQ2hDWlBVY2dJbkNGbUFTZU52NmZ4TnI1bXNuSWpkXy1sNzV3aW9QZ2VaeVNmZ2p1VDZvRUFiaw?oc=5",
-      "publishedAt": "2026-11-05T20:07:57.000Z"
-    },
-    {
-      "title": "Fortlev Solar apresenta Lastro Laje para instalações fotovoltaicas sem perfuração",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcmtlbDFrOUFqSXBSZ3J1aVJxYjR3cU54ZVdVY1JfQ2FhUFpoUWlzVExUWW11UzJkOXY1Z0F4eVNrUHg1Zm9MYzIxSk1YakRBV3pVd2R1WDBucG9sU1lBdGN0dmxFVFMtak9ZX25ZZUEta182RGl1UTRGUUxyeC1fWklQUWs4M3NrNnJFVGVqLVNKQQ?oc=5",
-      "publishedAt": "2026-11-05T13:47:31.000Z"
-    },
-    {
-      "title": "Mais de 70% da capacidade eólica e solar exigirá decisões até 2040",
-      "summary": "Usinas solares e eólicas - Foto: divulgação 2W Ecobank A repotenciação de usinas eólicas e solares poderá se tornar uma das principais estratégias…",
-      "category": "precos",
-      "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/geracao/mais-de-70-da-capacidade-eolica-e-solar-exigira-decisoes-ate-2040/",
-      "publishedAt": "2026-11-06T19:06:20.000Z"
-    },
-    {
-      "title": "Brasil pode chegar a 10 GW de baterias instaladas em até cinco anos, projeta Voltxs",
-      "summary": "Empresa prevê avanço do armazenamento em aplicações de grande porte e junto à carga, com oportunidades associadas ao LRCAP, à arbitragem de…",
       "category": "armazenamento",
       "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/06/brasil-pode-chegar-a-10-gw-de-baterias-instaladas-em-ate-cinco-anos-projeta-voltxs/",
-      "publishedAt": "2026-11-06T19:20:00.000Z"
-    },
-    {
-      "title": "Cost of green hydrogen rises 26,9% in Brazil, according to a study by CELA.",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
       "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HMTZsT2QwaE00aU4tX3FhNTN1YmozWTIySFlxYnBFNTFGNGlzZkRseGd4bWstM3A3ZHJpSkxEVXBBeERIU2RWYzBIcWZYYS1lamh3UHdkSEVMVlNZZmNZZlBLOXhuVG9rckdNQ3ZQWEFkOHhFX0NNQWYwRFE?oc=5",
-      "publishedAt": "2026-11-06T18:43:40.000Z"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LampKODVoVFdySkR4VTRiXzYwMjlYVTBRajB2aXZyano2N0toR1AySmZrT0kyMXp5N1ZJVkFST2tBbjdQSXlRVk1ETlExMWQwUFNxT1ZhTjNqY1FZMmgtOEtvOXZaTU54OEQ2YzZsWQ?oc=5",
+      "publishedAt": "2026-11-09T16:20:51.000Z"
     },
     {
-      "title": "Lula destaca potencial renovável do Brasil para atração de Data Centers",
+      "title": "AIE: capacidade global renovável deve crescer 4.800 GW até 2031",
       "summary": "",
       "category": "mercado",
       "region": "BR",
       "source": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbmdBYUdmcV9WUEpRaV9ZMzlEWTZNb1FWODRWS2lQUFJfS2lsVVozOUdFejJKTktrdjUtNVpvTDlxSDhHbWRHMmdFUkFoZmNVZVZFTFByWlZZOUFsc0NPNWhpbmRndml5ekg2OUhOTHdLczlwRlZ0Uk9vTF9QRWRuWDJERUttQ3FTRzhpTVlPZVpPSl9PbHVjc3ZaVXc0RmxuLWNJcWFQZDNmbFYtNFBXenhqbGFQYkRWTm5EbmNn?oc=5",
-      "publishedAt": "2026-11-06T22:16:37.000Z"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalN1MzEtdzljeC1DaFpXTk51SFF4Z2dOdWVNaHAwRDJVQWJyd0J3ZllnczV5R1J5TUY5LXJiSnRoWEJRUUMwZmo1bTBwWUJGTE10eXl1aWRLcllSb3JLOTM3Z2hBV2JLTmlsTG5kVm9WcmdwX3NvbUNwTVRqQzBFcmtpSVVLOE0tX1JVM3FmRjBjQUdYUUlxNUVVd201NlR6bnliMHY0NmxkSzJ2TGowYzJB?oc=5",
+      "publishedAt": "2026-11-09T19:05:12.000Z"
     },
     {
-      "title": "Parque eólico de R$ 1,5 bilhão recebe licença no Rio Grande do Sul",
-      "summary": "Complexo Eólico O Complexo Eólico Camoati, em Uruguaiana, no Rio Grande do Sul, recebeu Licença Prévia (LP) da Fundação Estadual de Proteção…",
-      "category": "mercado",
+      "title": "Associações acionam governo por aprovação de PL que muda rateio de custos de baterias",
+      "summary": "Baterias da WEG em projeto da Copel Sete associações do setor elétrico afirmam que os custos da contratação de sistemas de armazenamento de…",
+      "category": "armazenamento",
       "region": "BR",
       "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/economia-e-politica/empresas/parque-eolico-de-r-15-bilhao-recebe-licenca-no-rio-grande-do-sul/",
-      "publishedAt": "2026-11-06T19:16:17.000Z"
+      "url": "https://megawhat.uol.com.br/armazenamento/associacoes-acionam-governo-por-aprovacao-de-pl-que-muda-rateio-de-custos-de-baterias/",
+      "publishedAt": "2026-11-09T18:31:28.000Z"
+    },
+    {
+      "title": "Rio Alto propõe renegociar R$ 2,63 bi e mira leilão de baterias",
+      "summary": "UFV Coremas, da Rio Alto. Foto: Divulgação O grupo Rio Alto apresentou um novo plano de recuperação extrajudicial para reestruturar…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/economia-e-politica/empresas/rio-alto-propoe-renegociar-r-263-bi-e-mira-leilao-de-baterias/",
+      "publishedAt": "2026-11-09T17:45:39.000Z"
+    },
+    {
+      "title": "Cortes de geração renovável podem mais que quadruplicar até 2031, alerta IEA",
+      "summary": "Projetos de usinas solares e eólicas e a transmissão / Crédito: ThinkStock Os cortes de geração de energia, o curtailment, podem mais que…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/geracao/cortes-de-geracao-renovavel-podem-mais-que-quadruplicar-ate-2031-alerta-iea/",
+      "publishedAt": "2026-11-09T16:29:30.000Z"
     }
   ],
   "tariffFlag": {
