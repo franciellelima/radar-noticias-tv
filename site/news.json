@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-09T20:30:55.014Z",
+  "updatedAt": "2026-11-10T03:59:16.221Z",
   "ai": false,
   "items": [
+    {
+      "title": "ANEEL propõe incluir sistemas solares e eletropostos em nova tarifa horária",
+      "summary": "",
+      "category": "regulacao",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOG9GSkR3eHRIZWFXQ2V6cnpIZnhlVWk5Wk1neHR2UjNHY3lHeU04RlA5ZGI5TzVFWTFXY21OVWVwcVJFRlJCQ0RwU3ZWcERjN1psU0NyYnBkUlhKNm1YUFlEZVVOYlg3QkFnQkx2YUdWU2E5VGpGNDlxdURCc3FkYk03RTZTZ3J4SEtLS25Vaw?oc=5",
+      "publishedAt": "2026-11-09T20:36:36.000Z"
+    },
     {
       "title": "Solar adiciona 3,75 GW à matriz elétrica até outubro, enquanto eólicas lideram no mês",
       "summary": "O Brasil ampliou a capacidade de geração centralizada em 5,89 GW nos dez primeiros meses de 2026.",
@@ -46,15 +55,6 @@
       "source": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ub3Q0c1gxSUlfWWJSdF84ZGdILTFoemZSUEFiVUdzRVlhV0VNMlV1bGZIWWZWVGZzVlZyWTlqLUFIVVNPdjc5VXdZbXNTMV9OMVBic3liREFoYUx5YWpVS3IxcGZTcU1xdTJXZmdQQUtUZGFteHZyZTJ3?oc=5",
       "publishedAt": "2026-11-09T17:00:25.000Z"
-    },
-    {
-      "title": "Trina estuda fábrica no Brasil e já cotou mais de 50 GWh em projetos de baterias",
-      "summary": "",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LampKODVoVFdySkR4VTRiXzYwMjlYVTBRajB2aXZyano2N0toR1AySmZrT0kyMXp5N1ZJVkFST2tBbjdQSXlRVk1ETlExMWQwUFNxT1ZhTjNqY1FZMmgtOEtvOXZaTU54OEQ2YzZsWQ?oc=5",
-      "publishedAt": "2026-11-09T16:20:51.000Z"
     },
     {
       "title": "AIE: capacidade global renovável deve crescer 4.800 GW até 2031",
