@@ -1,15 +1,33 @@
 {
-  "updatedAt": "2026-11-10T17:32:43.758Z",
+  "updatedAt": "2026-11-10T22:58:01.175Z",
   "ai": false,
   "items": [
     {
-      "title": "Demanda por energia solar cresce, mas 90% das fabricantes acumulam prejuizos em 2026, aponta IEA",
+      "title": "Conheça os dispositivos de segurança fotovoltaica nas instalações",
       "summary": "",
       "category": "mercado",
       "region": "BR",
       "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Oa1ZhR2d4SkpMd1Q4cGZTVENkbm84VGx4REgxUjUySjdFNkpGS1A5ZmdoRkJVNk9vR1hUU0NxUkduWW9xMlRRUGxweWN0YVhmd3Z1bTFrT1RGVG1IYmdOT1ljLWgyTWxSa0lBWXJlaUVpdU1HOTV3OHZB?oc=5",
-      "publishedAt": "2026-11-10T15:35:18.000Z"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHFfVE52M2Rfa3JNNWlYakdocXV3Qnp5QWh3UjlXdF9yWVJmS3M1Y1lFQmZhYmc1Um5wRl9EMTE2X0liYUlWY1pEU2thYmhKcGlhX1NRZUN6WE1CU1FQUS1PRkZqNHVDekdhV0RpaWZ5VnlCTE9OTmRHLWd4LWF5SDVpc0ZINzZt?oc=5",
+      "publishedAt": "2026-11-10T20:26:42.000Z"
+    },
+    {
+      "title": "Tarifa Hora Certa e a nova realidade dos projetos solares no Brasil",
+      "summary": "",
+      "category": "regulacao",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWNzU3U3S2JEazNVbWJncl96YmlNTFVBWlZ1ZkRQbHhOYnZzWWNsbm81Rllrclp0WDUyTHNpdkFLZ2VfdEhpem1EdUFveU9lWlkxYjJGN3NJRWFSdENQMHl1Z2dLTWszWnBicVNxM053RUdpWlFXd0U5M2RlNVI4Vzh1eVNwM1lrV0E?oc=5",
+      "publishedAt": "2026-11-10T19:49:28.000Z"
+    },
+    {
+      "title": "Mais potência ou mais eficiência? O que realmente reduz o custo de uma usina solar",
+      "summary": "",
+      "category": "precos",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0J1bjZacTRzQTNlVFZUM0J2c2JWWUhMdFQ2MWszWC0tTGh3cE5kZGs0QW01cTIza0d3N2RNRFg0QkxyaHJZVEJBT2hGRnBrWlRNN2RRTVZxZVBqbmVQV2tsb1lVNXhvOFBjTGs4QXUtaFJ3enlOeEhENUFuYVZvNE1Zbw?oc=5",
+      "publishedAt": "2026-11-10T17:31:50.000Z"
     },
     {
       "title": "DAH Solar lança Smart PCS para adicionar baterias a sistemas fotovoltaicos existentes",
@@ -57,24 +75,6 @@
       "publishedAt": "2026-11-10T12:28:00.000Z"
     },
     {
-      "title": "Mais de 2,5 TW em usinas eólicas e solares precisarão de renovação nas próximas décadas",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVW9TWUd4WmFfTWVyVjR2LVZ1TmVVbXVXQzBuRG1pNDhyS2d4d0x4b2M0by1yT1lpX1lkdHdnRVJHam9RUUFOUE5IYzdyM0ctVG9fTzdSWmpOUlgyYkJ6WlhSOWJFOFZmUks0b1dBbVBtaXNQblJEbTVuWTFWa0prRw?oc=5",
-      "publishedAt": "2026-11-10T11:47:19.000Z"
-    },
-    {
-      "title": "ANEEL propõe incluir sistemas solares e eletropostos em nova tarifa horária",
-      "summary": "",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOG9GSkR3eHRIZWFXQ2V6cnpIZnhlVWk5Wk1neHR2UjNHY3lHeU04RlA5ZGI5TzVFWTFXY21OVWVwcVJFRlJCQ0RwU3ZWcERjN1psU0NyYnBkUlhKNm1YUFlEZVVOYlg3QkFnQkx2YUdWU2E5VGpGNDlxdURCc3FkYk03RTZTZ3J4SEtLS25Vaw?oc=5",
-      "publishedAt": "2026-11-09T20:36:36.000Z"
-    },
-    {
       "title": "Índice de modulação de outubro mostra solar e eólica em queda, hídrica em alta",
       "summary": "",
       "category": "precos",
@@ -84,13 +84,13 @@
       "publishedAt": "2026-11-10T14:20:00.000Z"
     },
     {
-      "title": "Abradee propõe tarifas diferentes para GD local e remota",
-      "summary": "GD Solar e preços/ Crédito: Celesc (Divulgação) A Associação Brasileira de Distribuidores de Energia Elétrica (Abradee) propôs a criação de…",
+      "title": "Privatização de estatal do carvão vai bancar descarbonização no Rio Grande do Sul",
+      "summary": "Estoque de Carvão da UTE Jorge Lacerda, da Diamante Energia - Crédito: Agência Alesc O governo do Rio Grande do Sul anunciou nesta terça-feira, 10…",
       "category": "regulacao",
       "region": "BR",
       "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/geracao/micro-e-minigeracao-distribuida/abradee-propoe-tarifas-diferentes-para-gd-local-e-remota/",
-      "publishedAt": "2026-11-10T14:43:39.000Z"
+      "url": "https://megawhat.uol.com.br/economia-e-politica/privatizacao-de-estatal-do-carvao-vai-bancar-descarbonizacao-no-rio-grande-do-sul/",
+      "publishedAt": "2026-11-10T19:30:00.000Z"
     }
   ],
   "tariffFlag": {
