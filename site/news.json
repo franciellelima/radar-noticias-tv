@@ -1,15 +1,33 @@
 {
-  "updatedAt": "2026-11-10T22:58:01.175Z",
+  "updatedAt": "2026-11-11T17:45:25.629Z",
   "ai": false,
   "items": [
     {
-      "title": "Conheça os dispositivos de segurança fotovoltaica nas instalações",
+      "title": "7 erros que integradores solares cometem na instalação de sistemas fotovoltaicos (e como evitá-los)",
       "summary": "",
       "category": "mercado",
       "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHFfVE52M2Rfa3JNNWlYakdocXV3Qnp5QWh3UjlXdF9yWVJmS3M1Y1lFQmZhYmc1Um5wRl9EMTE2X0liYUlWY1pEU2thYmhKcGlhX1NRZUN6WE1CU1FQUS1PRkZqNHVDekdhV0RpaWZ5VnlCTE9OTmRHLWd4LWF5SDVpc0ZINzZt?oc=5",
-      "publishedAt": "2026-11-10T20:26:42.000Z"
+      "source": "Portal Solar",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQm5oTC0zWXdFbldSOFZEcGRKS1U0UGhxVFFtWWNNNlpleEpvNEdtRTc0RDB1M0liZU0tMGI5ZjJ4Rm4wWnJMbU1pNDIxNm5PTVZwZUhNSUFaNWlMeFBydWRfQ1BZaUg4SVJDUWpGaF95dUIwbXllOEhuT2lJbERWT1BxZ3hHSlVqdmhDYUJGYTFhNTFpV1FfdVNjSFJ1YjVPdVpSMlZPSVJpT3ZNVGdmNGl1ZGh6WXZFVEYzOVE3d01hck12RlNuaW11WHRYM0hkN25mLTJRUFJDd3NTMnRNeE1R?oc=5",
+      "publishedAt": "2026-11-11T17:12:59.000Z"
+    },
+    {
+      "title": "Itaipu avalia ampliar usina solar flutuante para 10 MW com armazenamento em baterias",
+      "summary": "Projeto-piloto instalado no reservatório da hidrelétrica já soma aproximadamente 1,1 MW de potência, mas grupo binacional deve concluir estudos…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/11/itaipu-avalia-ampliar-usina-solar-flutuante-para-10-mw-com-armazenamento-em-baterias/",
+      "publishedAt": "2026-11-11T12:29:50.000Z"
+    },
+    {
+      "title": "Stellantis testa sistema solar de 15 kWp com armazenamento em baterias em fábrica de Minas Gerais",
+      "summary": "Projeto-piloto Power Clean combina 46 telhas fotovoltaicas e seis baterias de lítio no Polo Automotivo de Betim; iniciativa criada por duas…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/11/stellantis-testa-sistema-solar-de-15-kwp-com-armazenamento-em-baterias-em-fabrica-de-minas-gerais/",
+      "publishedAt": "2026-11-11T12:28:48.000Z"
     },
     {
       "title": "Tarifa Hora Certa e a nova realidade dos projetos solares no Brasil",
@@ -18,7 +36,16 @@
       "region": "BR",
       "source": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWNzU3U3S2JEazNVbWJncl96YmlNTFVBWlZ1ZkRQbHhOYnZzWWNsbm81Rllrclp0WDUyTHNpdkFLZ2VfdEhpem1EdUFveU9lWlkxYjJGN3NJRWFSdENQMHl1Z2dLTWszWnBicVNxM053RUdpWlFXd0U5M2RlNVI4Vzh1eVNwM1lrV0E?oc=5",
-      "publishedAt": "2026-11-10T19:49:28.000Z"
+      "publishedAt": "2026-11-10T20:28:28.000Z"
+    },
+    {
+      "title": "Conheça os dispositivos de segurança fotovoltaica nas instalações",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHFfVE52M2Rfa3JNNWlYakdocXV3Qnp5QWh3UjlXdF9yWVJmS3M1Y1lFQmZhYmc1Um5wRl9EMTE2X0liYUlWY1pEU2thYmhKcGlhX1NRZUN6WE1CU1FQUS1PRkZqNHVDekdhV0RpaWZ5VnlCTE9OTmRHLWd4LWF5SDVpc0ZINzZt?oc=5",
+      "publishedAt": "2026-11-10T20:26:42.000Z"
     },
     {
       "title": "Mais potência ou mais eficiência? O que realmente reduz o custo de uma usina solar",
@@ -39,15 +66,6 @@
       "publishedAt": "2026-11-10T14:27:09.000Z"
     },
     {
-      "title": "Resíduos de painéis solares geram nanopartículas de sílica para ânodos de baterias",
-      "summary": "Nanopartículas de sílica produzidas a partir de pó de células solares em fim de vida útil aumentaram a capacidade de ânodos de grafite em baterias…",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/10/solar-panel-waste-yields-silica-nanoparticles-for-battery-anodes/",
-      "publishedAt": "2026-11-10T13:26:00.000Z"
-    },
-    {
       "title": "360 Solar 2026 reúne mercado em Florianópolis e encerra sexta edição com saldo positivo",
       "summary": "",
       "category": "mercado",
@@ -55,15 +73,6 @@
       "source": "Portal Solar",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOc1NVT1NNbV94S1B0bDcxTFhqQWFOSUxLb1luRUszcGtIdDk5cTJMT1dIek1ZSjU5ZGhtcmVSZW9NVkxNU1oxMWJuWVdOaHFTWHBkT0ZoSksydmN0NkRISjRsT0ItcVlfT0pFM2FwYXJpYkZqcm11MmlsbERXWTI2ZjNtLW1tSmhVQ1RhMWFjSkRYZ0kzdDN2aDNKRjZLYU8ySENOOEZneU9NdHVpc3VkdDRGeUFJNHU4dlQtTm9ZYng0WmpzVEtURTUxeFlFRy1wQTh1SW9IQ1lZYWEw?oc=5",
       "publishedAt": "2026-11-10T13:19:55.000Z"
-    },
-    {
-      "title": "Tarifa Hora Certa pode mudar planejamento de sistemas solares e ampliar espaço para baterias",
-      "summary": "Proposta da Aneel prevê enquadramento obrigatório de novas conexões de geração distribuída e cria sinalização horária que pode influenciar a…",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/10/tarifa-hora-certa-pode-mudar-planejamento-de-sistemas-solares-e-ampliar-espaco-para-baterias/",
-      "publishedAt": "2026-11-10T12:35:42.000Z"
     },
     {
       "title": "O futuro da energia solar não depende apenas de gerar mais, mas de entregar melhor",
@@ -75,22 +84,13 @@
       "publishedAt": "2026-11-10T12:28:00.000Z"
     },
     {
-      "title": "Índice de modulação de outubro mostra solar e eólica em queda, hídrica em alta",
+      "title": "Voltalia conquista 2º lugar no Prêmio ONS de Qualidade na Operação em geração fotovoltaica",
       "summary": "",
-      "category": "precos",
+      "category": "mercado",
       "region": "BR",
       "source": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1hMUngzVFI5RE1LTHBBRmF1UU1lWGNsdk5QYnVyQzJPT202a3V1QlVtZkZqYmE3RUpnSTNWX01SRHpfVFZVMVc5a2RUekYybjNGM2t3YTBDb3daQ2FLVjJzQzJCeW1peXN3SF9kZC1XaWNPdmM3VVJDeTZvcW1Td2tCRmFhNHg5V2JPZzZySHRuaXdQUF9xVFFnT2dTQjFTU3g2Z1BRSUN3NUMzNGRFUEpUSWlLQ3djYmNZU185eVgzZ1AtTGc?oc=5",
-      "publishedAt": "2026-11-10T14:20:00.000Z"
-    },
-    {
-      "title": "Privatização de estatal do carvão vai bancar descarbonização no Rio Grande do Sul",
-      "summary": "Estoque de Carvão da UTE Jorge Lacerda, da Diamante Energia - Crédito: Agência Alesc O governo do Rio Grande do Sul anunciou nesta terça-feira, 10…",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/economia-e-politica/privatizacao-de-estatal-do-carvao-vai-bancar-descarbonizacao-no-rio-grande-do-sul/",
-      "publishedAt": "2026-11-10T19:30:00.000Z"
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSnh6VjlPcjBWbnFWaDhfNXdmdnI5OGw4T05MSFcwbmktNDdyN2RuRm9EVWRpLTRpLVBTYkdSU1VzQXpNb0JZaVRPSVpvQVI1ODFPRDNZN3p5b09yU2tXX1dfSFlGLUhsQlVlbWRmX3FaS2tHOTVLVHRRbVp2SGxKemFOeTNKUmxaTGhwalJHaUxGX1ZkaVc1N0gycFNZTHZUbk5obm5zalFUNGpnNWVXSEdpRkFYYkttZFIwQlVMWkNvWlMwZHBseGg2LWJVTTFQRzdYRkx0UQ?oc=5",
+      "publishedAt": "2026-11-11T12:00:00.000Z"
     }
   ],
   "tariffFlag": {
