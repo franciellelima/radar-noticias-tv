@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-12T00:14:02.358Z",
+  "updatedAt": "2026-11-12T17:58:27.365Z",
   "ai": false,
   "items": [
+    {
+      "title": "KRJ apresenta na 360 Solar conector KSE K4 para painéis fotovoltaicos",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Portal Solar",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeHhrdmRiQXoyblk5UDcxWmhIVXhteUdqQjN6dkE1OXotdlQ2QWdYWU9fZlA3ZDBIUnpEbkNsTThVVFB2cm1FM25uNzdSSkJ0cXVpQjNrVGdOU3hBRkhoOVZ3R3ByS2J1SFQ2T0ozUXQxUWRyemVnaC1TTTFBdU9vdXZsVDZaVHFQUDNIeTRZcERKRGF1aWhrVUJPdl9nS2VWUTVBOFZCTk5VZ1U2cFlFYUNaVnpfcXNEYXBVQXZiazZld2pT?oc=5",
+      "publishedAt": "2026-11-12T17:12:49.000Z"
+    },
+    {
+      "title": "Com solução nacionalizada, e-Storage Canadian Solar mira fornecer mais de 1 GW em BESS para leilão",
+      "summary": "Empresa reúne pipeline potencial de mais de 2 GW de potência e aposta em duas configurações de sistemas, com equipamentos e integração local, para…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/12/com-solucao-nacionalizada-e-storage-canadian-solar-mira-fornecer-mais-de-1-gw-em-bess-para-leilao/",
+      "publishedAt": "2026-11-12T16:21:19.000Z"
+    },
+    {
+      "title": "Neoenergia Coelba destina R$ 60 milhões a projetos de energia solar e armazenamento na Bahia",
+      "summary": "Chamada pública do Programa de Eficiência Energética contempla iniciativas nos setores industrial, rural, comercial, público e residencial,…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/12/neoenergia-coelba-destina-r-60-milhoes-a-projetos-de-energia-solar-e-armazenamento-na-bahia/",
+      "publishedAt": "2026-11-12T15:29:14.000Z"
+    },
+    {
+      "title": "Energia solar vai abastecer sistemas de água e irrigação em aldeias Xavante de Mato Grosso",
+      "summary": "Projeto-piloto da Empaer prevê instalação de sistemas fotovoltaicos nas aldeias Santa Benedita e Madre Laura, na Terra Indígena Parabubure, para…",
+      "category": "mercado",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/12/energia-solar-vai-abastecer-sistemas-de-agua-e-irrigacao-em-aldeias-xavante-de-mato-grosso/",
+      "publishedAt": "2026-11-12T12:23:33.000Z"
+    },
     {
       "title": "Tarifa Hora Certa: associações apontam riscos para geração solar",
       "summary": "",
@@ -21,6 +57,15 @@
       "publishedAt": "2026-11-11T18:50:06.000Z"
     },
     {
+      "title": "Solar expansion in Brazil faces environmental challenges, according to EPE.",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTklqb3pWNmlaU1NwQmhScFIyaDhTSTF5XzFPMkFfTGd5dWw3SXgwVE5MWTdReWp3NGJXZWR5RWZvcFBodl95Y3VpU29oRnZqQlFqcEEzYXVXaEZMM1NMS0xad2ZqZGxhS0VWNkJrWTdlS04teEp2VGpLTlJIYkpibmR3Vk52Tno3RWFSdWc5MA?oc=5",
+      "publishedAt": "2026-11-11T18:50:06.000Z"
+    },
+    {
       "title": "7 erros que integradores solares cometem na instalação de sistemas fotovoltaicos (e como evitá-los)",
       "summary": "",
       "category": "mercado",
@@ -30,67 +75,22 @@
       "publishedAt": "2026-11-11T17:12:59.000Z"
     },
     {
-      "title": "Itaipu avalia ampliar usina solar flutuante para 10 MW com armazenamento em baterias",
-      "summary": "Projeto-piloto instalado no reservatório da hidrelétrica já soma aproximadamente 1,1 MW de potência, mas grupo binacional deve concluir estudos…",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/11/itaipu-avalia-ampliar-usina-solar-flutuante-para-10-mw-com-armazenamento-em-baterias/",
-      "publishedAt": "2026-11-11T12:29:50.000Z"
-    },
-    {
-      "title": "Stellantis testa sistema solar de 15 kWp com armazenamento em baterias em fábrica de Minas Gerais",
-      "summary": "Projeto-piloto Power Clean combina 46 telhas fotovoltaicas e seis baterias de lítio no Polo Automotivo de Betim; iniciativa criada por duas…",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/11/stellantis-testa-sistema-solar-de-15-kwp-com-armazenamento-em-baterias-em-fabrica-de-minas-gerais/",
-      "publishedAt": "2026-11-11T12:28:48.000Z"
-    },
-    {
-      "title": "Tarifa Hora Certa e a nova realidade dos projetos solares no Brasil",
-      "summary": "",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWNzU3U3S2JEazNVbWJncl96YmlNTFVBWlZ1ZkRQbHhOYnZzWWNsbm81Rllrclp0WDUyTHNpdkFLZ2VfdEhpem1EdUFveU9lWlkxYjJGN3NJRWFSdENQMHl1Z2dLTWszWnBicVNxM053RUdpWlFXd0U5M2RlNVI4Vzh1eVNwM1lrV0E?oc=5",
-      "publishedAt": "2026-11-10T20:28:28.000Z"
-    },
-    {
-      "title": "Voltalia conquista 2º lugar no Prêmio ONS de Qualidade na Operação em geração fotovoltaica",
+      "title": "A transição energética precisa avançar. Mas quem está pagando essa conta?",
       "summary": "",
       "category": "mercado",
-      "region": "BR",
-      "source": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSnh6VjlPcjBWbnFWaDhfNXdmdnI5OGw4T05MSFcwbmktNDdyN2RuRm9EVWRpLTRpLVBTYkdSU1VzQXpNb0JZaVRPSVpvQVI1ODFPRDNZN3p5b09yU2tXX1dfSFlGLUhsQlVlbWRmX3FaS2tHOTVLVHRRbVp2SGxKemFOeTNKUmxaTGhwalJHaUxGX1ZkaVc1N0gycFNZTHZUbk5obm5zalFUNGpnNWVXSEdpRkFYYkttZFIwQlVMWkNvWlMwZHBseGg2LWJVTTFQRzdYRkx0UQ?oc=5",
-      "publishedAt": "2026-11-11T12:00:00.000Z"
-    },
-    {
-      "title": "Coalizão e-Dutra anuncia três pontos de recarga para caminhões elétricos entre SP e Rio",
-      "summary": "Infraestrutura terá três carregadores de 180 kW em Guarulhos, Roseira e São João de Meriti.",
-      "category": "mercado",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/11/coalizao-e-dutra-anuncia-tres-pontos-de-recarga-para-caminhoes-eletricos-entre-sp-e-rio/",
-      "publishedAt": "2026-11-11T18:57:55.000Z"
-    },
-    {
-      "title": "A Revolução Silenciosa da Mobilidade: Desbravando os Custos, os Valores e o Futuro dos Eletropostos",
-      "summary": "",
-      "category": "precos",
       "region": "BR",
       "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSDc4dVB4ZVdHSTVRWnc4UzltV1d1MEFvSVNxRDNMOW1GeUR1aU15VmNPVVlDTVVaUlNSWGFndnFXOWpzWUZzN3g1RTBtTTF0RWk5STZadVJkcHZaRVNpTjZpR3NGaVBia3B0RjZFWWMxUEtDWkVtR0RTYVM0WFFGMTRqQi1qLTNHNF9zMHNhZW54ai1PYU9XQ3hFS05UOHNLOGhzU2IycFA5VkdBZ2k3YkJkcFRGVUFHQ0t6OTNYMEV6TUM2aTduUExKaVotVlRGZ0lvLWNELVlObGNGZVE?oc=5",
-      "publishedAt": "2026-11-11T17:07:08.000Z"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUVVCTFlCMTBvUjhWRmhXV05iV05lRFVnSWdpWTNKYi0zMWhOT0h2enRYRkRVZjNTenhGcTh3YmVMQ0FGRUpIblBWVTI5TXVSTmI5akx0QTRQd3loVnhCalZYWDV0VjNST2s0aGpxYkNQMlBZdkZ4Rl9xOTQxTmR2bFZJcmdKazQ5ZUIyWUNCUGRPYXdyR09yZ3BweFZfeDNFTXh5eU1MR0hkbTZpbC1sV3NvRmJZb2xBcE1F?oc=5",
+      "publishedAt": "2026-11-12T17:41:49.000Z"
     },
     {
-      "title": "China mira São Paulo para expansão de data centers e energia vira peça-chave da corrida pela IA",
-      "summary": "",
-      "category": "mercado",
-      "region": "INT",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa0dJRUFNRzVmd3ZNN0dCWUJ1QjllLUg5cVFQV2R2QUhuRnRWSHA4Qjl6Vm9YQ0lpaDY3V1owWU9ITHVNWThfRTRtT1BvcEc5VXpLZVhBT3BKM3EwVklUV3p6aFA4Vk9MR3V4OUpaejc3UzJlOFc2YWQ4WW9sX1RGSTl4VE1vTFJSRjRrcW1WTnlGR05oOGV0ak16aE1YYV85RExkbTFRWVB3cWlFMGQtcmdDSEdhQVJQdXhhQ0k4anRzOUtwbHd0VVVOUlNkSVNuOFN3ZEJHT2JacVRWYTJ6UThRbnQ5akE?oc=5",
-      "publishedAt": "2026-11-11T14:20:16.000Z"
+      "title": "Petrobras faz acordo para deter 100% da transportadora de etanol Logum",
+      "summary": "<p><strong>A Petrobras firmou um acordo para se tornar 100% dona da empresa Logum Logística, que atua no transporte, movimentação e armazenamento…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-faz-acordo-para-deter-100-da-transportadora-de-etanol-logum",
+      "publishedAt": "2026-11-12T16:25:00.000Z"
     }
   ],
   "tariffFlag": {
