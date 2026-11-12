@@ -1,7 +1,25 @@
 {
-  "updatedAt": "2026-11-11T17:45:25.629Z",
+  "updatedAt": "2026-11-12T00:14:02.358Z",
   "ai": false,
   "items": [
+    {
+      "title": "Tarifa Hora Certa: associações apontam riscos para geração solar",
+      "summary": "",
+      "category": "regulacao",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSRFFkWjR2QlFyeVhJYy13amxtNC03eTFXY2VCS2ctdUJvckt3Uy13Ny1MZ0N3UmxOUC05aWNIOExOZ1FZVEw5Tk9FTHduaWo3czNGWUN4R2lqbXR4ZWZUQUwzQkczNk5xb2xCb0xtTm05dC1WcHNr?oc=5",
+      "publishedAt": "2026-11-11T19:30:14.000Z"
+    },
+    {
+      "title": "Expansão solar no Brasil deve enfrentar desafios ambientais, aponta EPE",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xOEpLVm5sRkRSdGpVSDBWdF8tOEpIcmtxMWxZSnNMLTE0VTdTN3RMYlN2NGs5NndQY2ltNWtuRnpydndrTmRrNGlDMGh0RDlLNUttWU5tRnZXeDBYVUVaWXBYcGRTOUtRRXdoTmxvcU1sUTNGZkpBTm1SQQ?oc=5",
+      "publishedAt": "2026-11-11T18:50:06.000Z"
+    },
     {
       "title": "7 erros que integradores solares cometem na instalação de sistemas fotovoltaicos (e como evitá-los)",
       "summary": "",
@@ -39,51 +57,6 @@
       "publishedAt": "2026-11-10T20:28:28.000Z"
     },
     {
-      "title": "Conheça os dispositivos de segurança fotovoltaica nas instalações",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbHFfVE52M2Rfa3JNNWlYakdocXV3Qnp5QWh3UjlXdF9yWVJmS3M1Y1lFQmZhYmc1Um5wRl9EMTE2X0liYUlWY1pEU2thYmhKcGlhX1NRZUN6WE1CU1FQUS1PRkZqNHVDekdhV0RpaWZ5VnlCTE9OTmRHLWd4LWF5SDVpc0ZINzZt?oc=5",
-      "publishedAt": "2026-11-10T20:26:42.000Z"
-    },
-    {
-      "title": "Mais potência ou mais eficiência? O que realmente reduz o custo de uma usina solar",
-      "summary": "",
-      "category": "precos",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0J1bjZacTRzQTNlVFZUM0J2c2JWWUhMdFQ2MWszWC0tTGh3cE5kZGs0QW01cTIza0d3N2RNRFg0QkxyaHJZVEJBT2hGRnBrWlRNN2RRTVZxZVBqbmVQV2tsb1lVNXhvOFBjTGs4QXUtaFJ3enlOeEhENUFuYVZvNE1Zbw?oc=5",
-      "publishedAt": "2026-11-10T17:31:50.000Z"
-    },
-    {
-      "title": "DAH Solar lança Smart PCS para adicionar baterias a sistemas fotovoltaicos existentes",
-      "summary": "Equipamento de 2 kW utiliza arquitetura AC-coupled, dispensa a substituição do inversor existente em determinadas configurações e permite conectar…",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/10/dah-solar-lanca-smart-pcs-para-adicionar-baterias-a-sistemas-fotovoltaicos-existentes/",
-      "publishedAt": "2026-11-10T14:27:09.000Z"
-    },
-    {
-      "title": "360 Solar 2026 reúne mercado em Florianópolis e encerra sexta edição com saldo positivo",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOc1NVT1NNbV94S1B0bDcxTFhqQWFOSUxLb1luRUszcGtIdDk5cTJMT1dIek1ZSjU5ZGhtcmVSZW9NVkxNU1oxMWJuWVdOaHFTWHBkT0ZoSksydmN0NkRISjRsT0ItcVlfT0pFM2FwYXJpYkZqcm11MmlsbERXWTI2ZjNtLW1tSmhVQ1RhMWFjSkRYZ0kzdDN2aDNKRjZLYU8ySENOOEZneU9NdHVpc3VkdDRGeUFJNHU4dlQtTm9ZYng0WmpzVEtURTUxeFlFRy1wQTh1SW9IQ1lZYWEw?oc=5",
-      "publishedAt": "2026-11-10T13:19:55.000Z"
-    },
-    {
-      "title": "O futuro da energia solar não depende apenas de gerar mais, mas de entregar melhor",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdzBEOERFcy1mbE5xbEdKSUMtekZwdWlUaEJ6aTN5N3M1R2lVcVJoUFVCSW4zelZEVHJ3dzU1OXlWVW1uWTZ1UVJBbUpYYXZGVFdkT0hFdVg0NFhoNHdHNHFCd25mV1BYbnpWVFlHLU9zYnVfcGZHZjF5U2R5enFRYXRvUmZGU1NXaW0tQXZHX2RwdWstUEVxZDlpZnVWc1JNSnd0R3RxZUs1bzEtWndiUnlzeFFHT2NfdlJTQ3BldFRhNUlnbE1HVlZKUkwxMl9UTnRySQ?oc=5",
-      "publishedAt": "2026-11-10T12:28:00.000Z"
-    },
-    {
       "title": "Voltalia conquista 2º lugar no Prêmio ONS de Qualidade na Operação em geração fotovoltaica",
       "summary": "",
       "category": "mercado",
@@ -91,6 +64,33 @@
       "source": "CanalEnergia",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSnh6VjlPcjBWbnFWaDhfNXdmdnI5OGw4T05MSFcwbmktNDdyN2RuRm9EVWRpLTRpLVBTYkdSU1VzQXpNb0JZaVRPSVpvQVI1ODFPRDNZN3p5b09yU2tXX1dfSFlGLUhsQlVlbWRmX3FaS2tHOTVLVHRRbVp2SGxKemFOeTNKUmxaTGhwalJHaUxGX1ZkaVc1N0gycFNZTHZUbk5obm5zalFUNGpnNWVXSEdpRkFYYkttZFIwQlVMWkNvWlMwZHBseGg2LWJVTTFQRzdYRkx0UQ?oc=5",
       "publishedAt": "2026-11-11T12:00:00.000Z"
+    },
+    {
+      "title": "Coalizão e-Dutra anuncia três pontos de recarga para caminhões elétricos entre SP e Rio",
+      "summary": "Infraestrutura terá três carregadores de 180 kW em Guarulhos, Roseira e São João de Meriti.",
+      "category": "mercado",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/11/coalizao-e-dutra-anuncia-tres-pontos-de-recarga-para-caminhoes-eletricos-entre-sp-e-rio/",
+      "publishedAt": "2026-11-11T18:57:55.000Z"
+    },
+    {
+      "title": "A Revolução Silenciosa da Mobilidade: Desbravando os Custos, os Valores e o Futuro dos Eletropostos",
+      "summary": "",
+      "category": "precos",
+      "region": "BR",
+      "source": "Portal Solar",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSDc4dVB4ZVdHSTVRWnc4UzltV1d1MEFvSVNxRDNMOW1GeUR1aU15VmNPVVlDTVVaUlNSWGFndnFXOWpzWUZzN3g1RTBtTTF0RWk5STZadVJkcHZaRVNpTjZpR3NGaVBia3B0RjZFWWMxUEtDWkVtR0RTYVM0WFFGMTRqQi1qLTNHNF9zMHNhZW54ai1PYU9XQ3hFS05UOHNLOGhzU2IycFA5VkdBZ2k3YkJkcFRGVUFHQ0t6OTNYMEV6TUM2aTduUExKaVotVlRGZ0lvLWNELVlObGNGZVE?oc=5",
+      "publishedAt": "2026-11-11T17:07:08.000Z"
+    },
+    {
+      "title": "China mira São Paulo para expansão de data centers e energia vira peça-chave da corrida pela IA",
+      "summary": "",
+      "category": "mercado",
+      "region": "INT",
+      "source": "Portal Solar",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa0dJRUFNRzVmd3ZNN0dCWUJ1QjllLUg5cVFQV2R2QUhuRnRWSHA4Qjl6Vm9YQ0lpaDY3V1owWU9ITHVNWThfRTRtT1BvcEc5VXpLZVhBT3BKM3EwVklUV3p6aFA4Vk9MR3V4OUpaejc3UzJlOFc2YWQ4WW9sX1RGSTl4VE1vTFJSRjRrcW1WTnlGR05oOGV0ak16aE1YYV85RExkbTFRWVB3cWlFMGQtcmdDSEdhQVJQdXhhQ0k4anRzOUtwbHd0VVVOUlNkSVNuOFN3ZEJHT2JacVRWYTJ6UThRbnQ5akE?oc=5",
+      "publishedAt": "2026-11-11T14:20:16.000Z"
     }
   ],
   "tariffFlag": {
