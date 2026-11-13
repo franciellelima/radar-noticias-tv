@@ -1,7 +1,16 @@
 {
-  "updatedAt": "2026-11-13T17:34:04.029Z",
+  "updatedAt": "2026-11-13T23:22:59.274Z",
   "ai": false,
   "items": [
+    {
+      "title": "Além do preço por watt: o papel do vidro com grafeno nos módulos da ZNShine Solar",
+      "summary": "",
+      "category": "precos",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81NU5RX283alBUZ1Q4TXBSd3hEZnZDMGpqUHNKekJCbkNEendpNlU5cmFOXzIyOU9BaFpZS3RCOFowUFk4c0NTeGVlbFk5R0hOdndEVzFLQzg5djNDUFpxaDBwQmNUXzM0QVNVdmY3b1RSVFFxNzZCUHFEWm02UQ?oc=5",
+      "publishedAt": "2026-11-13T17:29:56.000Z"
+    },
     {
       "title": "Solar e baterias podem reduzir custos do sistema elétrico em até 40% na década de 2030, aponta Schneider Electric",
       "summary": "Estudo analisou 40,5 mil cenários e aponta que a economia depende da integração entre geração fotovoltaica, armazenamento e eletrificação da demanda.",
@@ -48,15 +57,6 @@
       "publishedAt": "2026-11-13T11:20:48.000Z"
     },
     {
-      "title": "Energia solar para duas casas no mesmo terreno: como funciona?",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1FFSE05UG51OXRISE5BbWJNMkdjcDVfbk81Qi1zeV9uS2VIdWFqTmRVVHVpckl2RUpVOVBuR0Q0b2ZSbVNlUnNxZlEyeGg3V2FFeFJ1NHBkZTJPX3JVOXAxRUtKNG9qajZVYVp4M3pzeTc3LUxhQlZwM2FWWDRYYXE1bw?oc=5",
-      "publishedAt": "2026-11-13T10:00:00.000Z"
-    },
-    {
       "title": "KRJ apresenta na 360 Solar conector KSE K4 para painéis fotovoltaicos",
       "summary": "",
       "category": "mercado",
@@ -75,22 +75,22 @@
       "publishedAt": "2026-11-12T16:21:19.000Z"
     },
     {
-      "title": "Taesa aposta em IA para acelerar estudos de novas linhas de transmissão",
+      "title": "A transição energética precisa avançar. Mas quem está pagando essa conta?",
       "summary": "",
       "category": "mercado",
       "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNazZDbzlnbnhTME16WDZSNWVraGpWTmdGMU1TXy0wWjlaaEhfWHJ2VzlpMmlBWTJzZVllZlk0cFBSMlNwb3UzVzhPcXNoY1hCOVRURng5MVhzM1ZlbHBsSjZxX25sWTdhWUg3akF3X3pDQnFpRVVXcmNyY243YUhNWkptSXU?oc=5",
-      "publishedAt": "2026-11-13T15:06:23.000Z"
+      "source": "Portal Solar",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUVVCTFlCMTBvUjhWRmhXV05iV05lRFVnSWdpWTNKYi0zMWhOT0h2enRYRkRVZjNTenhGcTh3YmVMQ0FGRUpIblBWVTI5TXVSTmI5akx0QTRQd3loVnhCalZYWDV0VjNST2s0aGpxYkNQMlBZdkZ4Rl9xOTQxTmR2bFZJcmdKazQ5ZUIyWUNCUGRPYXdyR09yZ3BweFZfeDNFTXh5eU1MR0hkbTZpbC1sV3NvRmJZb2xBcE1F?oc=5",
+      "publishedAt": "2026-11-12T17:41:49.000Z"
     },
     {
-      "title": "Energia renovável pode colocar o Brasil no centro da expansão global dos data centers",
-      "summary": "Marcos Borin, fundador e CEO da CTC Infra, construtora especializada em empreendimentos de alta complexidade e missão crítica.",
-      "category": "precos",
+      "title": "Arnaldo Jardim vê caminho para aprovar PL das baterias com texto mais restrito",
+      "summary": "PL é de autoria do deputado Arnaldo Jardim / Crédito: Mario Agra / Câmara dos Deputados A aprovação do projeto de lei (PL) nº 3.716/2026, que…",
+      "category": "armazenamento",
       "region": "BR",
       "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/opiniao-da-comunidade/energia-renovavel-pode-colocar-o-brasil-no-centro-da-expansao-global-dos-data-centers/",
-      "publishedAt": "2026-11-13T17:14:09.000Z"
+      "url": "https://megawhat.uol.com.br/armazenamento/arnaldo-jardim-ve-caminho-para-aprovar-pl-das-baterias-com-texto-mais-restrito/",
+      "publishedAt": "2026-11-13T20:00:00.000Z"
     }
   ],
   "tariffFlag": {
