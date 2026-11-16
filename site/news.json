@@ -1,96 +1,60 @@
 {
-  "updatedAt": "2026-11-13T23:22:59.274Z",
+  "updatedAt": "2026-11-16T20:04:08.693Z",
   "ai": false,
   "items": [
     {
-      "title": "Além do preço por watt: o papel do vidro com grafeno nos módulos da ZNShine Solar",
-      "summary": "",
-      "category": "precos",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81NU5RX283alBUZ1Q4TXBSd3hEZnZDMGpqUHNKekJCbkNEendpNlU5cmFOXzIyOU9BaFpZS3RCOFowUFk4c0NTeGVlbFk5R0hOdndEVzFLQzg5djNDUFpxaDBwQmNUXzM0QVNVdmY3b1RSVFFxNzZCUHFEWm02UQ?oc=5",
-      "publishedAt": "2026-11-13T17:29:56.000Z"
-    },
-    {
-      "title": "Solar e baterias podem reduzir custos do sistema elétrico em até 40% na década de 2030, aponta Schneider Electric",
-      "summary": "Estudo analisou 40,5 mil cenários e aponta que a economia depende da integração entre geração fotovoltaica, armazenamento e eletrificação da demanda.",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/13/solar-e-baterias-podem-reduzir-custos-do-sistema-eletrico-em-ate-40-na-decada-de-2030-aponta-schneider-electric/",
-      "publishedAt": "2026-11-13T14:09:59.000Z"
-    },
-    {
-      "title": "ABGD agora é RED e amplia atuação para além da geração distribuída",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2tiVWotWEtJOERyaWtfTzRHSjZBbGNVS1ozZXRsOURoM1N3by1ydmNyZWFrQzlRb0lUVkg5akloZ3hWSkVhYUhYTXRBRTNNbkhfdi1Pc1k3X0tDTXlqdjZocGNMb2RUZEQwcmpsX2llRlQwZEt4VnpfbGpHUzkzZVltTkhMaHlhSGV0TU5yc2djS3BjcFh6cTBCdDRLUHhqd1hZYXZKeFY5d3FGYi1SNExWM3RqN3ZQZ2tYOVJnMHU?oc=5",
-      "publishedAt": "2026-11-13T13:01:41.000Z"
-    },
-    {
-      "title": "Os cinco momentos de verdade do cliente solar: onde você ganha ou perde o relacionamento para sempre",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6NjhFdzV3TjU2TGlsMmdBQjBWNjFvb0l5dGFybVF5amM0OUJ4d2dpRVJIMmZSZGhXcDR0NU9YQmFoWXoxdlBNLTN2SHBGcEZlZEtLUmMtbXZrUGozeFBMYnM2SE5HYzFuTS04?oc=5",
-      "publishedAt": "2026-11-13T12:42:24.000Z"
-    },
-    {
-      "title": "Pesquisadora de 23 anos desenvolve kit solar portátil para extrativistas da Amazônia",
-      "summary": "Kit Solar Castanheiro utiliza energia fotovoltaica e materiais reaproveitados para substituir geradores a diesel em áreas isoladas da floresta.",
+      "title": "TTS Energia fornecerá usina solar Zero Grid de 830 kWp para supermercado em Guarulhos (SP)",
+      "summary": "Projeto em unidade da rede supermercadista terá tecnologia Zero Grid, que permite o consumo próprio de energia solar sem injeção de excedentes na…",
       "category": "tecnologia",
       "region": "BR",
       "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/13/pesquisadora-de-23-anos-desenvolve-kit-solar-portatil-para-extrativistas-da-amazonia/",
-      "publishedAt": "2026-11-13T12:11:10.000Z"
+      "url": "https://www.pv-magazine-brasil.com/2026/11/16/tts-energia-fornecera-usina-solar-zero-grid-de-830-kwp-para-supermercado-em-guarulhos-sp/",
+      "publishedAt": "2026-11-16T18:16:32.000Z"
     },
     {
-      "title": "Distribuidoras cobram revisão de subsídios à solar, mas conta de luz também banca incentivos às fontes fósseis",
-      "summary": "",
+      "title": "Usina solar em Cariacica prevê economia de R$ 1,53 milhão por ano ao governo do ES",
+      "summary": "Sistema fotovoltaico tem geração estimada de 2,19 GWh por ano e deverá reduzir entre 80% e 95% as despesas com eletricidade do Instituto de Defesa…",
       "category": "regulacao",
       "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdVZQaTc0UjEwVm9QOU1sYnd1VE9xeWJrOVhEVUVNcENtUVFCN2NVM21FR3BLeWd2RzF4MURPZlRRZDRMd0c3aENTVl84ZzNJOWNQMnJaeGNsNzM5SGUwdnRCMVFpRkZRbnhiM2p0bkxHa3dhTm4tU0V2Yml6aG1ZZHlFNFhhaUVqci1qdGZCbw?oc=5",
-      "publishedAt": "2026-11-13T11:20:48.000Z"
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/16/usina-solar-em-cariacica-preve-economia-de-r-153-milhao-por-ano-ao-governo-do-es/",
+      "publishedAt": "2026-11-16T14:15:42.000Z"
     },
     {
-      "title": "KRJ apresenta na 360 Solar conector KSE K4 para painéis fotovoltaicos",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeHhrdmRiQXoyblk5UDcxWmhIVXhteUdqQjN6dkE1OXotdlQ2QWdYWU9fZlA3ZDBIUnpEbkNsTThVVFB2cm1FM25uNzdSSkJ0cXVpQjNrVGdOU3hBRkhoOVZ3R3ByS2J1SFQ2T0ozUXQxUWRyemVnaC1TTTFBdU9vdXZsVDZaVHFQUDNIeTRZcERKRGF1aWhrVUJPdl9nS2VWUTVBOFZCTk5VZ1U2cFlFYUNaVnpfcXNEYXBVQXZiazZld2pT?oc=5",
-      "publishedAt": "2026-11-12T17:12:49.000Z"
-    },
-    {
-      "title": "Com solução nacionalizada, e-Storage Canadian Solar mira fornecer mais de 1 GW em BESS para leilão",
-      "summary": "Empresa reúne pipeline potencial de mais de 2 GW de potência e aposta em duas configurações de sistemas, com equipamentos e integração local, para…",
+      "title": "Energia solar e armazenamento garantem até cinco dias de autonomia a aldeia indígena em Maricá (RJ)",
+      "summary": "Sistema off-grid na Aldeia Céu Azul reúne 210 kWp de potência fotovoltaica e 2.090 kWh de armazenamento, com 300 módulos solares, cinco inversores…",
       "category": "armazenamento",
       "region": "BR",
       "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/12/com-solucao-nacionalizada-e-storage-canadian-solar-mira-fornecer-mais-de-1-gw-em-bess-para-leilao/",
-      "publishedAt": "2026-11-12T16:21:19.000Z"
+      "url": "https://www.pv-magazine-brasil.com/2026/11/16/energia-solar-e-armazenamento-garantem-ate-cinco-dias-de-autonomia-a-aldeia-indigena-em-marica-rj/",
+      "publishedAt": "2026-11-16T12:22:11.000Z"
     },
     {
-      "title": "A transição energética precisa avançar. Mas quem está pagando essa conta?",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUVVCTFlCMTBvUjhWRmhXV05iV05lRFVnSWdpWTNKYi0zMWhOT0h2enRYRkRVZjNTenhGcTh3YmVMQ0FGRUpIblBWVTI5TXVSTmI5akx0QTRQd3loVnhCalZYWDV0VjNST2s0aGpxYkNQMlBZdkZ4Rl9xOTQxTmR2bFZJcmdKazQ5ZUIyWUNCUGRPYXdyR09yZ3BweFZfeDNFTXh5eU1MR0hkbTZpbC1sV3NvRmJZb2xBcE1F?oc=5",
-      "publishedAt": "2026-11-12T17:41:49.000Z"
-    },
-    {
-      "title": "Arnaldo Jardim vê caminho para aprovar PL das baterias com texto mais restrito",
-      "summary": "PL é de autoria do deputado Arnaldo Jardim / Crédito: Mario Agra / Câmara dos Deputados A aprovação do projeto de lei (PL) nº 3.716/2026, que…",
+      "title": "EPE abre consulta para mapear potencial de hidrelétricas reversíveis",
+      "summary": "Hidrelétricas / Crédito: Spic Brasil (Divulgação) A Empresa de Pesquisa Energética (EPE) abriu na última semana uma chamada pública para…",
       "category": "armazenamento",
       "region": "BR",
       "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/armazenamento/arnaldo-jardim-ve-caminho-para-aprovar-pl-das-baterias-com-texto-mais-restrito/",
-      "publishedAt": "2026-11-13T20:00:00.000Z"
+      "url": "https://megawhat.uol.com.br/geracao/hidrica/epe-abre-consulta-para-mapear-potencial-de-hidreletricas-reversiveis/",
+      "publishedAt": "2026-11-16T19:16:20.000Z"
+    },
+    {
+      "title": "Tarifa horária pode estimular baterias e recarga de veículos elétricos",
+      "summary": "Luiz Barroso, CEO da PSR A proposta da Agência Nacional de Energia Elétrica (Aneel) de ampliar a aplicação de tarifas horárias para consumidores…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/noticias/tarifa-horaria-pode-estimular-baterias-e-recarga-de-veiculos-eletricos/",
+      "publishedAt": "2026-11-16T18:42:16.000Z"
+    },
+    {
+      "title": "Hidrelétricas do LRCap conseguem R$ 800 milhões em incentivos do Reidi",
+      "summary": "UHE Foz do Areia/ Copel (Divulgação) A Secretaria Nacional de Transição Energética e Planejamento do Ministério de Minas e Energia (MME) aprovou o…",
+      "category": "regulacao",
+      "region": "BR",
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/destaques-do-diario/hidreletricas-do-lrcap-conseguem-r-800-milhoes-em-incentivos-do-reidi/",
+      "publishedAt": "2026-11-16T17:08:44.000Z"
     }
   ],
   "tariffFlag": {
