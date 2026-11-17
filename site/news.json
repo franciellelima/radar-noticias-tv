@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T20:04:08.693Z",
+  "updatedAt": "2026-11-17T04:22:17.191Z",
   "ai": false,
   "items": [
     {
@@ -30,6 +30,24 @@
       "publishedAt": "2026-11-16T12:22:11.000Z"
     },
     {
+      "title": "Abeeólica questiona rateio do encargo e judicializa leilões de baterias",
+      "summary": "Leilão / Crédito: Divulgação MME A Associação Brasileira de Energia Eólica e Novas Tecnologias (Abeeólica) entrou com uma ação civil pública nesta…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/regulacao/abeeolica-questiona-rateio-do-encargo-e-judicializa-leiloes-de-baterias/",
+      "publishedAt": "2026-11-16T22:58:35.000Z"
+    },
+    {
+      "title": "CPFL aposta em conteúdo nacional para competitividade no leilão de baterias",
+      "summary": "CPFL / Foto: Divulgação A CPFL não esconde o entusiasmo com os primeiros leilões de reserva de capacidade na forma de potência (LRCap) para…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/economia-e-politica/cpfl-aposta-em-conteudo-nacional-para-competitividade-no-leilao-de-baterias/",
+      "publishedAt": "2026-11-16T20:04:24.000Z"
+    },
+    {
       "title": "EPE abre consulta para mapear potencial de hidrelétricas reversíveis",
       "summary": "Hidrelétricas / Crédito: Spic Brasil (Divulgação) A Empresa de Pesquisa Energética (EPE) abriu na última semana uma chamada pública para…",
       "category": "armazenamento",
@@ -37,24 +55,6 @@
       "source": "MegaWhat",
       "url": "https://megawhat.uol.com.br/geracao/hidrica/epe-abre-consulta-para-mapear-potencial-de-hidreletricas-reversiveis/",
       "publishedAt": "2026-11-16T19:16:20.000Z"
-    },
-    {
-      "title": "Tarifa horária pode estimular baterias e recarga de veículos elétricos",
-      "summary": "Luiz Barroso, CEO da PSR A proposta da Agência Nacional de Energia Elétrica (Aneel) de ampliar a aplicação de tarifas horárias para consumidores…",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/noticias/tarifa-horaria-pode-estimular-baterias-e-recarga-de-veiculos-eletricos/",
-      "publishedAt": "2026-11-16T18:42:16.000Z"
-    },
-    {
-      "title": "Hidrelétricas do LRCap conseguem R$ 800 milhões em incentivos do Reidi",
-      "summary": "UHE Foz do Areia/ Copel (Divulgação) A Secretaria Nacional de Transição Energética e Planejamento do Ministério de Minas e Energia (MME) aprovou o…",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/destaques-do-diario/hidreletricas-do-lrcap-conseguem-r-800-milhoes-em-incentivos-do-reidi/",
-      "publishedAt": "2026-11-16T17:08:44.000Z"
     }
   ],
   "tariffFlag": {
