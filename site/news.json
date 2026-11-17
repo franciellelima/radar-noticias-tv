@@ -1,60 +1,96 @@
 {
-  "updatedAt": "2026-11-17T04:22:17.191Z",
+  "updatedAt": "2026-11-17T18:59:04.461Z",
   "ai": false,
   "items": [
     {
-      "title": "TTS Energia fornecerá usina solar Zero Grid de 830 kWp para supermercado em Guarulhos (SP)",
-      "summary": "Projeto em unidade da rede supermercadista terá tecnologia Zero Grid, que permite o consumo próprio de energia solar sem injeção de excedentes na…",
-      "category": "tecnologia",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/16/tts-energia-fornecera-usina-solar-zero-grid-de-830-kwp-para-supermercado-em-guarulhos-sp/",
-      "publishedAt": "2026-11-16T18:16:32.000Z"
-    },
-    {
-      "title": "Usina solar em Cariacica prevê economia de R$ 1,53 milhão por ano ao governo do ES",
-      "summary": "Sistema fotovoltaico tem geração estimada de 2,19 GWh por ano e deverá reduzir entre 80% e 95% as despesas com eletricidade do Instituto de Defesa…",
+      "title": "Aneel aprova nova contabilização de excedentes da geração distribuída a partir de 2027",
+      "summary": "Medida permitirá liquidar no mercado de curto prazo a energia da MMGD que supera o consumo do mercado cativo, com resultados revertidos em…",
       "category": "regulacao",
       "region": "BR",
       "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/16/usina-solar-em-cariacica-preve-economia-de-r-153-milhao-por-ano-ao-governo-do-es/",
-      "publishedAt": "2026-11-16T14:15:42.000Z"
+      "url": "https://www.pv-magazine-brasil.com/2026/11/17/aneel-aprova-nova-contabilizacao-de-excedentes-da-geracao-distribuida-a-partir-de-2027/",
+      "publishedAt": "2026-11-17T16:28:22.000Z"
     },
     {
-      "title": "Energia solar e armazenamento garantem até cinco dias de autonomia a aldeia indígena em Maricá (RJ)",
-      "summary": "Sistema off-grid na Aldeia Céu Azul reúne 210 kWp de potência fotovoltaica e 2.090 kWh de armazenamento, com 300 módulos solares, cinco inversores…",
+      "title": "Instalações solares globais devem registrar primeira queda anual em oito anos",
+      "summary": "A transição da China para tarifas baseadas no mercado será responsável pela maior parte da queda nas instalações solares globais neste ano, antes…",
+      "category": "precos",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/17/global-solar-additions-set-to-fall-for-first-time-since-2018/",
+      "publishedAt": "2026-11-17T10:51:00.000Z"
+    },
+    {
+      "title": "Solar, eólica e baterias podem fornecer energia firme a US$ 0,086/kWh, projeta Ember",
+      "summary": "Inclusão da energia eólica em sistemas solares com baterias reduz em quase 20% o custo de atendimento a 90% da demanda elétrica, de US$ 105/MWh…",
       "category": "armazenamento",
       "region": "BR",
       "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/16/energia-solar-e-armazenamento-garantem-ate-cinco-dias-de-autonomia-a-aldeia-indigena-em-marica-rj/",
-      "publishedAt": "2026-11-16T12:22:11.000Z"
+      "url": "https://www.pv-magazine-brasil.com/2026/11/17/solar-eolica-e-baterias-podem-fornecer-energia-firme-a-us-0086-kwh-projeta-ember/",
+      "publishedAt": "2026-11-17T10:10:00.000Z"
     },
     {
-      "title": "Abeeólica questiona rateio do encargo e judicializa leilões de baterias",
-      "summary": "Leilão / Crédito: Divulgação MME A Associação Brasileira de Energia Eólica e Novas Tecnologias (Abeeólica) entrou com uma ação civil pública nesta…",
-      "category": "armazenamento",
+      "title": "Performa Solar celebra 20ª edição em Juazeiro do Norte",
+      "summary": "",
+      "category": "mercado",
       "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/regulacao/abeeolica-questiona-rateio-do-encargo-e-judicializa-leiloes-de-baterias/",
-      "publishedAt": "2026-11-16T22:58:35.000Z"
+      "source": "Portal Solar",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZThHSURQdS1JNmlPQm5RMFZEN1haZGo3aWgtczB3NTRSUlB5MV9sbGIyQkpqN3BZXzJHNWtueHEtX0t0bEJZdDd5azhiVDZHNDhVWlpWa2gybmlvWU5jV3pZSWNqamV0VC1Wcjh2ckw0S2NLd21BdjhhN28yQmxDZVhhZzFlOTBlM2lDdWczV21NdTlZTl8xTldKOTRPNXlrM3J3RTRfeGQ1ZzlRVy0yTw?oc=5",
+      "publishedAt": "2026-11-16T19:59:44.000Z"
     },
     {
-      "title": "CPFL aposta em conteúdo nacional para competitividade no leilão de baterias",
-      "summary": "CPFL / Foto: Divulgação A CPFL não esconde o entusiasmo com os primeiros leilões de reserva de capacidade na forma de potência (LRCap) para…",
-      "category": "armazenamento",
+      "title": "Supermercado terá usina solar zero grid de 830 kWp com rapid shutdown",
+      "summary": "",
+      "category": "mercado",
       "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/economia-e-politica/cpfl-aposta-em-conteudo-nacional-para-competitividade-no-leilao-de-baterias/",
-      "publishedAt": "2026-11-16T20:04:24.000Z"
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZGZqOV8wN0xXWDA5WkZwWWZ1YzFqVU1kX0I4d2ZCNFZQRjZzZG1nbzhMTm5KVk5TejV5VHVVV0lCNk5KZk12a3BzNWhEOHVWYldrNFJzLVc0dXZsbWZjLXpUZzEtVEhMREdsT3diMlk3OU1RVVhEX1FzSUQ1SWlCVlJKcE9HbWhldkpuVHBndVBLS1dieVBGbHNSVDM4aEJOcVc1ckhxLXRWMVhvTWc?oc=5",
+      "publishedAt": "2026-11-16T16:54:53.000Z"
     },
     {
-      "title": "EPE abre consulta para mapear potencial de hidrelétricas reversíveis",
-      "summary": "Hidrelétricas / Crédito: Spic Brasil (Divulgação) A Empresa de Pesquisa Energética (EPE) abriu na última semana uma chamada pública para…",
-      "category": "armazenamento",
+      "title": "Excedente de geração distribuída soma R$ 395 milhões e leva Aneel a mudar regras",
+      "summary": "O excedente de energia da micro e minigeração distribuída (MMGD) que hoje é desconsiderado na contabilização das distribuidoras passará a ser…",
+      "category": "regulacao",
       "region": "BR",
       "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/geracao/hidrica/epe-abre-consulta-para-mapear-potencial-de-hidreletricas-reversiveis/",
-      "publishedAt": "2026-11-16T19:16:20.000Z"
+      "url": "https://megawhat.uol.com.br/regulacao/excedente-de-geracao-distribuida-soma-r-395-milhoes-e-leva-aneel-a-mudar-regras/",
+      "publishedAt": "2026-11-17T17:59:59.000Z"
+    },
+    {
+      "title": "Nova capacidade instalada solar recuará em 2026, aponta GlobalData",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1dqSW5TaFF6SC1SZzZDSVBxQmpfbEwwS2hmc3NsaUh0eWdRMWRqYkZxQ2FNeXA5T0x6X1JCSU03YjBFYkp4UHV0YmgzNE1NblJjSTdhcXlURkFudXY4WmxPeFB1MWdqSm1iMWhIeHRRRElvSzhDcGhCN2ZvRFJpYmJpSC0xdkFiSThMelpxbmZSUUUtMUluUDJpZzN2Y2xRUEhqRFhIOEtLNnYwZ3RFclhqSXkyZVZFbzFQZmxlMA?oc=5",
+      "publishedAt": "2026-11-16T17:32:12.000Z"
+    },
+    {
+      "title": "TBEA Energy Brazil obtém credenciamento de produto no BNDES de olho no leilão de baterias",
+      "summary": "",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ic3JKWnZvUldCRmRzX2VjUVVINUdNUnJac3E2aUZ1YXVBd1lBcEpOM2lkNjZxQkRRMjk3OFllZ1VYYjNJeTBsMGRIeUIwTGNRSjNjV0lMaXRaeUZKV3JEVW5HQ1dDbDFNeW15THRacGFjMzgwdjRj?oc=5",
+      "publishedAt": "2026-11-17T17:44:45.000Z"
+    },
+    {
+      "title": "Conta de luz vai subir mais de 20% em 72 municípios do Rio Grande do Sul",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ob0lZYkFVSjZXbFdsRzVMSUJJWkMxTTIzSVRrbVNnSGxiNFhNRVp0R0s5YXVrODdFVF9yVDg5RnBUUjVQeWJtZWVlVXcwdnp4aDhDR0FPel9HRVZYNGVIQXo4MXpZUzRGc2s0QTZmQXBkbUNNWUE?oc=5",
+      "publishedAt": "2026-11-17T16:11:35.000Z"
+    },
+    {
+      "title": "A liberdade de escolher o fornecedor de energia exige consumidores preparados",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Portal Solar",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQelBFMXFwRlVVa0xmSmRMNDEwTUhPcE9xTTVyczAtN1hrLXZTZXl5SEJVUGxuanZMb3BKT2lCcmc3ZGV5aTI5S1V4UTdNME15R0lFclppRHNLdTJxc0NRUHZCRG53dVZiZGdfdGtMdGd4TTVOcGlwWWNnR2ZPVkVsUXBsR0ptX2kyNkYxVS1kc2E1YzhmcUtDazNyTzA4MXFYenZYalNvN1p2SmlEb1ZYcmRtSkRYZ3c1WEFHWkJWRlMzb2c?oc=5",
+      "publishedAt": "2026-11-16T18:45:04.000Z"
     }
   ],
   "tariffFlag": {
