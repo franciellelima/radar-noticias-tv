@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-18T02:13:08.079Z",
+  "updatedAt": "2026-11-18T18:43:21.338Z",
   "ai": false,
   "items": [
+    {
+      "title": "ONS poderá coordenar cortes de geração distribuída por meio das distribuidoras",
+      "summary": "Proposta prevê experimento de 24 meses com cinco concessionárias e participação obrigatória de minigeradores, sem remuneração ou ressarcimento…",
+      "category": "regulacao",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/18/ons-podera-coordenar-cortes-de-geracao-distribuida-por-meio-das-distribuidoras/",
+      "publishedAt": "2026-11-18T18:43:14.000Z"
+    },
+    {
+      "title": "Como a energia solar pode reduzir os impactos do El Niño na conta de luz",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Portal Solar",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlRROW5jOFVtWHFON3dRbWhNc0QzcXBjWkVtV2p0MGxxT0stdFJ4dDR5bVpuUFZHaS1pYUwwa0JlMUQ5ZUlKMjJsNWhRd0RQMHlJNm9QTVQ4emhjaEduM1NQMkJBaFhGYUdHR0M5eU9DT2ZOVFZGM08ydjVPZXY1aWpPZ0NSb0Y0bDNkdDZfZjFlRTNhd0ZieGZSRGNRM3Byb3kzbUR3cnlCS3NoQkdPazd2YU1PNGZfRWNERXBuUnhhSHgwMnZMWg?oc=5",
+      "publishedAt": "2026-11-18T17:05:18.000Z"
+    },
+    {
+      "title": "CPFL investe R$ 4,2 milhões em eficiência energética e energia solar em seis instituições paulistas",
+      "summary": "Projetos incluem a instalação de sistemas fotovoltaicos em hospitais e entidades assistenciais do interior de São Paulo, além da modernização de…",
+      "category": "tecnologia",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/18/cpfl-investe-r-42-milhoes-em-eficiencia-energetica-e-energia-solar-em-seis-instituicoes-paulistas/",
+      "publishedAt": "2026-11-18T12:40:02.000Z"
+    },
+    {
+      "title": "EDP destina R$ 850 mil a sistema solar com baterias para comunidade indígena em Manaus",
+      "summary": "Projeto selecionado pelo fundo de acesso à energia da EDP prevê reduzir o consumo de diesel em 26 mil litros por ano e evitar a emissão de 70…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/18/edp-destina-r-850-mil-a-sistema-solar-com-baterias-para-comunidade-indigena-em-manaus/",
+      "publishedAt": "2026-11-18T12:32:27.000Z"
+    },
     {
       "title": "Cortes em usinas do Tipo III e minigeração entram em consulta pública",
       "summary": "",
@@ -21,76 +57,40 @@
       "publishedAt": "2026-11-17T19:34:33.000Z"
     },
     {
-      "title": "Geração distribuída compartilhada pode ter permanência mínima de 12 meses",
-      "summary": "Aneel quer restringir modelos de comercialização de descontos na conta de luz por meio da MMGD.",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/17/geracao-distribuida-compartilhada-pode-ter-permanencia-minima-de-12-meses/",
-      "publishedAt": "2026-11-17T19:33:58.000Z"
-    },
-    {
-      "title": "Aneel aprova nova contabilização de excedentes da geração distribuída a partir de 2027",
-      "summary": "Medida permitirá liquidar no mercado de curto prazo a energia da MMGD que supera o consumo do mercado cativo, com resultados revertidos em…",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/17/aneel-aprova-nova-contabilizacao-de-excedentes-da-geracao-distribuida-a-partir-de-2027/",
-      "publishedAt": "2026-11-17T16:28:22.000Z"
-    },
-    {
-      "title": "Instalações solares globais devem registrar primeira queda anual em oito anos",
-      "summary": "A transição da China para tarifas baseadas no mercado será responsável pela maior parte da queda nas instalações solares globais neste ano, antes…",
-      "category": "precos",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/17/global-solar-additions-set-to-fall-for-first-time-since-2018/",
-      "publishedAt": "2026-11-17T10:51:00.000Z"
-    },
-    {
-      "title": "Performa Solar celebra 20ª edição em Juazeiro do Norte",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZThHSURQdS1JNmlPQm5RMFZEN1haZGo3aWgtczB3NTRSUlB5MV9sbGIyQkpqN3BZXzJHNWtueHEtX0t0bEJZdDd5azhiVDZHNDhVWlpWa2gybmlvWU5jV3pZSWNqamV0VC1Wcjh2ckw0S2NLd21BdjhhN28yQmxDZVhhZzFlOTBlM2lDdWczV21NdTlZTl8xTldKOTRPNXlrM3J3RTRfeGQ1ZzlRVy0yTw?oc=5",
-      "publishedAt": "2026-11-16T19:59:44.000Z"
-    },
-    {
-      "title": "Excedente de geração distribuída soma R$ 395 milhões e leva Aneel a mudar regras",
-      "summary": "O excedente de energia da micro e minigeração distribuída (MMGD) que hoje é desconsiderado na contabilização das distribuidoras passará a ser…",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/regulacao/excedente-de-geracao-distribuida-soma-r-395-milhoes-e-leva-aneel-a-mudar-regras/",
-      "publishedAt": "2026-11-17T17:59:59.000Z"
-    },
-    {
-      "title": "TBEA Energy Brazil obtém credenciamento de produto no BNDES de olho no leilão de baterias",
+      "title": "Votação do PL sobre custeio das baterias deve ficar para próxima semana",
       "summary": "",
       "category": "armazenamento",
       "region": "BR",
       "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ic3JKWnZvUldCRmRzX2VjUVVINUdNUnJac3E2aUZ1YXVBd1lBcEpOM2lkNjZxQkRRMjk3OFllZ1VYYjNJeTBsMGRIeUIwTGNRSjNjV0lMaXRaeUZKV3JEVW5HQ1dDbDFNeW15THRacGFjMzgwdjRj?oc=5",
-      "publishedAt": "2026-11-17T17:44:45.000Z"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc0JJRXdvUzkzTmVNc0ctZkZmR01mMnMyeXN4cXlBZXNyQmpOclUzVGhad3RNTjNRYWxVMm9WYmRxUG05VkxoNE1lMEs0MC1IaVhra3BsLUZMXy1EX1hKSjZMdGlSMUxGMWxfVGJKS21iZUxKOVVmbXo3cGJNaHVxTQ?oc=5",
+      "publishedAt": "2026-11-18T18:24:40.000Z"
     },
     {
-      "title": "Setor questiona legalidade de restrições à energia por assinatura propostas pela Aneel",
-      "summary": "MMGD solar As restrições propostas pela Agência Nacional de Energia Elétrica (Aneel) aos modelos de geração distribuída por assinatura enfrentaram…",
-      "category": "regulacao",
+      "title": "Black Friday Solan oferece até 40% OFF e combina monitoramento de usinas com CRM",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Portal Solar",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnFTaEluMnllR2lXU2pJNWM3NVlEdEtkSFRMdmJyb19meTBnN3J4VjIyQVM4MUthWGdfMFJ1WDVJNThIRTBRR0hCTW5vYWhESmJWZVF1LXlGR1Ztd2hJNVVwcEtUMWJOdldPUW81Y1VRdmllVkFyZ3gzVGN4dVNTb2xQMUxydkRNNnVvb2FHNnpfY0dMNDdTU2tZWXVMV05kR3prUUxsd2NrTllfLWQwNldYWnhTUEthWldwbUJ4MjJkSnI4ZVhLX2VYSFp5c1dqblE?oc=5",
+      "publishedAt": "2026-11-18T17:13:01.000Z"
+    },
+    {
+      "title": "O potencial das hidrelétricas de até 50 MW – uma oportunidade estratégica para o Brasil",
+      "summary": "Renata Menescal Por: Renata Menescal A expansão do sistema elétrico brasileiro exige conciliar o aumento da oferta de energia renovável com…",
+      "category": "mercado",
       "region": "BR",
       "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/regulacao/setor-questiona-legalidade-de-restricoes-a-energia-por-assinatura-propostas-pela-aneel/",
-      "publishedAt": "2026-11-17T18:49:27.000Z"
+      "url": "https://megawhat.uol.com.br/conteudo-de-marca/o-potencial-das-hidreletricas-de-ate-50-mw-uma-oportunidade-estrategica-para-o-brasil/",
+      "publishedAt": "2026-11-18T17:42:16.000Z"
     },
     {
-      "title": "BYD condiciona nova fábrica de baterias em Manaus a leilão e vê risco em ação da Abeeólica",
-      "summary": "BYD (Divulgação) A BYD aguarda a realização do leilão de reserva de capacidade para baterias para decidir se ampliará sua estrutura industrial ou…",
+      "title": "Moura pede tarifa zero para importação de baterias destinadas ao LRCap",
+      "summary": "Fábrica de baterias da Moura A Moura pediu ao governo federal uma redução temporária de 18% para 0% do Imposto de Importação sobre módulos de…",
       "category": "armazenamento",
       "region": "BR",
       "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/economia-e-politica/empresas/byd-condiciona-nova-fabrica-de-baterias-em-manaus-a-leilao-e-ve-risco-em-acao-da-abeeolica/",
-      "publishedAt": "2026-11-17T17:52:48.000Z"
+      "url": "https://megawhat.uol.com.br/economia-e-politica/empresas/moura-pede-tarifa-zero-para-importacao-de-baterias-destinadas-ao-lrcap/",
+      "publishedAt": "2026-11-18T17:41:53.000Z"
     }
   ],
   "tariffFlag": {
