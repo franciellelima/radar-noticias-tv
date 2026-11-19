@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-19T01:46:12.273Z",
+  "updatedAt": "2026-11-19T18:54:28.733Z",
   "ai": false,
   "items": [
+    {
+      "title": "Brasol assume operação e manutenção de 49,2 MWp de usinas solares do SNEL11",
+      "summary": "Contrato abrange empreendimentos de geração distribuída em seis estados e amplia carteira de O&M da empresa para mais de 332 MWp; fundo possui…",
+      "category": "mercado",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/19/brasol-assume-operacao-e-manutencao-de-492-mwp-de-usinas-solares-do-snel11/",
+      "publishedAt": "2026-11-19T17:51:54.000Z"
+    },
+    {
+      "title": "Engie testa robô brasileiro que limpa painéis solares sem água e eleva geração em até 5,4%",
+      "summary": "Desenvolvida em parceria com a startup Solar Bot, tecnologia autônoma recebeu R$ 3,56 milhões em projeto de PD&I da Aneel e deverá avançar para…",
+      "category": "regulacao",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/19/engie-testa-robo-brasileiro-que-limpa-paineis-solares-sem-agua-e-eleva-geracao-em-ate-54/",
+      "publishedAt": "2026-11-19T14:40:10.000Z"
+    },
+    {
+      "title": "Energia solar leva economia e esperança a instituições que cuidam de idosos e crianças com câncer em SP",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNkUyY1pOMWZfNXdhZnZOb21BWnJDQ0M4YUt5bktaWkIyZGgtcmdrNW1RX2NVZEtFNUQzblJoUU0xYnVFakZuMWRKeGM2Q3dzd2ZDbHp1OWREYzM1V3dSeDBtV1FWYXI1TWhXQkIwNnJGV1V3ekt4Z3ZmYldST3ZYWjRWUVdvSnM?oc=5",
+      "publishedAt": "2026-11-19T13:00:19.000Z"
+    },
     {
       "title": "ONS poderá coordenar cortes de geração distribuída por meio das distribuidoras",
       "summary": "Proposta prevê experimento de 24 meses com cinco concessionárias e participação obrigatória de minigeradores, sem remuneração ou ressarcimento…",
@@ -21,49 +48,40 @@
       "publishedAt": "2026-11-18T17:05:18.000Z"
     },
     {
-      "title": "CPFL investe R$ 4,2 milhões em eficiência energética e energia solar em seis instituições paulistas",
-      "summary": "Projetos incluem a instalação de sistemas fotovoltaicos em hospitais e entidades assistenciais do interior de São Paulo, além da modernização de…",
-      "category": "tecnologia",
+      "title": "Coluna Giro Energia: TTS Energia irá construir usina solar de 830 kWp em Guarulhos",
+      "summary": "",
+      "category": "mercado",
       "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/18/cpfl-investe-r-42-milhoes-em-eficiencia-energetica-e-energia-solar-em-seis-instituicoes-paulistas/",
-      "publishedAt": "2026-11-18T12:40:02.000Z"
+      "source": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMVkzWVRSTHpFSU5Xd3RuSGpDb3dZTk5vTjl4ZkdZQi1TREtubXhmazZ0dWdDa0s3dnJHR2U5THlZV2ExN2ZjVDU0QWQ0X2pnbzBCdmN2SWU1cE9TbWJwZG1lOWNnZVdjbjVYYXJ6MHBLV1BCY3haZnk0X05qU1hCZkVsbnhkR0kzODBHTmk1cW9QYk00SzN6bl9uT0NaTE1oQnMzeGtMTkhaU2NIN21vcWE2c094TmR5QWNrUGFuZkZpS3N6MlJvOEJTaw?oc=5",
+      "publishedAt": "2026-11-19T13:21:23.000Z"
     },
     {
-      "title": "EDP destina R$ 850 mil a sistema solar com baterias para comunidade indígena em Manaus",
-      "summary": "Projeto selecionado pelo fundo de acesso à energia da EDP prevê reduzir o consumo de diesel em 26 mil litros por ano e evitar a emissão de 70…",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/18/edp-destina-r-850-mil-a-sistema-solar-com-baterias-para-comunidade-indigena-em-manaus/",
-      "publishedAt": "2026-11-18T12:32:27.000Z"
-    },
-    {
-      "title": "Cortes automáticos em usinas do Tipo 3 e minigeração também entram em consulta pública",
+      "title": "Conta de luz por horário? Tarifa Hora Certa pode mudar quando vale a pena consumir energia",
       "summary": "",
       "category": "regulacao",
       "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmZ5YkZmMkNEVXA5THRZUXN3V0lyaGtVcDhZMFJhZWZWdHhaenpzU1ZDRzZOVlBUZkdJcHg5dm9FNWExdlM4a2R0d3VXVFFCOVFPNnBZcWFEOW40TUZja3ZOVUxvRGFlbnRPcm0xZGxzbDZad2tQeXk2WFNPSjF1bEdEMA?oc=5",
-      "publishedAt": "2026-11-17T20:57:59.000Z"
+      "source": "Portal Solar",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNzk3VW8xVFQzS2pTTEFlM3k0V1JFRDZBY3RiUkFtYjZndjkwNFlYUXdlWENueVdnQ2lXTWJWTXZxMEVoS3Q1VzJUNjBYVVpmS19RQzdZZGgtQWhjM0hzOGxPMC1tMWtnS0ZXT0Fld3p5ZUprRnFjMGc0N2RZSk1iS2twSVQxa3ljZkdNR2d1ZUFPalVrNUZZQ0QtbTlIVHlpa0trdHVfMkdWM3B4VXkyMWR1YnpuUjNTa1JYUmt0aXRDajMzOE5RSFg2VkVSYVN6bjM2dTNQbF9nTWNlcmZfbE53?oc=5",
+      "publishedAt": "2026-11-19T17:29:18.000Z"
     },
     {
-      "title": "ANEEL abre consultas públicas para restringir energia solar por assinatura e liquidar excedentes da GD",
+      "title": "Do backup de energia residencial ao uso ao ar livre",
       "summary": "",
-      "category": "regulacao",
+      "category": "mercado",
       "region": "BR",
       "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTllV0p2ekZGVVoxLWtCMVhXZVhZZzdHOHdoMjlXdTRERGFGbUtkbUNnbk4wLWR2NnR4VUJWajQ2MGs0UlBJMXFXdWRYOUJLV28xajQwblJzaHN4aDB4a3ZFdjRWY0RNVDBlQXJlWGlya01QYmR0X1c3SGNSSDJuQ2szd3c?oc=5",
-      "publishedAt": "2026-11-17T19:34:33.000Z"
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GLWptbHR4Q00xQlFxUU1uT0xPbDJ2WlNmaWMxMlhoazluM0dFY3p3OXczRzFsTHp6MDBFOG10WURaYWJTSFVzamdnYnc0UFA2ZEs3aERuVUpmNnMwX3ZZZjB6eE0yYUg5ZXhoMWJGVFhwdmRCLUtjcUZWaFg?oc=5",
+      "publishedAt": "2026-11-19T16:39:44.000Z"
     },
     {
-      "title": "Votação do PL sobre custeio das baterias deve ficar para próxima semana",
+      "title": "B3 ganha primeiro ETF focado exclusivamente em empresas do setor elétrico",
       "summary": "",
-      "category": "armazenamento",
+      "category": "mercado",
       "region": "BR",
       "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc0JJRXdvUzkzTmVNc0ctZkZmR01mMnMyeXN4cXlBZXNyQmpOclUzVGhad3RNTjNRYWxVMm9WYmRxUG05VkxoNE1lMEs0MC1IaVhra3BsLUZMXy1EX1hKSjZMdGlSMUxGMWxfVGJKS21iZUxKOVVmbXo3cGJNaHVxTQ?oc=5",
-      "publishedAt": "2026-11-18T18:24:40.000Z"
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16ZFhVQkNGV2ZTRUJvVXBpbWV1T2FGWlI5cGlFRnhPeEZ6UDVCeGtNLS10bkRLeUZ6X2pCV2g0dzNWTzNCMjNMOHo5aGt4YXZoR3hfcnN4WE9xdjR4UFpZRmljeWxlV21tbW1aRW1n?oc=5",
+      "publishedAt": "2026-11-19T13:37:07.000Z"
     },
     {
       "title": "Black Friday Solan oferece até 40% OFF e combina monitoramento de usinas com CRM",
@@ -73,24 +91,6 @@
       "source": "Portal Solar",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnFTaEluMnllR2lXU2pJNWM3NVlEdEtkSFRMdmJyb19meTBnN3J4VjIyQVM4MUthWGdfMFJ1WDVJNThIRTBRR0hCTW5vYWhESmJWZVF1LXlGR1Ztd2hJNVVwcEtUMWJOdldPUW81Y1VRdmllVkFyZ3gzVGN4dVNTb2xQMUxydkRNNnVvb2FHNnpfY0dMNDdTU2tZWXVMV05kR3prUUxsd2NrTllfLWQwNldYWnhTUEthWldwbUJ4MjJkSnI4ZVhLX2VYSFp5c1dqblE?oc=5",
       "publishedAt": "2026-11-18T17:13:01.000Z"
-    },
-    {
-      "title": "O potencial das hidrelétricas de até 50 MW – uma oportunidade estratégica para o Brasil",
-      "summary": "Renata Menescal Por: Renata Menescal A expansão do sistema elétrico brasileiro exige conciliar o aumento da oferta de energia renovável com…",
-      "category": "mercado",
-      "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/conteudo-de-marca/o-potencial-das-hidreletricas-de-ate-50-mw-uma-oportunidade-estrategica-para-o-brasil/",
-      "publishedAt": "2026-11-18T17:42:16.000Z"
-    },
-    {
-      "title": "Moura pede tarifa zero para importação de baterias destinadas ao LRCap",
-      "summary": "Fábrica de baterias da Moura A Moura pediu ao governo federal uma redução temporária de 18% para 0% do Imposto de Importação sobre módulos de…",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/economia-e-politica/empresas/moura-pede-tarifa-zero-para-importacao-de-baterias-destinadas-ao-lrcap/",
-      "publishedAt": "2026-11-18T17:41:53.000Z"
     }
   ],
   "tariffFlag": {
