@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-11-20T01:42:21.204Z",
+  "updatedAt": "2026-11-20T18:24:46.683Z",
   "ai": false,
   "items": [
+    {
+      "title": "Energia solar com baterias reduz 73 toneladas de emissões de CO₂ em comunidade indígena no Amazonas",
+      "summary": "",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wUTdUZkU0S29jdDl6NnY2dlFfbDhpS29OcXM1U0d1XzhTQ2xxd0hWUmZic01QdGZKU1JOQTUtLWJPZXo3cExUOFZYZmNsSVR2b1ctUENURms1UVBNa2p2RGlSVGo0Tkdkb3V2Y29ZZHVnUEswenpidGFmUFlRZw?oc=5",
+      "publishedAt": "2026-11-20T13:00:11.000Z"
+    },
+    {
+      "title": "Sicoob Credip abastece 27 unidades com energia solar em Rondônia",
+      "summary": "Cooperativa utiliza créditos de uma usina fotovoltaica de 157 MWh em Vilhena (RO) para compensar o consumo de suas unidades no estado e estima…",
+      "category": "mercado",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/20/sicoob-credip-abastece-27-unidades-com-energia-solar-em-rondonia/",
+      "publishedAt": "2026-11-20T13:00:00.000Z"
+    },
+    {
+      "title": "Sistema solar com baterias gera 79,1 MWh em comunidade indígena no Amazonas",
+      "summary": "Instalação na comunidade Três Unidos gerou eletricidade em 251 dias de operação, reduziu a dependência de geradores a diesel e ampliou o acesso à…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/20/sistema-solar-com-baterias-gera-791-mwh-em-comunidade-indigena-no-amazonas/",
+      "publishedAt": "2026-11-20T11:30:00.000Z"
+    },
+    {
+      "title": "Taiwan estabelece regras para contratação de armazenamento em usinas solares existentes",
+      "summary": "Nova regulamentação busca incentivar a integração de sistemas de armazenamento por baterias a usinas fotovoltaicas existentes, aumentar a…",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/20/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
+      "publishedAt": "2026-11-20T10:31:00.000Z"
+    },
     {
       "title": "Déficit de energia no Oeste baiano abre espaço para geração solar e novos negócios",
       "summary": "",
@@ -10,24 +46,6 @@
       "source": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93dWZsRGFXMHRlSlVKeUdmdG9GTDhfLWF3R2lIYzRKUGFuMmhjTHlCdEE1cWV2WWFGZ3BSNXNSai1QWmstdVJPaDlvUndVSzhnT2ZuekRGMVFNQi00X3l6cjhBSXBCUzItaGsxRFA2dl8wRUxUbzR3?oc=5",
       "publishedAt": "2026-11-19T18:49:06.000Z"
-    },
-    {
-      "title": "Brasol assume operação e manutenção de 49,2 MWp de usinas solares do SNEL11",
-      "summary": "Contrato abrange empreendimentos de geração distribuída em seis estados e amplia carteira de O&M da empresa para mais de 332 MWp; fundo possui…",
-      "category": "mercado",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/19/brasol-assume-operacao-e-manutencao-de-492-mwp-de-usinas-solares-do-snel11/",
-      "publishedAt": "2026-11-19T17:51:54.000Z"
-    },
-    {
-      "title": "Engie testa robô brasileiro que limpa painéis solares sem água e eleva geração em até 5,4%",
-      "summary": "Desenvolvida em parceria com a startup Solar Bot, tecnologia autônoma recebeu R$ 3,56 milhões em projeto de PD&I da Aneel e deverá avançar para…",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/19/engie-testa-robo-brasileiro-que-limpa-paineis-solares-sem-agua-e-eleva-geracao-em-ate-54/",
-      "publishedAt": "2026-11-19T14:40:10.000Z"
     },
     {
       "title": "Energia solar leva economia e esperança a instituições que cuidam de idosos e crianças com câncer em SP",
@@ -39,33 +57,6 @@
       "publishedAt": "2026-11-19T13:00:19.000Z"
     },
     {
-      "title": "ONS poderá coordenar cortes de geração distribuída por meio das distribuidoras",
-      "summary": "Proposta prevê experimento de 24 meses com cinco concessionárias e participação obrigatória de minigeradores, sem remuneração ou ressarcimento…",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/18/ons-podera-coordenar-cortes-de-geracao-distribuida-por-meio-das-distribuidoras/",
-      "publishedAt": "2026-11-18T18:43:14.000Z"
-    },
-    {
-      "title": "Como a energia solar pode reduzir os impactos do El Niño na conta de luz",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUlRROW5jOFVtWHFON3dRbWhNc0QzcXBjWkVtV2p0MGxxT0stdFJ4dDR5bVpuUFZHaS1pYUwwa0JlMUQ5ZUlKMjJsNWhRd0RQMHlJNm9QTVQ4emhjaEduM1NQMkJBaFhGYUdHR0M5eU9DT2ZOVFZGM08ydjVPZXY1aWpPZ0NSb0Y0bDNkdDZfZjFlRTNhd0ZieGZSRGNRM3Byb3kzbUR3cnlCS3NoQkdPazd2YU1PNGZfRWNERXBuUnhhSHgwMnZMWg?oc=5",
-      "publishedAt": "2026-11-18T17:05:18.000Z"
-    },
-    {
-      "title": "Coluna Giro Energia: TTS Energia irá construir usina solar de 830 kWp em Guarulhos",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMVkzWVRSTHpFSU5Xd3RuSGpDb3dZTk5vTjl4ZkdZQi1TREtubXhmazZ0dWdDa0s3dnJHR2U5THlZV2ExN2ZjVDU0QWQ0X2pnbzBCdmN2SWU1cE9TbWJwZG1lOWNnZVdjbjVYYXJ6MHBLV1BCY3haZnk0X05qU1hCZkVsbnhkR0kzODBHTmk1cW9QYk00SzN6bl9uT0NaTE1oQnMzeGtMTkhaU2NIN21vcWE2c094TmR5QWNrUGFuZkZpS3N6MlJvOEJTaw?oc=5",
-      "publishedAt": "2026-11-19T13:21:23.000Z"
-    },
-    {
       "title": "Quem deve provar o quê em uma disputa com a distribuidora?",
       "summary": "",
       "category": "mercado",
@@ -75,15 +66,6 @@
       "publishedAt": "2026-11-19T21:03:59.000Z"
     },
     {
-      "title": "Categoria: Mercado & Investimentos - Página 364 de 364",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNUg4dklVR1VpV19VQ2tuNnE1MllhdjNueVRvdTA0N2loNTdEb3VyczIyb3IzWFhlRS13SG84RXNicTdxVEhKRXpfNGpUYWNZVmptSUFrYURJM0xET3pkcE5JaGphQ2FkOXlDWmtIMGxiY3BXRnUwNlNQYUR3STlDcQ?oc=5",
-      "publishedAt": "2026-11-19T18:15:02.000Z"
-    },
-    {
       "title": "Conta de luz por horário? Tarifa Hora Certa pode mudar quando vale a pena consumir energia",
       "summary": "",
       "category": "regulacao",
@@ -91,6 +73,24 @@
       "source": "Portal Solar",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNzk3VW8xVFQzS2pTTEFlM3k0V1JFRDZBY3RiUkFtYjZndjkwNFlYUXdlWENueVdnQ2lXTWJWTXZxMEVoS3Q1VzJUNjBYVVpmS19RQzdZZGgtQWhjM0hzOGxPMC1tMWtnS0ZXT0Fld3p5ZUprRnFjMGc0N2RZSk1iS2twSVQxa3ljZkdNR2d1ZUFPalVrNUZZQ0QtbTlIVHlpa0trdHVfMkdWM3B4VXkyMWR1YnpuUjNTa1JYUmt0aXRDajMzOE5RSFg2VkVSYVN6bjM2dTNQbF9nTWNlcmZfbE53?oc=5",
       "publishedAt": "2026-11-19T17:29:18.000Z"
+    },
+    {
+      "title": "ABEEólica ajuiza ADIN contra cobrança de encargo no LRCAP de baterias",
+      "summary": "",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVE5jbjlxbi16LWQwR0NCQWY1Nl9fajZZUHRLM1BwbGxvVnNVZkUwbTI1dmtRUWktWkMxMFJIdjQxalozN0lMSzRpRXVLbGl0LW5Qb1ZHXzloeUdTS2RsdXFkYXdFWFl2Mk9jVFR5ZkRXcmJpUFBWem5iSmFSM2FFYkVkaUtYTDdSanhMWFhZLWVVUHVfazZHelNKNnUzMVQ2cV9IRVlhdmh4NVlCUkxoWjc5Ul9DYnp0Y2JZ?oc=5",
+      "publishedAt": "2026-11-19T21:31:07.000Z"
+    },
+    {
+      "title": "Windey avança na implementação de fábrica de BESS na Bahia",
+      "summary": "",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVZ6VHQyX2Fqc0JWakhJX3dtdVk3MGI2eXZHalVmS1h5bDdnbExyS3ZQZjJBRlEyNkdOTjY5N1FzUWw2M294RVRuRHl3dEx6alAtY2lvdGZnUG83V0Zka0J4NmlDNnR2Vm5QZ1cxUzJhLUJibHplSXNOcnloamJHRVl5YkM1U0VXQUItWDFJaE14S1BZdUM1MWQxaFJmSFM5a0czUHpDaUMxYXFI?oc=5",
+      "publishedAt": "2026-11-19T20:33:26.000Z"
     }
   ],
   "tariffFlag": {
