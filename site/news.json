@@ -1,96 +1,51 @@
 {
-  "updatedAt": "2026-11-21T01:10:25.907Z",
+  "updatedAt": "2026-11-23T21:56:07.915Z",
   "ai": false,
   "items": [
     {
-      "title": "Como preparar sua empresa de energia solar para a reforma tributária?",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRTdrRXVzNXNzdHRNUDBqaElOZEFDOUk3dXlDMHp2M3BneUgtcEJBc18yeWxLTkctNXM4Z2xvMU5JeHRnQV9LMTJmdkVOZUZrU0pqODBBZ3hrMUM1TEpLaG9yTXJGeERYUGgwQ2ItVWdNZUp2VjRsWU1uaVBKWjRJaGhsMA?oc=5",
-      "publishedAt": "2026-11-20T20:00:59.000Z"
-    },
-    {
-      "title": "Energia solar com baterias reduz 73 toneladas de emissões de CO₂ em comunidade indígena no Amazonas",
-      "summary": "",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wUTdUZkU0S29jdDl6NnY2dlFfbDhpS29OcXM1U0d1XzhTQ2xxd0hWUmZic01QdGZKU1JOQTUtLWJPZXo3cExUOFZYZmNsSVR2b1ctUENURms1UVBNa2p2RGlSVGo0Tkdkb3V2Y29ZZHVnUEswenpidGFmUFlRZw?oc=5",
-      "publishedAt": "2026-11-20T13:00:11.000Z"
-    },
-    {
-      "title": "Sicoob Credip abastece 27 unidades com energia solar em Rondônia",
-      "summary": "Cooperativa utiliza créditos de uma usina fotovoltaica de 157 MWh em Vilhena (RO) para compensar o consumo de suas unidades no estado e estima…",
-      "category": "mercado",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/20/sicoob-credip-abastece-27-unidades-com-energia-solar-em-rondonia/",
-      "publishedAt": "2026-11-20T13:00:00.000Z"
-    },
-    {
-      "title": "Sistema solar com baterias gera 79,1 MWh em comunidade indígena no Amazonas",
-      "summary": "Instalação na comunidade Três Unidos gerou eletricidade em 251 dias de operação, reduziu a dependência de geradores a diesel e ampliou o acesso à…",
+      "title": "Luz para Todos completa 23 anos com novas oportunidades para solar off-grid e armazenamento",
+      "summary": "Desde 2003, o programa já beneficiou cerca de 18 milhões de brasileiros.",
       "category": "armazenamento",
       "region": "BR",
       "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/20/sistema-solar-com-baterias-gera-791-mwh-em-comunidade-indigena-no-amazonas/",
-      "publishedAt": "2026-11-20T11:30:00.000Z"
+      "url": "https://www.pv-magazine-brasil.com/2026/11/23/luz-para-todos-completa-23-anos-com-novas-oportunidades-para-solar-off-grid-e-armazenamento/",
+      "publishedAt": "2026-11-23T12:30:20.000Z"
     },
     {
-      "title": "Taiwan estabelece regras para contratação de armazenamento em usinas solares existentes",
-      "summary": "Nova regulamentação busca incentivar a integração de sistemas de armazenamento por baterias a usinas fotovoltaicas existentes, aumentar a…",
+      "title": "Hospital em Marília receberá R$ 4,5 milhões para projeto de eficiência energética com solar e baterias",
+      "summary": "Entre os equipamentos previstos está um sistema de armazenamento de energia em baterias (BESS) com potência de 100 kW e capacidade de 215 kWh.",
       "category": "armazenamento",
       "region": "BR",
       "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/20/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
-      "publishedAt": "2026-11-20T10:31:00.000Z"
+      "url": "https://www.pv-magazine-brasil.com/2026/11/23/hospital-em-marilia-recebera-r-45-milhoes-para-projeto-de-eficiencia-energetica-com-solar-e-baterias/",
+      "publishedAt": "2026-11-23T12:28:00.000Z"
     },
     {
-      "title": "Déficit de energia no Oeste baiano abre espaço para geração solar e novos negócios",
-      "summary": "",
+      "title": "Primeiro projeto de energia solar sobre canal entra em operação na França",
+      "summary": "Com 299 kW de potência instalada, o sistema deve gerar 404 MWh por ano.",
       "category": "mercado",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93dWZsRGFXMHRlSlVKeUdmdG9GTDhfLWF3R2lIYzRKUGFuMmhjTHlCdEE1cWV2WWFGZ3BSNXNSai1QWmstdVJPaDlvUndVSzhnT2ZuekRGMVFNQi00X3l6cjhBSXBCUzItaGsxRFA2dl8wRUxUbzR3?oc=5",
-      "publishedAt": "2026-11-19T18:49:06.000Z"
+      "region": "INT",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/23/frances-first-canal-top-pv-project-goes-online/",
+      "publishedAt": "2026-11-23T10:19:00.000Z"
     },
     {
-      "title": "Quem deve provar o quê em uma disputa com a distribuidora?",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUdUR043blEza2pzSXB1WnZ3V3JqR3J4Uy1sbTFrRERpZ0Z5MzEwb1NVQXZ1bFdjQ2Jrczk3X2wzaERDc0VYMUt1RHAtTUQ3eHVCYXcxY1g4UGd5ODFFRDZfSFA4ckhTTkR5ZlN6Y1hfNmNYWWlRT0N3NUdKVFk0MHBMcXdqOFliemVpa1VFZ185Wk1Nb1RhYVZJVHUwdDFZS2JsR0NlNzI?oc=5",
-      "publishedAt": "2026-11-19T21:03:59.000Z"
-    },
-    {
-      "title": "Conta de luz por horário? Tarifa Hora Certa pode mudar quando vale a pena consumir energia",
-      "summary": "",
+      "title": "Cemig restringe injeção de energia solar à noite e caso vai parar na Aneel",
+      "summary": "Solar/ Crédito: Marcos Santos (USP) O Ministério Público Federal (MPF) acionou a Agência Nacional de Energia Elétrica (Aneel) após a Cemig…",
       "category": "regulacao",
       "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNzk3VW8xVFQzS2pTTEFlM3k0V1JFRDZBY3RiUkFtYjZndjkwNFlYUXdlWENueVdnQ2lXTWJWTXZxMEVoS3Q1VzJUNjBYVVpmS19RQzdZZGgtQWhjM0hzOGxPMC1tMWtnS0ZXT0Fld3p5ZUprRnFjMGc0N2RZSk1iS2twSVQxa3ljZkdNR2d1ZUFPalVrNUZZQ0QtbTlIVHlpa0trdHVfMkdWM3B4VXkyMWR1YnpuUjNTa1JYUmt0aXRDajMzOE5RSFg2VkVSYVN6bjM2dTNQbF9nTWNlcmZfbE53?oc=5",
-      "publishedAt": "2026-11-19T17:29:18.000Z"
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/economia-e-politica/empresas/cemig-restringe-injecao-de-energia-solar-a-noite-e-caso-vai-parar-na-aneel/",
+      "publishedAt": "2026-11-23T19:10:23.000Z"
     },
     {
-      "title": "ABEEólica ajuiza ADIN contra cobrança de encargo no LRCAP de baterias",
-      "summary": "",
-      "category": "armazenamento",
+      "title": "Serena fecha parceria com 99 para oferecer desconto para motoristas via GD",
+      "summary": "MMGD solar A Serena firmou uma parceria com a 99 para oferecer descontos de até 34% na conta de luz residencial de motoristas parceiros da…",
+      "category": "mercado",
       "region": "BR",
-      "source": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVE5jbjlxbi16LWQwR0NCQWY1Nl9fajZZUHRLM1BwbGxvVnNVZkUwbTI1dmtRUWktWkMxMFJIdjQxalozN0lMSzRpRXVLbGl0LW5Qb1ZHXzloeUdTS2RsdXFkYXdFWFl2Mk9jVFR5ZkRXcmJpUFBWem5iSmFSM2FFYkVkaUtYTDdSanhMWFhZLWVVUHVfazZHelNKNnUzMVQ2cV9IRVlhdmh4NVlCUkxoWjc5Ul9DYnp0Y2JZ?oc=5",
-      "publishedAt": "2026-11-19T21:31:07.000Z"
-    },
-    {
-      "title": "Windey avança na implementação de fábrica de BESS na Bahia",
-      "summary": "",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVZ6VHQyX2Fqc0JWakhJX3dtdVk3MGI2eXZHalVmS1h5bDdnbExyS3ZQZjJBRlEyNkdOTjY5N1FzUWw2M294RVRuRHl3dEx6alAtY2lvdGZnUG83V0Zka0J4NmlDNnR2Vm5QZ1cxUzJhLUJibHplSXNOcnloamJHRVl5YkM1U0VXQUItWDFJaE14S1BZdUM1MWQxaFJmSFM5a0czUHpDaUMxYXFI?oc=5",
-      "publishedAt": "2026-11-19T20:33:26.000Z"
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/geracao/micro-e-minigeracao-distribuida/serena-fecha-parceria-com-99-para-oferecer-desconto-para-motoristas-via-gd/",
+      "publishedAt": "2026-11-23T16:28:48.000Z"
     }
   ],
   "tariffFlag": {
