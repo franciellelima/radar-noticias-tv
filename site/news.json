@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-25T04:48:58.540Z",
+  "updatedAt": "2026-11-25T19:49:30.285Z",
   "ai": false,
   "items": [
+    {
+      "title": "Frete pode representar até 20% do valor de kits solares; veja como reduzir custos",
+      "summary": "",
+      "category": "precos",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93NU5ZX3dKT3hkbkVjaFNQWXFKcm1NWmdCcmJWSDEtaVpvN01Ib3lZcm9kdlBHWmx4WUJVZUdtRllQWmNxdTZOSkpUVWk1UXpUTFRmNVVwSWdWMEJVVnB4bGVQR2N5aURIdG5pdzdteFpfTXRn?oc=5",
+      "publishedAt": "2026-11-25T17:38:31.000Z"
+    },
+    {
+      "title": "Linha piloto recupera prata e silício de alta pureza de módulos fotovoltaicos",
+      "summary": "Pesquisadores testaram dois métodos de separação das camadas de módulos fotovoltaicos em fim de vida útil em uma linha piloto de reciclagem,…",
+      "category": "precos",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/25/pilot-line-recovers-high-purity-silver-silicon-from-pv-panels/",
+      "publishedAt": "2026-11-25T10:18:00.000Z"
+    },
+    {
+      "title": "Chinese startup offers foldable off-grid solar EV charger",
+      "summary": "Gaotu Innovation, a manufacturer of portable and distributed PV hardware, has introduced a car-mounted EV charging solution into the Australian…",
+      "category": "mercado",
+      "region": "INT",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/25/gaotu-unveils-foldable-off-grid-solar-ev-charger/",
+      "publishedAt": "2026-11-25T10:11:00.000Z"
+    },
     {
       "title": "Gokin Solar passa a integrar lista Tier 1 da BloombergNEF",
       "summary": "",
@@ -10,51 +37,6 @@
       "source": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3d2tMQTJqR3FwbXFxUU9uekdBSzJqdHpCM0R0X0J5bW9qdUJ1eDd4dlZXSjgxSTgtU3JUMmNDVlU2Z3h5MXlHZXA5UUV2UFg3WEhGQ0xIVUZOUWR0VUdXeTV6cjd1ZmJieVZ3WjRGOE91TnFFS0IzcU1kdm8?oc=5",
       "publishedAt": "2026-11-24T12:46:40.000Z"
-    },
-    {
-      "title": "ANEEL publica regras do ECR que pode reduzir benefícios da geração distribuída",
-      "summary": "",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSW04Y0Nqa2ZkVDVFUENXUU5xbVh4dzlyS0NiSWFEMDFmSXprNmVsc1VWOWxWQ3R4SkJFVXNRN1o0SVdVRks4NnE1X2ZqM0dfNko0VExHbFdpQ0FRS1dfTFMxbEdUd19xWUVLdnlrQ3ZFZUFvMUxHRXo1aWZzbkdXSw?oc=5",
-      "publishedAt": "2026-11-24T11:35:39.000Z"
-    },
-    {
-      "title": "Sistema de pulverização movido pelo vento resfria e limpa painéis solares",
-      "summary": "Pesquisadores desenvolveram um sistema de pulverização de água que resfria e limpa módulos fotovoltaicos usando uma turbina eólica acoplada…",
-      "category": "tecnologia",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/24/sistema-de-pulverizacao-movido-pelo-vento-resfria-e-limpa-paineis-solares/",
-      "publishedAt": "2026-11-24T09:44:11.000Z"
-    },
-    {
-      "title": "MC4-Evo 2 da Stäubli atende projetos solares de alta potência e usinas flutuantes",
-      "summary": "",
-      "category": "precos",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZS0NLclEzUnBva1gtMks4SmxuYUM2d09PU0xkbXFSTjNiMG11MDF4VUY5MXZta3RVUmNMVWxhWkNudWFTSFpxSlJqVWh0cklfcVdaZXk4dTJYWkx1NzQ4aUR3NWtJa2Zjb2g1c18tNFplV0NEUGdYOXR5U19kbUE?oc=5",
-      "publishedAt": "2026-11-23T17:35:16.000Z"
-    },
-    {
-      "title": "Movimento Solar Livre questiona Tarifa Hora Certa e alerta para impacto na conta de luz",
-      "summary": "",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcDBuUWdkRkNoTkJIRlVMd2hJNlBGTzJHZlRJdlEzYnM0bXJaNS1BQXNNNF9FME9FWmlBaEZYaDlROGk2VnEwMG5ZYnJmN0FMX01SYnBrYXpwMDZpYUVIZDZvcENuVzZwNk9HNUg3RWdhYlJ4UzVkcGNHME9QN0MyZ2NTUTNMLUNsSGhKLS1GSi1JeUY4ZzNlQVNZT1pIZnBoR0hfODY4M2VZY3JHODhBYmVwYWl3R0NKMFAwcGJyd1pwTFZabWIyeVBsWHNMbWJZa1RFTEEySHprUWJn?oc=5",
-      "publishedAt": "2026-11-23T13:47:16.000Z"
-    },
-    {
-      "title": "Aneel revoga outorga de solares no Piauí e libera térmica da Raízen",
-      "summary": "Raízen | Foto: Divulgação A Agência Nacional de Energia Elétrica (Aneel) aprovou a revogação das outorgas de usinas solares por falta de margem…",
-      "category": "regulacao",
-      "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/destaques-do-diario/aneel-revoga-outorga-de-solares-no-piaui-e-libera-termica-da-raizen/",
-      "publishedAt": "2026-11-24T17:21:07.000Z"
     },
     {
       "title": "Aneel julga multas contra eólicas e solares pelo apagão de 2023",
@@ -66,31 +48,49 @@
       "publishedAt": "2026-11-24T13:08:00.000Z"
     },
     {
-      "title": "Windey credencia pack de baterias no BNDES e prevê nacionalização de 85% dos BESS",
-      "summary": "Fabricante chinesa obteve o credenciamento dos packs de baterias que serão montados em Camaçari (BA) e espera concluir o cadastro de três…",
+      "title": "Justiça nega suspensão e leilões de baterias seguem previstos para dezembro",
+      "summary": "",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "Portal Solar",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnZVc0hHZGR4U184a2NqREpXYmpGQkFXMmNvT00wQWhtTjJTR2YzOGdfT3hmZi1QNEpzTmlobnNKcWxPZFBoelZVLW8zVVpReVM3ZUtGSVpzZ1BxcHkySnZBNEY1blgzczhmbXdjY1h1SjdJLUZfeDZoclpvQUEtSVBmNnprMzNQZzF0eFc2YTg3amI5bUhzaGZrQnE4c0xjNEQ2dFpYLTdkNTI0RTc1ZTVLMzJXeEdzQVY1X3g5Q054cmRhR1djS2JsRVM?oc=5",
+      "publishedAt": "2026-11-25T18:44:24.000Z"
+    },
+    {
+      "title": "COP31: preparação de projetos na agenda da transição energética",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00R21CeVAwN1ZUVmtMRjVKYjlvaW9sV01yQm9GMF9wT2lmbXBuNjE3cDgzdFN1ai1fZUkzMnl6QUoycmtBNFJnTGhMTEJ1c3YtSDNJNnU2alNwM01sNFJZUlFoWERxSU11enM2c2s1aG8?oc=5",
+      "publishedAt": "2026-11-25T18:24:46.000Z"
+    },
+    {
+      "title": "MDIC defende revisão da lei e mudança no rateio dos custos de baterias",
+      "summary": "Pasta considera mais adequada proposta da Aneel de diferenciar encargos conforme a flexibilidade das usinas e defende revisão da lei que atribui…",
       "category": "armazenamento",
       "region": "BR",
       "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/24/windey-credencia-pack-de-baterias-no-bndes-e-preve-nacionalizacao-de-85-dos-bess/",
-      "publishedAt": "2026-11-24T17:47:54.000Z"
+      "url": "https://www.pv-magazine-brasil.com/2026/11/25/mdic-defende-revisao-da-lei-e-mudanca-no-rateio-dos-custos-de-baterias/",
+      "publishedAt": "2026-11-25T16:28:55.000Z"
     },
     {
-      "title": "ECR poderá reduzir benefícios tarifários da GD a partir de 2027 com fator preliminar de 52,4%",
-      "summary": "Encargo criado pela Lei nº 15.269/2025 limita despesas da Conta de Desenvolvimento Energético (CDE) e transfere aos beneficiários o custo que…",
-      "category": "regulacao",
+      "title": "WEG leva Imersão de Híbridos Avançados a Cuiabá e chega à sétima edição",
+      "summary": "",
+      "category": "mercado",
       "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/24/ecr-podera-reduzir-beneficios-tarifarios-da-gd-a-partir-de-2027-com-fator-preliminar-de-524/",
-      "publishedAt": "2026-11-24T13:13:51.000Z"
+      "source": "Portal Solar",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUjNNU2hyU1JiSGdvTkRhREc3enB4a1RUTzRETkY5SXFyUC1WOS1tcHlIVlo5am1YM1EySGdMOG5fUWN4SlVPTXd2d1VqYnA5SGNGYWVTcVVsYVllT0d6WXVnUTJFbUxjNUo1a2gxTERRQWdkekxENHFwaUJuZ0lySncydGlwa2h0d2tYYk9xQTEzUW1kWTliSFlpSGZQZHptajM3ZkFCdWlrZW45TE1tWE1FQ2xNVDNyTENjTUZNdThHb1BjcUZJ?oc=5",
+      "publishedAt": "2026-11-25T14:12:48.000Z"
     },
     {
-      "title": "Geradoras rejeitam acordo e são multadas em R$ 146 milhões por apagão de 2023",
-      "summary": "Projetos de usinas solares e eólicas e a transmissão / Crédito: ThinkStock A Agência Nacional de Energia Elétrica (Aneel) aprovou, nesta…",
-      "category": "regulacao",
+      "title": "WEG habilita sistema de baterias para leilão de reserva de capacidade",
+      "summary": "WEG (Divulgação) A WEG conseguiu o credenciamento de seu pack de baterias de lítio na rota 2 do Banco Nacional de Desenvolvimento Econômico e…",
+      "category": "armazenamento",
       "region": "BR",
       "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/regulacao/geradoras-rejeitam-acordo-e-sao-multadas-em-r-146-milhoes-por-apagao-de-2023/",
-      "publishedAt": "2026-11-24T21:26:04.000Z"
+      "url": "https://megawhat.uol.com.br/armazenamento/weg-habilita-sistema-de-baterias-para-leilao-de-reserva-de-capacidade/",
+      "publishedAt": "2026-11-25T18:10:00.000Z"
     }
   ],
   "tariffFlag": {
