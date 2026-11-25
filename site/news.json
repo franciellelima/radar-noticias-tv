@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:32:00.894Z",
+  "updatedAt": "2026-11-25T04:48:58.540Z",
   "ai": false,
   "items": [
     {
@@ -48,24 +48,6 @@
       "publishedAt": "2026-11-23T13:47:16.000Z"
     },
     {
-      "title": "Luz para Todos completa 23 anos com novas oportunidades para solar off-grid e armazenamento",
-      "summary": "Desde 2003, o programa já beneficiou cerca de 18 milhões de brasileiros.",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/23/luz-para-todos-completa-23-anos-com-novas-oportunidades-para-solar-off-grid-e-armazenamento/",
-      "publishedAt": "2026-11-23T12:30:20.000Z"
-    },
-    {
-      "title": "Hospital em Marília receberá R$ 4,5 milhões para projeto de eficiência energética com solar e baterias",
-      "summary": "Entre os equipamentos previstos está um sistema de armazenamento de energia em baterias (BESS) com potência de 100 kW e capacidade de 215 kWh.",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/23/hospital-em-marilia-recebera-r-45-milhoes-para-projeto-de-eficiencia-energetica-com-solar-e-baterias/",
-      "publishedAt": "2026-11-23T12:28:00.000Z"
-    },
-    {
       "title": "Aneel revoga outorga de solares no Piauí e libera térmica da Raízen",
       "summary": "Raízen | Foto: Divulgação A Agência Nacional de Energia Elétrica (Aneel) aprovou a revogação das outorgas de usinas solares por falta de margem…",
       "category": "regulacao",
@@ -75,22 +57,40 @@
       "publishedAt": "2026-11-24T17:21:07.000Z"
     },
     {
-      "title": "PL das baterias pode elevar conta de luz em até R$ 6,26 bilhões por ano, estima FNCE",
-      "summary": "Baterias / Crédito: Isa Energia (Divulgação) O Projeto de Lei nº 3.716/2026 pode aumentar o custo da conta de luz dos consumidores brasileiros em…",
-      "category": "armazenamento",
+      "title": "Aneel julga multas contra eólicas e solares pelo apagão de 2023",
+      "summary": "",
+      "category": "regulacao",
       "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/economia-e-politica/congresso/pl-das-baterias-pode-elevar-conta-de-luz-em-ate-r-626-bilhoes-por-ano-estima-fnce/",
-      "publishedAt": "2026-11-24T20:03:00.000Z"
+      "source": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORGNKY0FrWnZCdGZnRVphRFlSc21OOEM0WDBtbHVuVFFCZ2N6SnRCR2JjX29QN3MycnRld0tRSEtVOGJHcGprbXlsdXBuU1ZZSHpRQ3JtT0lGSTZzZTFBOWRMcEZhWG4yMUI4d2hTN0xYMExtM0ZFYzRGdGpXZk9ab25xVzJ3OXIxSjVFQlFyM19KeTdwcnpMdk1ZbTFmYnJnaXNBQklrVEstVG9QaUQ1Q2s1RQ?oc=5",
+      "publishedAt": "2026-11-24T13:08:00.000Z"
     },
     {
-      "title": "Petrobras inclui baterias e US$ 200 milhões para novas térmicas no planejamento",
-      "summary": "Edifício Edisen, sede da Petrobras no Rio de Janeiro A Petrobras incluiu investimentos em sistemas de armazenamento de energia em baterias (BESS)…",
+      "title": "Windey credencia pack de baterias no BNDES e prevê nacionalização de 85% dos BESS",
+      "summary": "Fabricante chinesa obteve o credenciamento dos packs de baterias que serão montados em Camaçari (BA) e espera concluir o cadastro de três…",
       "category": "armazenamento",
       "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/24/windey-credencia-pack-de-baterias-no-bndes-e-preve-nacionalizacao-de-85-dos-bess/",
+      "publishedAt": "2026-11-24T17:47:54.000Z"
+    },
+    {
+      "title": "ECR poderá reduzir benefícios tarifários da GD a partir de 2027 com fator preliminar de 52,4%",
+      "summary": "Encargo criado pela Lei nº 15.269/2025 limita despesas da Conta de Desenvolvimento Energético (CDE) e transfere aos beneficiários o custo que…",
+      "category": "regulacao",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/24/ecr-podera-reduzir-beneficios-tarifarios-da-gd-a-partir-de-2027-com-fator-preliminar-de-524/",
+      "publishedAt": "2026-11-24T13:13:51.000Z"
+    },
+    {
+      "title": "Geradoras rejeitam acordo e são multadas em R$ 146 milhões por apagão de 2023",
+      "summary": "Projetos de usinas solares e eólicas e a transmissão / Crédito: ThinkStock A Agência Nacional de Energia Elétrica (Aneel) aprovou, nesta…",
+      "category": "regulacao",
+      "region": "BR",
       "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/economia-e-politica/empresas/petrobras-inclui-baterias-e-us-200-milhoes-para-novas-termicas-no-planejamento/",
-      "publishedAt": "2026-11-24T17:23:39.000Z"
+      "url": "https://megawhat.uol.com.br/regulacao/geradoras-rejeitam-acordo-e-sao-multadas-em-r-146-milhoes-por-apagao-de-2023/",
+      "publishedAt": "2026-11-24T21:26:04.000Z"
     }
   ],
   "tariffFlag": {
