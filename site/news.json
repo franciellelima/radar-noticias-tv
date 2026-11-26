@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-11-26T02:41:40.090Z",
+  "updatedAt": "2026-11-26T19:27:00.040Z",
   "ai": false,
   "items": [
+    {
+      "title": "Energia solar é o fim? Só para quem parou no tempo",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PUDRlNkp6dVZKVkF0cm9nR2xWTVFFakplTkhDcjJHQWZBLVhOSlUtaUlHQkxOQnBwSlk1d3hmc0pEX2dFcEdzbWdST0padWkxeDB1SHF3OHBlcnpyaTlGZ1YydlZKR1ByQ1E?oc=5",
+      "publishedAt": "2026-11-26T18:50:44.000Z"
+    },
+    {
+      "title": "Três escolas municipais no oeste do Maranhão iniciam instalação de sistemas fotovoltaicos",
+      "summary": "Projeto em Ribamar Fiquene contempla três unidades de ensino na primeira etapa e prevê expansão para prédios da Secretaria de Educação, unidades…",
+      "category": "mercado",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/26/tres-escolas-municipais-no-oeste-do-maranhao-iniciam-instalacao-de-sistemas-fotovoltaicos/",
+      "publishedAt": "2026-11-26T12:31:49.000Z"
+    },
+    {
+      "title": "Pesquisadores identificam perdas anuais de até 2,28% causadas por ondas em sistemas fotovoltaicos flutuantes",
+      "summary": "Pesquisadores na Noruega aprimoraram um modelo para avaliar o impacto do movimento das ondas sobre o desempenho de sistemas fotovoltaicos…",
+      "category": "tecnologia",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/26/researchers-find-up-to-2-28-annual-wave-induced-losses-in-floating-pv-systems/",
+      "publishedAt": "2026-11-26T10:20:00.000Z"
+    },
+    {
+      "title": "Assegurar abastecimento de módulos solares na UE pode custar US$ 155/kW adicionais",
+      "summary": "Pesquisadores na Áustria identificaram uma capacidade de produção local de módulos solares de 30 GW e taxas de utilização das fábricas superiores…",
+      "category": "precos",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/26/eu-solar-supply-security-could-come-at-a-155-kw-premium-as-domestic-modules-remain-twice-as-costly-as-chinese-imports/",
+      "publishedAt": "2026-11-26T10:16:00.000Z"
+    },
+    {
+      "title": "Shipping costs can represent up to 20% of the value of solar kits; see how to reduce costs.",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JTFEzalBfYWhDTnlySjIyN0w5aXltSTFyWWhJaFBOQzdaQ2VTVUFrZHRqd1plNmF5VkVzLTJKTFE1cXJDa3pnVnpTWElXVExIZ0Z5dUp5dkpZZUpmY2tYeFhOWlI5NG5RQ1k3QTMtdmRiYlNPT1BWVQ?oc=5",
+      "publishedAt": "2026-11-25T17:38:31.000Z"
+    },
     {
       "title": "Frete pode representar até 20% do valor de kits solares; veja como reduzir custos",
       "summary": "",
@@ -10,42 +55,6 @@
       "source": "Canal Solar",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93NU5ZX3dKT3hkbkVjaFNQWXFKcm1NWmdCcmJWSDEtaVpvN01Ib3lZcm9kdlBHWmx4WUJVZUdtRllQWmNxdTZOSkpUVWk1UXpUTFRmNVVwSWdWMEJVVnB4bGVQR2N5aURIdG5pdzdteFpfTXRn?oc=5",
       "publishedAt": "2026-11-25T17:38:31.000Z"
-    },
-    {
-      "title": "Linha piloto recupera prata e silício de alta pureza de módulos fotovoltaicos",
-      "summary": "Pesquisadores testaram dois métodos de separação das camadas de módulos fotovoltaicos em fim de vida útil em uma linha piloto de reciclagem,…",
-      "category": "precos",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/25/pilot-line-recovers-high-purity-silver-silicon-from-pv-panels/",
-      "publishedAt": "2026-11-25T10:18:00.000Z"
-    },
-    {
-      "title": "Chinese startup offers foldable off-grid solar EV charger",
-      "summary": "Gaotu Innovation, a manufacturer of portable and distributed PV hardware, has introduced a car-mounted EV charging solution into the Australian…",
-      "category": "mercado",
-      "region": "INT",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/25/gaotu-unveils-foldable-off-grid-solar-ev-charger/",
-      "publishedAt": "2026-11-25T10:11:00.000Z"
-    },
-    {
-      "title": "Leilão de baterias: BNDES financiará até 80% dos projetos e terá taxas diferentes conforme conteúdo local",
-      "summary": "",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14STJOMzV2VWtUakpQMWJ4SWhNTjVSWHU1dmhmVk5adnVZUFF6X1dpOG51R2t0dm9sLWhXSWhHdl9RM25yZDZtYjBLX2o0ajBxY3VDVzFnenJXVG5PalRNdEIwdFUyQmhVTEE0dThTdUFvbUNkWS1fMDBDakhVV1k?oc=5",
-      "publishedAt": "2026-11-25T20:49:28.000Z"
-    },
-    {
-      "title": "WEG se posiciona como protagonista do 1º leilão de baterias do Brasil",
-      "summary": "",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0RjJxUFF2SFlaX0lrSmY3S3hwTno4VjVHQmVKWEtXR19XbWpPQWJCLWVSbmo1akRGM09sZlJNcGVyTUhJYzF4bmozMFRTSzFNQ1o5WkFRNWZKVjk3TTFZLTgzR1FkV2JpX0VOZ19BNGtiMDE1VENsX3hXQQ?oc=5",
-      "publishedAt": "2026-11-25T20:07:45.000Z"
     },
     {
       "title": "Justiça nega suspensão e leilões de baterias seguem previstos para dezembro",
@@ -57,15 +66,6 @@
       "publishedAt": "2026-11-25T18:44:24.000Z"
     },
     {
-      "title": "MDIC defende revisão da lei e mudança no rateio dos custos de baterias",
-      "summary": "Pasta considera mais adequada proposta da Aneel de diferenciar encargos conforme a flexibilidade das usinas e defende revisão da lei que atribui…",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/25/mdic-defende-revisao-da-lei-e-mudanca-no-rateio-dos-custos-de-baterias/",
-      "publishedAt": "2026-11-25T16:28:55.000Z"
-    },
-    {
       "title": "WEG leva Imersão de Híbridos Avançados a Cuiabá e chega à sétima edição",
       "summary": "",
       "category": "mercado",
@@ -75,22 +75,22 @@
       "publishedAt": "2026-11-25T14:12:48.000Z"
     },
     {
-      "title": "BNDES flexibiliza crédito para baterias e poderá financiar até 80% dos projetos",
-      "summary": "Sede do BNDES no Rio de Janeiro (Divulgação) O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) poderá flexibilizar os cronogramas de…",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/armazenamento/bndes-flexibiliza-credito-para-baterias-e-podera-financiar-ate-80-dos-projetos/",
-      "publishedAt": "2026-11-25T20:32:37.000Z"
-    },
-    {
-      "title": "Brasil chega a oito plantas de biometano aptas a emitir certificados de origem",
-      "summary": "Planta de biometano da Gás Verde em Seropédica, no Rio de Janeiro | Crédito: Gás Verde A Agência Nacional do Petróleo, Gás Natural e…",
+      "title": "Belo Monte depende de aval do Ibama para manter vazão reduzida em dezembro",
+      "summary": "UHE Belo Monte /Crédito: Roney Santana A manutenção da operação excepcional da hidrelétrica de Belo Monte, no Pará, com defluência mínima de 100…",
       "category": "mercado",
       "region": "BR",
       "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/oleo-e-gas/biometano/brasil-chega-a-oito-plantas-de-biometano-aptas-a-emitir-certificados-de-origem/",
-      "publishedAt": "2026-11-25T19:57:16.000Z"
+      "url": "https://megawhat.uol.com.br/noticias/belo-monte-depende-de-aval-do-ibama-para-manter-vazao-reduzida-em-dezembro/",
+      "publishedAt": "2026-11-26T19:11:37.000Z"
+    },
+    {
+      "title": "Itaipu Parquetec testa baterias de segunda vida para armazenamento",
+      "summary": "",
+      "category": "armazenamento",
+      "region": "BR",
+      "source": "CanalEnergia",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMG9BcmdETEtkTXRNXzdoYmR3RW9YQmMzYlhQVkVyLVRyTkRNRV84SDNxOWZiVWUwVldRMHlCOEN0MnJUT2NneTlwTFJjN21Xck9QaG1HYmo2OFdpLUhuTVBCY3dKV0d1XzFwaThQRWNORGxwTjlBUlNjaU95dmtDTl82QUR4dHRUN2xXNkZRdWlFUzk5VXFQdV9najRBQ1g0RWZrTkFteGRjUXJVSjFSQnYwX0NOZEk?oc=5",
+      "publishedAt": "2026-11-26T12:02:28.000Z"
     }
   ],
   "tariffFlag": {
