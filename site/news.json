@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T19:49:30.285Z",
+  "updatedAt": "2026-11-26T02:41:40.090Z",
   "ai": false,
   "items": [
     {
@@ -30,22 +30,22 @@
       "publishedAt": "2026-11-25T10:11:00.000Z"
     },
     {
-      "title": "Gokin Solar passa a integrar lista Tier 1 da BloombergNEF",
+      "title": "Leilão de baterias: BNDES financiará até 80% dos projetos e terá taxas diferentes conforme conteúdo local",
       "summary": "",
-      "category": "mercado",
+      "category": "armazenamento",
       "region": "BR",
       "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3d2tMQTJqR3FwbXFxUU9uekdBSzJqdHpCM0R0X0J5bW9qdUJ1eDd4dlZXSjgxSTgtU3JUMmNDVlU2Z3h5MXlHZXA5UUV2UFg3WEhGQ0xIVUZOUWR0VUdXeTV6cjd1ZmJieVZ3WjRGOE91TnFFS0IzcU1kdm8?oc=5",
-      "publishedAt": "2026-11-24T12:46:40.000Z"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14STJOMzV2VWtUakpQMWJ4SWhNTjVSWHU1dmhmVk5adnVZUFF6X1dpOG51R2t0dm9sLWhXSWhHdl9RM25yZDZtYjBLX2o0ajBxY3VDVzFnenJXVG5PalRNdEIwdFUyQmhVTEE0dThTdUFvbUNkWS1fMDBDakhVV1k?oc=5",
+      "publishedAt": "2026-11-25T20:49:28.000Z"
     },
     {
-      "title": "Aneel julga multas contra eólicas e solares pelo apagão de 2023",
+      "title": "WEG se posiciona como protagonista do 1º leilão de baterias do Brasil",
       "summary": "",
-      "category": "regulacao",
+      "category": "armazenamento",
       "region": "BR",
-      "source": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORGNKY0FrWnZCdGZnRVphRFlSc21OOEM0WDBtbHVuVFFCZ2N6SnRCR2JjX29QN3MycnRld0tRSEtVOGJHcGprbXlsdXBuU1ZZSHpRQ3JtT0lGSTZzZTFBOWRMcEZhWG4yMUI4d2hTN0xYMExtM0ZFYzRGdGpXZk9ab25xVzJ3OXIxSjVFQlFyM19KeTdwcnpMdk1ZbTFmYnJnaXNBQklrVEstVG9QaUQ1Q2s1RQ?oc=5",
-      "publishedAt": "2026-11-24T13:08:00.000Z"
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0RjJxUFF2SFlaX0lrSmY3S3hwTno4VjVHQmVKWEtXR19XbWpPQWJCLWVSbmo1akRGM09sZlJNcGVyTUhJYzF4bmozMFRTSzFNQ1o5WkFRNWZKVjk3TTFZLTgzR1FkV2JpX0VOZ19BNGtiMDE1VENsX3hXQQ?oc=5",
+      "publishedAt": "2026-11-25T20:07:45.000Z"
     },
     {
       "title": "Justiça nega suspensão e leilões de baterias seguem previstos para dezembro",
@@ -55,15 +55,6 @@
       "source": "Portal Solar",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnZVc0hHZGR4U184a2NqREpXYmpGQkFXMmNvT00wQWhtTjJTR2YzOGdfT3hmZi1QNEpzTmlobnNKcWxPZFBoelZVLW8zVVpReVM3ZUtGSVpzZ1BxcHkySnZBNEY1blgzczhmbXdjY1h1SjdJLUZfeDZoclpvQUEtSVBmNnprMzNQZzF0eFc2YTg3amI5bUhzaGZrQnE4c0xjNEQ2dFpYLTdkNTI0RTc1ZTVLMzJXeEdzQVY1X3g5Q054cmRhR1djS2JsRVM?oc=5",
       "publishedAt": "2026-11-25T18:44:24.000Z"
-    },
-    {
-      "title": "COP31: preparação de projetos na agenda da transição energética",
-      "summary": "",
-      "category": "mercado",
-      "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00R21CeVAwN1ZUVmtMRjVKYjlvaW9sV01yQm9GMF9wT2lmbXBuNjE3cDgzdFN1ai1fZUkzMnl6QUoycmtBNFJnTGhMTEJ1c3YtSDNJNnU2alNwM01sNFJZUlFoWERxSU11enM2c2s1aG8?oc=5",
-      "publishedAt": "2026-11-25T18:24:46.000Z"
     },
     {
       "title": "MDIC defende revisão da lei e mudança no rateio dos custos de baterias",
@@ -84,13 +75,22 @@
       "publishedAt": "2026-11-25T14:12:48.000Z"
     },
     {
-      "title": "WEG habilita sistema de baterias para leilão de reserva de capacidade",
-      "summary": "WEG (Divulgação) A WEG conseguiu o credenciamento de seu pack de baterias de lítio na rota 2 do Banco Nacional de Desenvolvimento Econômico e…",
+      "title": "BNDES flexibiliza crédito para baterias e poderá financiar até 80% dos projetos",
+      "summary": "Sede do BNDES no Rio de Janeiro (Divulgação) O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) poderá flexibilizar os cronogramas de…",
       "category": "armazenamento",
       "region": "BR",
       "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/armazenamento/weg-habilita-sistema-de-baterias-para-leilao-de-reserva-de-capacidade/",
-      "publishedAt": "2026-11-25T18:10:00.000Z"
+      "url": "https://megawhat.uol.com.br/armazenamento/bndes-flexibiliza-credito-para-baterias-e-podera-financiar-ate-80-dos-projetos/",
+      "publishedAt": "2026-11-25T20:32:37.000Z"
+    },
+    {
+      "title": "Brasil chega a oito plantas de biometano aptas a emitir certificados de origem",
+      "summary": "Planta de biometano da Gás Verde em Seropédica, no Rio de Janeiro | Crédito: Gás Verde A Agência Nacional do Petróleo, Gás Natural e…",
+      "category": "mercado",
+      "region": "BR",
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/oleo-e-gas/biometano/brasil-chega-a-oito-plantas-de-biometano-aptas-a-emitir-certificados-de-origem/",
+      "publishedAt": "2026-11-25T19:57:16.000Z"
     }
   ],
   "tariffFlag": {
