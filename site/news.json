@@ -1,7 +1,34 @@
 {
-  "updatedAt": "2026-11-27T02:41:40.424Z",
+  "updatedAt": "2026-11-27T19:23:06.287Z",
   "ai": false,
   "items": [
+    {
+      "title": "Justiça condena distribuidora a indenizar consumidor de energia solar",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYWM0RWJmWV8xaTI5ajQ5eHp1bUpxWFlXY0NyTWlSQThtQms5U2lGeC1RNURxaVFjUjNROEZ6SVY3WkRianZ6MGcwZW5iR3gycERBSVlHQkF6OXdNbUZsWkRFblRwa1lBMTAwY1JjanAybVczVGdHaG9jdVlRcmtGZy1ydTJPeVUxTXBYUg?oc=5",
+      "publishedAt": "2026-11-27T15:58:21.000Z"
+    },
+    {
+      "title": "UFF inaugura usina solar de R$ 10 milhões para pesquisa em tecnologias fotovoltaicas no RJ",
+      "summary": "Instalada em Iguaba Grande, unidade deverá gerar até 1,5 GWh por ano, equivalente ao consumo médio de 400 residências, e permitirá comparar o…",
+      "category": "tecnologia",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/27/uff-inaugura-usina-solar-de-r-10-milhoes-para-pesquisa-em-tecnologias-fotovoltaicas-no-rj/",
+      "publishedAt": "2026-11-27T14:16:55.000Z"
+    },
+    {
+      "title": "O Brasil aprendeu a gerar energia solar, o próximo desafio é outro: aprender a otimizá-la",
+      "summary": "",
+      "category": "mercado",
+      "region": "BR",
+      "source": "Canal Solar",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNTdvaWpOTE13aDQxT0NwdThJZ1FneGd4T2kwd19kTWFsc0ZGNEpDN29Vb2JwQ0ZpdDJrZk1ISUNFa0FTQmZwcE1MWkstczdDelNsM3BwZzItSHo0d18tSEpKWTZqVDJ2YllRdGZmTnF2UEEtX1JySTlhc3lkTGJlMlNJWHhPZw?oc=5",
+      "publishedAt": "2026-11-27T13:17:43.000Z"
+    },
     {
       "title": "Energia solar é o fim? Só para quem parou no tempo",
       "summary": "",
@@ -21,76 +48,49 @@
       "publishedAt": "2026-11-26T12:31:49.000Z"
     },
     {
-      "title": "Pesquisadores identificam perdas anuais de até 2,28% causadas por ondas em sistemas fotovoltaicos flutuantes",
-      "summary": "Pesquisadores na Noruega aprimoraram um modelo para avaliar o impacto do movimento das ondas sobre o desempenho de sistemas fotovoltaicos…",
-      "category": "tecnologia",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/26/researchers-find-up-to-2-28-annual-wave-induced-losses-in-floating-pv-systems/",
-      "publishedAt": "2026-11-26T10:20:00.000Z"
-    },
-    {
-      "title": "Assegurar abastecimento de módulos solares na UE pode custar US$ 155/kW adicionais",
-      "summary": "Pesquisadores na Áustria identificaram uma capacidade de produção local de módulos solares de 30 GW e taxas de utilização das fábricas superiores…",
-      "category": "precos",
-      "region": "BR",
-      "source": "PV Magazine Brasil",
-      "url": "https://www.pv-magazine-brasil.com/2026/11/26/eu-solar-supply-security-could-come-at-a-155-kw-premium-as-domestic-modules-remain-twice-as-costly-as-chinese-imports/",
-      "publishedAt": "2026-11-26T10:16:00.000Z"
-    },
-    {
-      "title": "Shipping costs can represent up to 20% of the value of solar kits; see how to reduce costs.",
-      "summary": "",
+      "title": "Bulbe terá novo sócio para expandir negócios em geração distribuída",
+      "summary": "Geração distribuída Solar O Conselho Administrativo de Defesa Econômica (Cade) aprovou a entrada de fundos ligados à gestora Riza no capital da…",
       "category": "mercado",
       "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JTFEzalBfYWhDTnlySjIyN0w5aXltSTFyWWhJaFBOQzdaQ2VTVUFrZHRqd1plNmF5VkVzLTJKTFE1cXJDa3pnVnpTWElXVExIZ0Z5dUp5dkpZZUpmY2tYeFhOWlI5NG5RQ1k3QTMtdmRiYlNPT1BWVQ?oc=5",
-      "publishedAt": "2026-11-25T17:38:31.000Z"
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/economia-e-politica/negocios/bulbe-tera-novo-socio-para-expandir-negocios-em-geracao-distribuida/",
+      "publishedAt": "2026-11-27T13:33:26.000Z"
     },
     {
-      "title": "Frete pode representar até 20% do valor de kits solares; veja como reduzir custos",
-      "summary": "",
-      "category": "precos",
+      "title": "Aneel revoga outorgas de 1,7 GW em projetos de energia solar e térmica",
+      "summary": "Usina está localizada no Centro de Referência de Energia Solar de Petrolina (CRESP), da Axia A Agência Nacional de Energia Elétrica (Aneel)…",
+      "category": "regulacao",
       "region": "BR",
-      "source": "Canal Solar",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93NU5ZX3dKT3hkbkVjaFNQWXFKcm1NWmdCcmJWSDEtaVpvN01Ib3lZcm9kdlBHWmx4WUJVZUdtRllQWmNxdTZOSkpUVWk1UXpUTFRmNVVwSWdWMEJVVnB4bGVQR2N5aURIdG5pdzdteFpfTXRn?oc=5",
-      "publishedAt": "2026-11-25T17:38:31.000Z"
+      "source": "MegaWhat",
+      "url": "https://megawhat.uol.com.br/geracao/solar/aneel-revoga-outorgas-de-17-gw-em-projetos-de-energia-solar-e-termica/",
+      "publishedAt": "2026-11-27T12:57:07.000Z"
     },
     {
-      "title": "Justiça nega suspensão e leilões de baterias seguem previstos para dezembro",
+      "title": "Expansão da transmissão demandará R$ 127 bilhões em investimentos até 2036",
+      "summary": "Caderno de Transmissão do PDE 2036 prevê uma expansão de 16% das linhas de transmissão e de 19% na capacidade de transformação.",
+      "category": "mercado",
+      "region": "BR",
+      "source": "PV Magazine Brasil",
+      "url": "https://www.pv-magazine-brasil.com/2026/11/27/expansao-da-transmissao-demandara-r-127-bilhoes-em-investimentos-ate-2036/",
+      "publishedAt": "2026-11-27T18:26:14.000Z"
+    },
+    {
+      "title": "O leilão das baterias e o preço de acreditar nas regras",
       "summary": "",
       "category": "armazenamento",
       "region": "BR",
       "source": "Portal Solar",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnZVc0hHZGR4U184a2NqREpXYmpGQkFXMmNvT00wQWhtTjJTR2YzOGdfT3hmZi1QNEpzTmlobnNKcWxPZFBoelZVLW8zVVpReVM3ZUtGSVpzZ1BxcHkySnZBNEY1blgzczhmbXdjY1h1SjdJLUZfeDZoclpvQUEtSVBmNnprMzNQZzF0eFc2YTg3amI5bUhzaGZrQnE4c0xjNEQ2dFpYLTdkNTI0RTc1ZTVLMzJXeEdzQVY1X3g5Q054cmRhR1djS2JsRVM?oc=5",
-      "publishedAt": "2026-11-25T18:44:24.000Z"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPREoxXzdOVjBTQS1jckl5VkhoZ0ZfTWVHT0lqNXdwN1ZVclRPUWlfMHptQU9iZjNGeWxKd1pscVJBMFE1MGh5Ym8ta3RUem9KVTN6b0tST0ZjR3V4aDFqVVBrWVI0SHJYZHBsZjVJS0xLOVJYZkgtQXBLbmZOMFZhS1lDT01SOFNOdlZnVXQzcm0yME8xZGJRTVZxRzBjbjBSb0tDNW1QeG1wQQ?oc=5",
+      "publishedAt": "2026-11-27T17:43:38.000Z"
     },
     {
-      "title": "CMN reduz taxa do Fundo Clima para leilão de baterias a 3% ao ano",
-      "summary": "BNDES O Conselho Monetário Nacional (CMN) aprovou em reunião desta quinta-feira, 26 de novembro, uma resolução que reduz o custo do financiamento…",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/armazenamento/cmn-reduz-taxa-do-fundo-clima-para-leilao-de-baterias-a-3-ao-ano/",
-      "publishedAt": "2026-11-26T22:54:20.000Z"
-    },
-    {
-      "title": "Belo Monte depende de aval do Ibama para manter vazão reduzida em dezembro",
-      "summary": "UHE Belo Monte /Crédito: Roney Santana A manutenção da operação excepcional da hidrelétrica de Belo Monte, no Pará, com defluência mínima de 100…",
+      "title": "Conta de luz no Cadastro Positivo alcança 7,5 milhões",
+      "summary": "",
       "category": "mercado",
       "region": "BR",
-      "source": "MegaWhat",
-      "url": "https://megawhat.uol.com.br/noticias/belo-monte-depende-de-aval-do-ibama-para-manter-vazao-reduzida-em-dezembro/",
-      "publishedAt": "2026-11-26T19:11:37.000Z"
-    },
-    {
-      "title": "Itaipu Parquetec testa baterias de segunda vida para armazenamento",
-      "summary": "",
-      "category": "armazenamento",
-      "region": "BR",
-      "source": "CanalEnergia",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMG9BcmdETEtkTXRNXzdoYmR3RW9YQmMzYlhQVkVyLVRyTkRNRV84SDNxOWZiVWUwVldRMHlCOEN0MnJUT2NneTlwTFJjN21Xck9QaG1HYmo2OFdpLUhuTVBCY3dKV0d1XzFwaThQRWNORGxwTjlBUlNjaU95dmtDTl82QUR4dHRUN2xXNkZRdWlFUzk5VXFQdV9najRBQ1g0RWZrTkFteGRjUXJVSjFSQnYwX0NOZEk?oc=5",
-      "publishedAt": "2026-11-26T12:02:28.000Z"
+      "source": "Portal Solar",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFA3N0NERWhOS1dJRFNOX0hscVhzOXNVMEVVQ0ZfdGhOTVdxcnlaZjdTZUJyR2NIbkdDQXQwNURUbEphZVUxcVdrMUxKUG91SGplZ09oc3FLdktqcURIbXYyTDNJcjhxMzhXRFNfUUZ0YVZmN2h1QzN1MDc1cmp1QXU3eFl4Y3hKYWxFcldoOFluN3lOMDBMeGl4TTZmRDZFTXZiWk1xblVZdlE0RXpnOFNn?oc=5",
+      "publishedAt": "2026-11-27T13:11:26.000Z"
     }
   ],
   "tariffFlag": {
